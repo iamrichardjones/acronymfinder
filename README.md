@@ -1,4 +1,4 @@
-# acronymfinder
+# Acronym Finder
 
 Exams are the bane of the lives of students. When I was memorising things I often used acronyms to remember. For example
 
