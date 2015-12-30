@@ -16,7 +16,7 @@ public class AcronymMapTest {
         AcronymMap acronymMap = new AcronymMap();
         assertEquals(0, acronymMap.getMap().size());
 
-        acronymMap.add(new AcronymDetail("bac", "banana apple cutting"));
+        acronymMap.add(new AcronymDetail("bac", "banana apple cherry"));
 
         assertEquals(1, acronymMap.getMap().size());
         List<String> next1 = new ArrayList<String>();
@@ -25,13 +25,13 @@ public class AcronymMapTest {
         assertEquals(next1.toString(), "abc", next1.get(0));
         AcronymDetail next = acronymMap.getMap().values().iterator().next();
         assertEquals("bac", next.getAcronym());
-        assertEquals("banana apple cutting", next.getExpandedAcronym());
+        assertEquals("banana apple cherry", next.getExpandedAcronym());
     }
 
     @Test
     public void testGetFromMap () {
         AcronymMap acronymMap = new AcronymMap();
-        AcronymDetail originalInput = new AcronymDetail("bac", "banana apple cutting");
+        AcronymDetail originalInput = new AcronymDetail("bac", "banana apple cherry");
         acronymMap.add(originalInput);
 
         assertNull(acronymMap.getValues("xyz"));
