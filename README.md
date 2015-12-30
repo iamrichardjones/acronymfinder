@@ -6,7 +6,7 @@ Exams are the bane of the lives of students. When I was memorising things I ofte
 
 This is an easy way to remember the colours of the rainbow which are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
 
-It's a fact in life that advertising by brands among other things is a hugely effective way of making people remember slogans.
+It's a fact in life that advertising by brands is a hugely effective way of making people remember slogans.
  
  These can be broken down into acronyms too. Below are some example of very popular slogans
 
