@@ -26,6 +26,6 @@ This project allows you to enters letters that you want to memorise and then it 
 
 TODO:
 * better names for classes
-* AcronymDetail shold return null object and not null
+* AcronymDetail should have a null object version so that AcronymMap (ouch on the name) does not return null but returns this null object
 * create the importer to read from a file
 * create the console (the actual way in for the user)
