@@ -23,3 +23,9 @@ By remembering Nike's slogan I know that the the three items in this list each s
 This does not just relate to slogans too. Song titles could be used to remember among other things. 
 
 This project allows you to enters letters that you want to memorise and then it returns (hopefully) a more memorable acronym to help jog your memory.
+
+TODO:
+* better names for classes
+* AcronymDetail shold return null object and not null
+* create the importer to read from a file
+* create the console (the actual way in for the user)
