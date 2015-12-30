@@ -29,3 +29,4 @@ TODO:
 * AcronymDetail should have a null object version so that AcronymMap (ouch on the name) does not return null but returns this null object
 * create the importer to read from a file
 * create the console (the actual way in for the user)
+* I18N it all
