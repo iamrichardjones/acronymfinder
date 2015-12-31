@@ -4,9 +4,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by jones on 30/12/2015.
- */
 public class AcronymMap {
 
     private final Map<String, AcronymDetail> map = new HashMap<String, AcronymDetail>();
@@ -14,7 +11,8 @@ public class AcronymMap {
     public AcronymDetail getValues(String acronym) {
         char[] charArray = acronym.toCharArray();
         Arrays.sort(charArray);
-        return map.get(new String(charArray));
+        AcronymDetail result = map.get(new String(charArray));
+        return result == null ? AcronymDetail.NULL : result;
     }
 
     public void add(AcronymDetail detail) {
