@@ -26,6 +26,8 @@ This project allows you to enters letters that you want to memorise and then it 
 
 And I could not do a project on mnemonics without referencing [xkcd](https://xkcd.com/992/)
 
+Legal Bit: all slogan and data used in this project is sourced from the internet. I take no responsibility for any errors. Please let me know if there are problems.
+
 TODO:
 * better names for classes
 * create the importer to read from a file
