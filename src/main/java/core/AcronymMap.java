@@ -16,7 +16,7 @@ public class AcronymMap {
     }
 
     public void add(AcronymDetail detail) {
-        char[] charArray = detail.getAcronym().toCharArray();
+        char[] charArray = detail.getAcronym().toUpperCase().toCharArray();
         Arrays.sort(charArray);
         map.put(new String(charArray), detail);
     }

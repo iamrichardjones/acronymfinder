@@ -2,7 +2,7 @@ package core;
 
 public class AcronymDetail {
 
-    public static final AcronymDetail NULL = new AcronymDetail("NULL", "NULL");
+    public static final AcronymDetail NULL = new AcronymDetail(Utils.NULL_STRING, Utils.NULL_STRING);
 
     private final String acronym;
     private final String expandedAcronym;
