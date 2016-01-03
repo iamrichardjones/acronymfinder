@@ -24,6 +24,8 @@ This does not just relate to slogans too. Song titles could be used to remember 
 
 This project allows you to enters letters that you want to memorise and then it returns (hopefully) a more memorable acronym to help jog your memory.
 
+And I could not do a project on mnemonics without referencing xkcd: https://xkcd.com/992/
+
 TODO:
 * better names for classes
 * create the importer to read from a file
