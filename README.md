@@ -27,5 +27,5 @@ This project allows you to enters letters that you want to memorise and then it 
 TODO:
 * better names for classes
 * create the importer to read from a file
-* create the console (the actual way in for the user)
+* return more than one mnemonics (ie a list rather than just one)
 * I18N it all
