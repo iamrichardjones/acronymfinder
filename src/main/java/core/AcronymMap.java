@@ -6,23 +6,23 @@ import java.util.Map;
 
 public class AcronymMap {
 
-    private final Map<String, AcronymDetail> map = new HashMap<String, AcronymDetail>();
+    private final Map<String, MatchingMnemonic> map = new HashMap<String, MatchingMnemonic>();
 
-    public AcronymDetail getValues(String acronym) {
+    public MatchingMnemonic getValues(String acronym) {
         char[] charArray = acronym.toCharArray();
         Arrays.sort(charArray);
-        AcronymDetail result = map.get(new String(charArray));
-        return result == null ? AcronymDetail.NULL : result;
+        MatchingMnemonic result = map.get(new String(charArray));
+        return result == null ? MatchingMnemonic.NULL : result;
     }
 
-    public void add(AcronymDetail detail) {
+    public void add(MatchingMnemonic detail) {
         char[] charArray = detail.getAcronym().toUpperCase().toCharArray();
         Arrays.sort(charArray);
         map.put(new String(charArray), detail);
     }
 
     //for tests
-    public Map<String, AcronymDetail> getMap() {
+    public Map<String, MatchingMnemonic> getMap() {
         return map;
     }
 }

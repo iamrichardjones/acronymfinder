@@ -35,7 +35,7 @@ public class Runner {
     }
 
     private void outputAcronym(String userInput) {
-        AcronymDetail value = acronymMap.getValues(userInput);
+        MatchingMnemonic value = acronymMap.getValues(userInput);
 
         String acronym = value.getAcronym();
         if (Utils.EMPTY_STRING.equals(acronym)) {

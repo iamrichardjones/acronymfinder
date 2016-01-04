@@ -1,4 +1,4 @@
-import core.AcronymDetail;
+import core.MatchingMnemonic;
 import core.AcronymMap;
 import org.junit.Test;
 
@@ -15,14 +15,14 @@ public class AcronymMapTest {
         AcronymMap acronymMap = new AcronymMap();
         assertEquals(0, acronymMap.getMap().size());
 
-        acronymMap.add(new AcronymDetail("bac", "banana apple cherry"));
+        acronymMap.add(new MatchingMnemonic("bac", "banana apple cherry"));
 
         assertEquals(1, acronymMap.getMap().size());
         List<String> next1 = new ArrayList<String>();
         next1.addAll(acronymMap.getMap().keySet());
 
         assertEquals(next1.toString(), "abc", next1.get(0));
-        AcronymDetail next = acronymMap.getMap().values().iterator().next();
+        MatchingMnemonic next = acronymMap.getMap().values().iterator().next();
         assertEquals("bac", next.getAcronym());
         assertEquals("banana apple cherry", next.getExpandedAcronym());
     }
@@ -30,10 +30,10 @@ public class AcronymMapTest {
     @Test
     public void testGetFromMap () {
         AcronymMap acronymMap = new AcronymMap();
-        AcronymDetail originalInput = new AcronymDetail("bac", "banana apple cherry");
+        MatchingMnemonic originalInput = new MatchingMnemonic("bac", "banana apple cherry");
         acronymMap.add(originalInput);
 
-        assertEquals(AcronymDetail.NULL, acronymMap.getValues("xyz"));
+        assertEquals(MatchingMnemonic.NULL, acronymMap.getValues("xyz"));
         assertNotNull(acronymMap.getValues("abc"));
         assertNotNull(acronymMap.getValues("bac"));
         assertNotNull(acronymMap.getValues("bca"));
