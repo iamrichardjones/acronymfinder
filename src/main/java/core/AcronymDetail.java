@@ -9,7 +9,7 @@ public class AcronymDetail {
     private final String origin;
 
     public AcronymDetail(String acronym, String expandedAcronym) {
-        this(acronym, expandedAcronym, Utils.NULL_STRING);
+        this(acronym, expandedAcronym, Utils.UNKNOWN_STRING);
     }
 
     public AcronymDetail(String acronym, String expandedAcronym, String origin) {

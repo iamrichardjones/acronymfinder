@@ -42,7 +42,7 @@ public class Runner {
             System.out.println("Acronym Not Found - sorry");
         }
         else {
-            String answer = String.format("Here's some help: \"%s\"\t\tcan be mapped to\t\"%s\"", acronym, value.getExpandedAcronym());
+            String answer = String.format("Here's some help: \"%s\"\t\tcan be mapped to\t\"%s\"\tOrigin: \t%s", acronym, value.getExpandedAcronym(), value.getOrigin());
             System.out.println(answer);
         }
     }
