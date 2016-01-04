@@ -38,7 +38,7 @@ public class Runner {
         AcronymDetail value = acronymMap.getValues(userInput);
 
         String acronym = value.getAcronym();
-        if (Utils.NULL_STRING.equals(acronym)) {
+        if (Utils.EMPTY_STRING.equals(acronym)) {
             System.out.println("Acronym Not Found - sorry");
         }
         else {
