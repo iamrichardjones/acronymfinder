@@ -6,10 +6,16 @@ public class AcronymDetail {
 
     private final String acronym;
     private final String expandedAcronym;
+    private final String origin;
 
     public AcronymDetail(String acronym, String expandedAcronym) {
+        this(acronym, expandedAcronym, Utils.NULL_STRING);
+    }
+
+    public AcronymDetail(String acronym, String expandedAcronym, String origin) {
         this.acronym = acronym;
         this.expandedAcronym = expandedAcronym;
+        this.origin = origin;
     }
 
     public String getAcronym() {
@@ -18,6 +24,9 @@ public class AcronymDetail {
 
     public String getExpandedAcronym() {
         return expandedAcronym;
+    }
+    public String getOrigin() {
+        return origin;
     }
 
     @Override
