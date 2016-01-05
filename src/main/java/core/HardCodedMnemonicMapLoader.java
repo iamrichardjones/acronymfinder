@@ -4,7 +4,7 @@ public class HardCodedMnemonicMapLoader implements MnemonicMapLoader {
 
     @Override
     public void load(MnemonicMap map) {
-        map.add(new MatchingMnemonic("BbA", "Better by Adobe"));
+        map.add(new MatchingMnemonic("BbA", new MatchingMnemonicDetail("Better by Adobe", "Adobe")));
         map.add(new MatchingMnemonic("Trwnbts", "The road will never be the same"));
         map.add(new MatchingMnemonic("Aaiaw", "Ask about it at work"));
         map.add(new MatchingMnemonic("Wkm", "We know money"));
