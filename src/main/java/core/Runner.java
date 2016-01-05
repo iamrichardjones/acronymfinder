@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 public class Runner {
 
-    private final AcronymMap acronymMap ;
+    private final MnemonicMap mnemonicMap;
 
     public static void main (String... args) {
         new Runner().startProgram();
@@ -16,9 +16,9 @@ public class Runner {
 
     public Runner() {
         //initialise
-        acronymMap = new AcronymMap();
-        HardCodedAcronymMapLoader acronymMapLoader = new HardCodedAcronymMapLoader();
-        acronymMapLoader.load(acronymMap);
+        mnemonicMap = new MnemonicMap();
+        HardCodedMnemonicMapLoader acronymMapLoader = new HardCodedMnemonicMapLoader();
+        acronymMapLoader.load(mnemonicMap);
     }
 
     private void startProgram() {
@@ -35,7 +35,7 @@ public class Runner {
     }
 
     private void outputAcronym(String userInput) {
-        MatchingMnemonic value = acronymMap.getValues(userInput);
+        MatchingMnemonic value = mnemonicMap.getValues(userInput);
 
         String acronym = value.getAcronym();
         if (Utils.EMPTY_STRING.equals(acronym)) {

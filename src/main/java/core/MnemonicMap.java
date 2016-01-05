@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class AcronymMap {
+public class MnemonicMap {
 
     private final Map<String, MatchingMnemonic> map = new HashMap<String, MatchingMnemonic>();
 
