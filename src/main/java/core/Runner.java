@@ -1,5 +1,6 @@
 package core;
 
+import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -35,15 +36,17 @@ public class Runner {
     }
 
     private void outputAcronym(String userInput) {
-        MatchingMnemonic value = mnemonicMap.getValues(userInput);
+        List<MatchingMnemonic> values = mnemonicMap.getValues(userInput);
 
-        String acronym = value.getAcronym();
-        if (Utils.EMPTY_STRING.equals(acronym)) {
+        if (values.isEmpty()) {
             System.out.println("Acronym Not Found - sorry");
         }
         else {
-            String answer = String.format("Here's some help: \"%s\"\t\tcan be mapped to\t\"%s\"\tOrigin: \t%s", acronym, value.getDetail().getExpandedAcronym(), value.getDetail().getOrigin());
-            System.out.println(answer);
+            System.out.format("There are %s matching values%n", values.size());
+            System.out.format("Here's some help%n");
+            for (MatchingMnemonic value : values) {
+                System.out.format("\"%s\"\t\tcan be mapped to\t\"%s\"\tOrigin: \t%s", value.getAcronym(), value.getDetail().getExpandedAcronym(), value.getDetail().getOrigin());
+            }
         }
     }
 }

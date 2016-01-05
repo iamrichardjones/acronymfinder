@@ -1,28 +1,34 @@
 package core;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class MnemonicMap {
 
-    private final Map<String, MatchingMnemonic> map = new HashMap<String, MatchingMnemonic>();
+    private final Map<String, List<MatchingMnemonic>> map = new HashMap<>();
 
-    public MatchingMnemonic getValues(String acronym) {
+    public List<MatchingMnemonic> getValues(String acronym) {
         char[] charArray = acronym.toUpperCase().toCharArray();
         Arrays.sort(charArray);
-        MatchingMnemonic result = map.get(new String(charArray));
-        return result == null ? MatchingMnemonic.NULL : result;
+        List<MatchingMnemonic> result = map.get(new String(charArray));
+        return result == null ? new ArrayList<MatchingMnemonic>() : result;
     }
 
     public void add(MatchingMnemonic detail) {
         char[] charArray = detail.getAcronym().toUpperCase().toCharArray();
         Arrays.sort(charArray);
-        map.put(new String(charArray), detail);
+        String key = new String(charArray);
+        if (map.get(key) == null) {
+            List<MatchingMnemonic> list = new ArrayList<>();
+            list.add(detail);
+            map.put(key, list);
+        }
+        else {
+            map.get(key).add(detail);
+        }
     }
 
     //for tests
-    public Map<String, MatchingMnemonic> getMap() {
+    public Map<String, List<MatchingMnemonic>> getMap() {
         return map;
     }
 }
