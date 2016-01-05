@@ -9,7 +9,7 @@ public class AcronymMap {
     private final Map<String, MatchingMnemonic> map = new HashMap<String, MatchingMnemonic>();
 
     public MatchingMnemonic getValues(String acronym) {
-        char[] charArray = acronym.toCharArray();
+        char[] charArray = acronym.toUpperCase().toCharArray();
         Arrays.sort(charArray);
         MatchingMnemonic result = map.get(new String(charArray));
         return result == null ? MatchingMnemonic.NULL : result;

@@ -1,5 +1,5 @@
-import core.MatchingMnemonic;
-import core.AcronymMap;
+package core;
+
 import org.junit.Test;
 
 import java.util.ArrayList;
@@ -21,10 +21,11 @@ public class AcronymMapTest {
         List<String> next1 = new ArrayList<String>();
         next1.addAll(acronymMap.getMap().keySet());
 
-        assertEquals(next1.toString(), "abc", next1.get(0));
+        assertEquals(next1.toString(), "ABC", next1.get(0));
         MatchingMnemonic next = acronymMap.getMap().values().iterator().next();
         assertEquals("bac", next.getAcronym());
-        assertEquals("banana apple cherry", next.getExpandedAcronym());
+        assertEquals("banana apple cherry", next.getDetail().getExpandedAcronym());
+        assertEquals(Utils.UNKNOWN_STRING, next.getDetail().getOrigin());
     }
 
     @Test
