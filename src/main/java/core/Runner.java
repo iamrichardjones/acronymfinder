@@ -45,7 +45,7 @@ public class Runner {
             System.out.format("There are %s matching values%n", values.size());
             System.out.format("Here's some help%n");
             for (MatchingMnemonic value : values) {
-                System.out.format("\"%s\"\t\tcan be mapped to\t\"%s\"\tOrigin: \t%s", value.getAcronym(), value.getDetail().getExpandedAcronym(), value.getDetail().getOrigin());
+                System.out.format("\"%s\"\t\tcan be mapped to\t\"%s\"\tOrigin: \t%s%n", value.getAcronym(), value.getDetail().getExpandedAcronym(), value.getDetail().getOrigin());
             }
         }
     }
