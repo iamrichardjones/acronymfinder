@@ -1,6 +1,6 @@
-# Acronym Finder
+# Mnemonic Revision Helper
 
-Exams are the bane of the lives of students. When I was memorising things I often used acronyms to remember. For example
+Exams are the bane of the lives of students. When I was memorising things I often used mnemonics to remember. For example
 
 *Richard Of York Gave Battle In Vain*
 
@@ -8,7 +8,7 @@ This is an easy way to remember the colours of the rainbow which are Red, Orange
 
 It's a fact in life that advertising by brands is a hugely effective way of making people remember slogans.
  
- These can be broken down into acronyms too. Below are some example of very popular slogans
+ These can be broken down into mnemonics too. Below are some example of very popular slogans
 
 |Slogan| Company|
 |-------|-------|
@@ -22,7 +22,7 @@ By remembering Nike's slogan I know that the the three items in this list each s
 
 This does not just relate to slogans too. Song titles could be used to remember among other things. 
 
-This project allows you to enters letters that you want to memorise and then it returns (hopefully) a more memorable acronym to help jog your memory.
+This project allows you to enters letters that you want to memorise and then it returns (hopefully) a more memorable mnemonic to help jog your memory.
 
 And I could not do a project on mnemonics without referencing [xkcd](https://xkcd.com/992/)
 
