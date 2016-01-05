@@ -42,7 +42,7 @@ public class Runner {
             System.out.println("Acronym Not Found - sorry");
         }
         else {
-            System.out.format("There are %s matching values%n", values.size());
+            System.out.format("There %s %s matching values%n", values.size() >1 ? "are" : "is", values.size());
             System.out.format("Here's some help%n");
             for (MatchingMnemonic value : values) {
                 System.out.format("\"%s\"\t\tcan be mapped to\t\"%s\"\tOrigin: \t%s%n", value.getAcronym(), value.getDetail().getExpandedAcronym(), value.getDetail().getOrigin());
