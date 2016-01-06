@@ -29,7 +29,6 @@ And I could not do a project on mnemonics without referencing [xkcd](https://xkc
 Legal Bit: all slogan and data used in this project is sourced from the internet. I take no responsibility for any errors. Please let me know if there are problems.
 
 TODO:
-* better names for classes (on-going)
 * create the importer to read from a file
-* return more than one mnemonics (ie a list rather than just one)
 * I18N it all
+* create music song titles for mnemonics etc
