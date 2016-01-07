@@ -10,9 +10,9 @@ It's a fact in life that advertising by brands is a hugely effective way of maki
  
  These can be broken down into mnemonics too. Below are some example of very popular slogans
 
-|Slogan| Company|
+|Slogan|Company|
 |-------|-------|
-|The ultimate driving machine | BMW|
+|The ultimate driving machine |BMW|
 |The world's favourite airline.  |British Airways|
 |It's good to talk               |British Telecom|
 |Just Do It      |Nike|
