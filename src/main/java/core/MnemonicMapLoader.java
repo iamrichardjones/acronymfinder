@@ -2,5 +2,5 @@ package core;
 
 public interface MnemonicMapLoader {
 
-    void load(MnemonicMap map) throws Exception;
+    void load(MnemonicMap map);
 }
