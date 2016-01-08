@@ -47,8 +47,8 @@ public class Runner {
         System.out.println("************************************************************************");
         System.out.println("** Welcome to my Mnemonic Revision Helper                             **");
         System.out.println("** Please see my GITHUB account at https://github.com/iamrichardjones **");
-        System.out.println("** Please enter mnemonics that you want to remember below. To exit    **");
-        System.out.println("** press cntrl-C or cmd-c                                             **");
+        System.out.println("** Please enter mnemonics that you want to remember below.            **");
+        System.out.println("** To exit press cntrl-C or cmd-c                                     **");
         System.out.println("************************************************************************");
     }
 
