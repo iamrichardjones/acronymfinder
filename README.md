@@ -33,7 +33,7 @@ All data used in this project is sourced from the internet. I take no responsibi
 1. Clone repository
 2. Run gradle clean build 
 3. Run gradle installDist
-3. installdist will create the distribution
+3. installDist will create the distribution
 4. Find /build/install/MnemonicRevisionHelper/bin
 5. Run the bat or shell file (eg MnemonicRevisionHelper.bat
 
