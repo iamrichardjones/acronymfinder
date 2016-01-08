@@ -8,7 +8,7 @@ public class MatchingMnemonic {
     private final MatchingMnemonicDetail detail;
 
     public MatchingMnemonic(String acronym, String expandedAcronym) {
-        this(acronym, new MatchingMnemonicDetail(expandedAcronym, Utils.UNKNOWN_STRING));
+        this(acronym, new MatchingMnemonicDetail(expandedAcronym, Utils.UNKNOWN_STRING, Utils.UNKNOWN_STRING));
     }
 
     public MatchingMnemonic(String acronym, MatchingMnemonicDetail detail) {

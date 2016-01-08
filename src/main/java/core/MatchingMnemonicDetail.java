@@ -5,10 +5,12 @@ public class MatchingMnemonicDetail {
 
     private final String expandedAcronym;
     private final String origin;
+    private final String category;
 
-    public MatchingMnemonicDetail(String expandedAcronym, String origin) {
+    public MatchingMnemonicDetail(String expandedAcronym, String origin, String category) {
         this.expandedAcronym = expandedAcronym;
         this.origin = origin;
+        this.category = category;
     }
 
     public String getExpandedAcronym() {
@@ -17,6 +19,10 @@ public class MatchingMnemonicDetail {
 
     public String getOrigin() {
         return origin;
+    }
+
+    public String getCategory() {
+        return category;
     }
 
     @Override
@@ -28,6 +34,7 @@ public class MatchingMnemonicDetail {
 
         if (!expandedAcronym.equals(that.expandedAcronym)) return false;
         if (!origin.equals(that.origin)) return false;
+        if (!category.equals(that.category)) return false;
 
         return true;
     }

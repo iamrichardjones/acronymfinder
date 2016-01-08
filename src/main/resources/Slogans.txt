@@ -1,0 +1,518 @@
+Slogan|Juicy Juice|100% juice for 100% kids|1jf1k
+Slogan|H.J. Heinz|57 varieties|5v
+Slogan|Ivory Soap|9944% pure|9p
+Slogan|Listerine|Always a bridesmaid, but never a bride|Aabbnab
+Slogan|Cadbury’s Milk Tray|And All because the lady loves milk tray|AAbtllmt
+Slogan|Aflac|Ask about it at work|Aaiaw
+Slogan|Kraft|And America spells cheeseK-R-A-F-T|AAsc
+Slogan|Bisto|Ah! Bisto|AB
+Slogan|Bisto|Ah, Bisto!|AB
+Slogan|Harley Davidson|American by birth Rebel by choice|AbbRbc
+Slogan|Harley Davidson|American by birth, rebel by choice|Abbrbc
+Slogan|California Almond Growers|A can a week, that’s all we ask|Acawtawa
+Slogan|De Beers|A diamond is forever|Adif
+Slogan|Roto-Rooter|Away go troubles down the drain|Agtdtd
+Slogan|Ace Hardware|Ace is the place with the helpful hardware man|Aitpwthhm
+Slogan|Brylcreem|A little dab’ll do ya|Alddy
+Slogan|Wal-Mart|Always low prices Always|AlpA
+Slogan|Mars|A Mars a day helps you work, rest and play|AMadhywrap
+Slogan|Jell-O|America’s most famous dessert|Amfd
+Slogan|The Mail on Sunday|A newspaper, not a snoozepaper|Annas
+Slogan|Chesterfield Cigarettes|A silly millimeter longer|Asml
+Slogan|Nikon|At the heart of the image|Athoti
+Slogan|Skoal|Always there in a pinch|Atiap
+Slogan|Packard|Ask the man who owns one|Atmwoo
+Slogan|The New York Times|All the news that’s fit to print|Atntftp
+Slogan|Tyco|A vital part of your world|Avpoyw
+Slogan|Cadbury’s Fruit & Nut|Are you a cadbury’s Fruit & Nut caase?|AyacF&Nc
+Slogan|Dial Soap|Aren’t you glad you use Dial? Don’t you wish everybody did?|AygyuDDywed
+Slogan|Yahoo! Personals|Believe|B
+Slogan|Gerber|Babies are our business|Baob
+Slogan|U.S. Army|Be all that you can be|Batycb
+Slogan|Adobe|Better by Adobe|BbA
+Slogan|Lay’s|Betcha can’t eat just one|Bcejo
+Slogan|Zurich|Because Change Happens|BCH
+Slogan|Ford|Built for the road ahead|Bftra
+Slogan|National Cattlemen’s Beef Association|Beef It’s what’s for dinner|BIwfd
+Slogan|L’Oréal|Because I’m worth it|BIwi
+Slogan|Calvin Klein|Between love and madness lies obsession|Blamlo
+Slogan|DuPont|Better living through chemistry|Bltc
+Slogan|Heinz|Beanz means Heinz|BmH
+Slogan|Wheaties|Breakfast of champions|Boc
+Slogan|Nestles Butterfinger|Break out of the ordinary|Booto
+Slogan|Best Foods (Hellmann’s Mayonnaise)|Bring out the Best Foods and bring out the best|BotBFabotb
+Slogan|Sunkist|Better snacking|Bs
+Slogan|Michelin|Because so much is riding on your tires|Bsmiroyt
+Slogan|BOSE|Better sound through research|Bstr
+Slogan|Cadillac|Break through|Bt
+Slogan|American Dairy Association|Behold the power of cheese|Btpoc
+Slogan|Bayer Aspirin|Bayer works wonders|Bww
+Slogan|Nescafe Neighbour’s envy, owner’s pride|Coffee at its best|Caib
+Slogan|Pepsi|Come alive! You’re in the Pepsi generation|CaYitPg
+Slogan|DHL|Competition Bad for them Great for you|CBftGfy
+Slogan|EA |Challenge everything|Ce
+Slogan|OneTouch|Changes everything|Ce
+Slogan|Toshiba|Choose freedom|Cf
+Slogan|Philip Morris|Call for Philip Morris|CfPM
+Slogan|Coca-Cola|Coke is it!|Cii
+Slogan|Felix|Cats like Felix, like Felix|ClFlF
+Slogan|Pacific Southwest Airlines|Catch our smile|Cos
+Slogan|Nokia|Connecting people|Cp
+Slogan|Coca-Cola|Coca-Cola refreshes you best|Cryb
+Slogan|Smart|Children’s shoes have far to go|Cshftg
+Slogan|Forbes|Capitalist tool|Ct
+Slogan|Sherwin Williams|Cover the earth|Cte
+Slogan|Cotton Incorporated|Cotton The fabric of our lives|CTfool
+Slogan|Calgon Toiletries|Calgon, take me away|Ctma
+Slogan|Marlboro|Come to Marlboro Country|CtMC
+Slogan|General Foods|Celebrate the moments of your life|Ctmoyl
+Slogan|Lucent Technologies|Creating value through true convergence|Cvttc
+Slogan|Crisco Vegetable Shortening|Cooks who know trust Crisco|CwktC
+Slogan|Verizon Wireless|Can you hear me now?Good!|Cyhmn
+Slogan|Superdream|Dream Bigger|DB
+Slogan|Google|Don’t be Evil|DbE
+Slogan|Haig Scotch Whiskey|Don’t be vague, ask for Haig|DbvafH
+Slogan|Jaguar|Don’t dream it Drive it|DdiDi
+Slogan|GLAD|Don’t get mad Get GLAD|DgmGG
+Slogan|Thomas Cook|Don’t just book it Thomas Cook it|DjbiTCi
+Slogan|Expedia.com|Don’t just travel Travel right|DjtTr
+Slogan|American Express|Don’t leave home without it|Dlhwi
+Slogan|American Express|Do more|Dm
+Slogan|Clairol|Does she or doesn’t she?|Dsods
+Slogan|McDonald’s|Did somebody say McDonald’s?|DssM
+Slogan|Mountain Dew|Do the Dew|DtD
+Slogan|Volkswagen|Drivers wanted|Dw
+Slogan|Alpo Dog Food|Doesn’t your dog deserve Alpo?|DyddA
+Slogan|Macleans|Did you Maclean you teeth today|DyMytt
+Slogan|Wrigley’s Doublemint Gum|Double your pleasure, double your fun|Dypdyf
+Slogan|Coca-Cola| Enjoy|E
+Slogan|Dell Computer|Easy as Dell|EaD
+Slogan|Subway|Eat fresh|Ef
+Slogan|Friends of the Animals|Extinct is forever|Eif
+Slogan|Kay Jewelers|Every kiss begins with Kay|EkbwK
+Slogan|Tesco|Every little helps|Elh
+Slogan|Target|Expect more Pay less|EmPl
+Slogan|Salesforce.com|Experience success|Es
+Slogan|Cisco Systems|Empowering the Internet generation|EtIg
+Slogan|Nissan|Enjoy the ride|Etr
+Slogan|Miller Lite|Everything you always wanted in a beer And less|EyawiabAl
+Slogan|Philips|Express yourself every day|Eyed
+Slogan|Sanka|Everything you love about coffee|Eylac
+Slogan|Volkswagen|Fahrvergnugen|F
+Slogan|Fox News|Fair and balanced|Fab
+Slogan|Fosters Australian Beer|Fosters  Australian for beer|FAfb
+Slogan|World Wildlife Fund|For a living planet|Falp
+Slogan|Budweiser|For all you do, this Bud’s for you|FaydtBfy
+Slogan|U.S. Dept. of Transportation|Friends don’t let friends drive drunk|Fdlfdd
+Slogan|MasterCard|For Everything Else, There’s MasterCard|FEETM
+Slogan|The Economist|Free enterprise with every copy|Fewec
+Slogan|The Economist|Free enterprise with every issue|Fewei
+Slogan|Planter’s Peanuts|Famously fresh|Ff
+Slogan|Anacin|For fast, fast, fast relief|Ffffr
+Slogan|Kentucky Fried Chicken|Finger-lickin’ good!|Fg
+Slogan|Ford|Ford has a better idea|Fhabi
+Slogan|Brim Decaffeinated Coffee|Fill it to the rim with Brim|FittrwB
+Slogan|Volvo|For life|Fl
+Slogan|Bic|Flick my Bic|FmB
+Slogan|Denim Aftershave|For men who don’t have to try too hard|Fmwdhttth
+Slogan|CameraWorld|For negative people|Fnp
+Slogan|Schlotzky’s Deli|Funny name Serious sandwich|FnSs
+Slogan|Marathon Petroleum | Fueling the American Spirit|FtAS
+Slogan|United Airlines|Fly the friendly skies|Ftfs
+Slogan|United Airlines|Fly the friendly skies (of United)|Ftfs(U
+Slogan|Hamm’s Beer|From the land of sky-blue waters|Ftlosw
+Slogan|Fortune | For the men in charge of change|Ftmicoc
+Slogan|The Sharper Image|For the person who has everything, we have everything else|Ftpwhewhee
+Slogan|Cascade|For virtually spotless dishes|Fvsd
+Slogan|Jaguar|Grace…pace…pace|G
+Slogan|U.S. Forest Service|Give a hoot, don’t pollute|Gahdp
+Slogan|Prudential|Get a piece of the rock|Gapotr
+Slogan|Guinness|Guinness is good for you|Gigfy
+Slogan|California Milk Processor Board|Got milk?|Gm
+Slogan|Kit-Kat Bar|Give me a break! Give me a break!|GmabGmab
+Slogan|Royal Caribbean Cruise Lines|Get out there|Got
+Slogan|Jaguar|Grace Space Pace|GSP
+Slogan|Toyota|Get the feeling|Gtf
+Slogan|Fancy Feast|Good taste is easy to recognize|Gtietr
+Slogan|Pace Picante Sauce|Grab the Southwest by the bottle|GtSbtb
+Slogan|Maxwell House|Good to the last drop|Gttld
+Slogan|Egg Marketing Board|Go to work on an egg|Gtwoae
+Slogan|WINS Radio, New York|Give us 20 minutes and we'll give you the world|Gu2mawgytw
+Slogan|Cheez-It|Get your own box|Gyob
+Slogan|Kit Kat|Have a break, have a Kitkat|HabhaK
+Slogan|Coca-Cola|Have a coke and smile|Hacas
+Slogan|Wonderbra|Hello Boys|HB
+Slogan|Fiat Strada|Hand built by robots|Hbbr
+Slogan|Crest|Healthy, beautiful smiles for life|Hbsfl
+Slogan|Swanson Hungry-Man|How do you feed a hungry man?|Hdyfahm
+Slogan|Rolaids|How do you spell relief? R-O-L-A-I-D-S|HdysrR
+Slogan|Taco Bell|Head for the border|Hftb
+Slogan|Snickers|Hungry? Grab a Snickers|HGaS
+Slogan|Hawaiian Punch|Hey! How about a nice Hawaiian Punch?|HHaanHP
+Slogan|Hamlet|Happiness is a cigar called Hamlet|HiaccH
+Slogan|Burder King|Have it your way|Hiyw
+Slogan|Life Cereal|Hey, Mikeyhe likes it!|HMli
+Slogan|Victor Talking Machine Co.|His master’s voice|Hmv
+Slogan|Hertz|Hertz puts you in the driver’s seat|Hpyitds
+Slogan|Heineken|Heineken refreshes the parts other beers cannot reach|Hrtpobcr
+Slogan|Bank of America|Higher standards|Hs
+Slogan|Bristol-Myers Squibb Co.|Hope, triumph, and the miracle of medicine|Htatmom
+Slogan|Lowenbrau Beer|Here’s to good friendsTonight, tonight, let it be Lowenbrau|HtgftlibL
+Slogan|Toshiba|Hello Tosh, gotta Toshiba?|HTgT
+Slogan|Ricoh|How well do you share?|Hwdys
+Slogan|3M|Innovation|I
+Slogan|Hewlett Packard|Invent|I
+Slogan|Peperami|It’s a bit of an animal|Iaboaa
+Slogan|Guidant|It’s a great time to be alive|Iagttba
+Slogan|Qualcast Concord|It’s a lot less bovver than a hover|Iallbtah
+Slogan|Dr Pepper|I’m a pepper, he’s a pepper, she’s a pepper|Iaphapsap
+Slogan|Skoda|It’s a skoda Honest|IasH
+Slogan|Band-Aids|I am stuck on Band-Aids cause Band-Aids stuck on me|IasoBcBsom
+Slogan|General Electric|Imagination at work|Iaw
+Slogan|Reebok|I am what I am|IawIa
+Slogan|Carling Black Label|I best he drinks Carling’s Black Label|IbhdCBL
+Slogan|Chiquita Banana|I’m Chiquita Banana and I’ve come to say  bananas have to ripen in a certain way|ICBaIctsbhtriacw
+Slogan|Enjoli|I can bring home the bacon|Icbhtb
+Slogan|Alka-Seltzer|I can’t believe I ate the whole thing|IcbIatwt
+Slogan|V-8|I coulda had a V-8!|IchaV
+Slogan|Chrysler|Inspiration comes standard|Ics
+Slogan|Ronseal|It Does Exactly What it Says on the Tin|IDEWiSotT
+Slogan|VISA|It’s everywhere you want to be|Ieywtb
+Slogan|LifeCall|I’ve fallen and I can’t get up|IfaIcgu
+Slogan|Panasonic|Ideas for Life|IfL
+Slogan|Safeway|Ingredients for life|Ifl
+Slogan|British Telecom|It’s good to talk|Igtt
+Slogan|Red Bull|It Gives You Wings!|IGYW
+Slogan|Tylenol|It’s hospital recommended|Ihr
+Slogan|Intel|Intel Inside|II
+Slogan|The Independent|It is Are you?|IiAy
+Slogan|Unisys|Imagine it Done|IiD
+Slogan|Tide|If it’s gotta be clean, it’s gotta be Tide|IigbcigbT
+Slogan|Intel|Intel inside logo|Iil
+Slogan|Memorex|Is it live or is it Memorex?|IiloiiM
+Slogan|Adidas |Impossible is Nothing|IiN
+Slogan|SuperSoil|If it’s not SuperSoil, it’s just plain old dirt|IinSijpod
+Slogan|Radio Times|If it's on, it's in|Iioii
+Slogan|Clairol|If I’ve only one life, let me live it as a blonde|IIoollmliaab
+Slogan|Burger King|It just tastes better|Ijtb
+Slogan|Energizer|It Keeps Going, and Going, and Going…|IKGaGaG
+Slogan|McDonalds |I’m loving it|Ili
+Slogan|Remington|I liked it so much I bought the company|IlismIbtc
+Slogan|New York|I love New York|IlNY
+Slogan|Coca-Cola|I’d like to teach the world to sing in perfect harmony|Iltttwtsiph
+Slogan|Toyota|I love what you do for meToyota|Ilwydfm
+Slogan|Miller Beer|It’s Miller time!|IMt
+Slogan|U.S. Navy|It’s not a job It’s an adventure|InajIaa
+Slogan|Florida Orange Juice Growers Association|It’s not just for breakfast anymore|Injfba
+Slogan|Chiffon Margarine|It’s not nice to fool Mother Nature|InntfMN
+Slogan|Oldsmobile|It’s not your father’s Oldsmobile anymore|InyfOa
+Slogan|Tareyton Cigarettes|I’d rather fight than switch|Irfts
+Slogan|Solex |It’s Style|IS
+Slogan|Shake and Bake|It’s Shake and Bake, and I helped|ISaBaIh
+Slogan|Slinky|It’s slinky, it’s slinky, oh what a wonderful toy|Isisowawt
+Slogan|Timex|It takes a licking and keeps on ticking|Italakot
+Slogan|Perdue|It takes a tough man to make a tender chicken|Itatmtmatc
+Slogan|KPMG|It’s time for clarity|Itfc
+Slogan|Coca-Cola|It’s the real thing|Itrt
+Slogan|IBM|I think therefore IBM|IttI
+Slogan|Green Giant|In the valley of the jolly--ho-ho-ho!--Green Giant|ItvotjG
+Slogan|Camel|I’d walk a mile for a camel|Iwamfac
+Slogan|T. Rowe Price|Invest with confidence|Iwc
+Slogan|Oscar Mayer|I wish I were an Oscar Mayer Wiener|IwIwaOMW
+Slogan|Maypo|I want my Maypo|IwmM
+Slogan|Courage Tavern Ale|It's what your right arm's for|Iwyraf
+Slogan|Miller Beer|If you’ve got the time, we’ve got the beer|Iygttwgtb
+Slogan|Coty Perfume|If you want to capture someone’s attention, whisper|Iywtcsaw
+Slogan|Hat Council|If you want to get ahead, get a hat|Iywtgagah
+Slogan|Jack in the Box|Jack’s back!|Jb
+Slogan|Nike|Just do it|Jdi
+Slogan|Diet Coke|Just for the fun of it, Diet Coke|JftfoiDC
+Slogan|Diet Coke|Just for the taste of it, Diet Coke|JfttoiDC
+Slogan|Jell-O|Jell-O makes me mellow and the wiggle makes me giggle|Jmmmatwmmg
+Slogan|Energizer|Keeps going and going and going|Kgagag
+Slogan|Kix Cereal|Kid tested Mother approved|KtMa
+Slogan|Palmolive Soap|Keep that schoolgirl complexion|Ktsc
+Slogan|State Farm|Like a good neighbor, State Farm is there|LagnSFit
+Slogan|Chevy Trucks|Like a rock|Lar
+Slogan|Playtex Cross-Your-Heart Bra|Lifts and separates|Las
+Slogan|Dannon Yogurt|Love it for life|Lifl
+Slogan|PlayStation | Live in your world Play in ours|LiywPio
+Slogan|Bissell|Life’s messy Clean it up!|LmCiu
+Slogan|Crest|Look, Ma, no cavities!|LMnc
+Slogan|APC|Legendary reliability|Lr
+Slogan|Citi|Live richly|Lr
+Slogan|Gillette|Look sharp, feel sharp|Lsfs
+Slogan|Lucky Strike|Lucky Strike means fine tobacco|LSmft
+Slogan|Pepsi Cola|Lipsmackin’ thirstquenchin’ acetastin’ motivatin’ goodbuzzin’ cooltalkin’ highwalkin’ fastlivin’ vergivin’coolfizzin’ Pepsi|LtamgchfvP
+Slogan|Michelob Ultra|Lose the carbs Not the taste|LtcNtt
+Slogan|Greyhound|Leave the driving to us|Ltdtu
+Slogan|Muller|Lick the lid of llife|Ltlol
+Slogan|Yellow Pages|Let your fingers do the walking|Lyfdtw
+Slogan|Sony |Make Believe|MB
+Slogan|Oscar Mayer|My bologna has a first name, it’s O-S-C-A-R|MbhafniO
+Slogan|Mr. Clean|Mr Clean will clean your whole house and everything that’s in it|MCwcywhaetii
+Slogan|Lucky Charms|Magically delicious|Md
+Slogan|Snapple|Made from the best stuff on Earth|MftbsoE
+Slogan|Milk Marketing Board|Milk’s gotta lotta bottle|Mglb
+Slogan|Merrill-Lynch|Merrill-Lynch is bullish on America|MiboA
+Slogan|M&Ms|Melts in your mouth, not in your hands|Miymniyh
+Slogan|Merrill Lynch|Merrill Lynch is bullish on America|MLiboA
+Slogan|American Express|My life My card|MlMc
+Slogan|Campbell’s Soup|M’m! M’m! Good!|MMG
+Slogan|MGM|MGM means great movies|Mmgm
+Slogan|Meow Mix (Ralston)|Meow, meow, meow, meow|Mmmm
+Slogan|Quiznos|M’m, m’m, m’m, m’m, m’mtoasty!|Mmmmm
+Slogan|Alka-Seltzer|Mama mia, thatsa spicy meatball|Mmtsm
+Slogan|Maybelline|Maybe she’s born with it Maybe it’s Maybelline|MsbwiMiM
+Slogan|NBC|Must see TV|MsT
+Slogan|Vodafone|Make the most of now|Mtmon
+Slogan|Geritol|My wife, I think I’ll keep her|MwItIkh
+Slogan|Motrin|Medicine with muscle|Mwm
+Slogan|Irish Spring Soap|Manly yes, but I like it, too|MybIlit
+Slogan|Calvin Klein Jeans|Nothing comes between me and my Calvins|NcbmamC
+Slogan|Save The Children|No child born to die|Ncbtd
+Slogan|Kentucky Fried Chicken|Nobody does chicken like KFC|NdclK
+Slogan|Sara Lee Foods|Nobody doesn’t like Sara Lee|NdlSL
+Slogan|Audi|Never follow|Nf
+Slogan|Financial Times|No FT, no comment|NFnc
+Slogan|Nationwide Insurance|Nationwide is on your side|Nioys
+Slogan|John Lewis|Never Knowingly Undersold|NKU
+Slogan|Gillette Dry idea|Never let em see you sweat|Nlesys
+Slogan|Johnson’s Baby Shampoo|No more tears|Nmt
+Slogan|Nestles|N-E-S-T-L-E-S, Nestles makes the very bestchocolate|NNmtvb
+Slogan|Outback Steakhouse|No rules Just right|NrJr
+Slogan|John Deere|Nothing runs like a Deere|NrlaD
+Slogan|Electrolux|Nothing sucks like an Electrolux|NslaE
+Slogan|Pillsbury|Nothin’ says lovin’ like somethin’ from the oven|Nsllsfto
+Slogan|SPRINT PCS|Now, that’s better|Ntb
+Slogan|Jaguar | Own a Jaguar at a price of a car|OaJaapoac
+Slogan|FannieMae|Our business is the American dream|ObitAd
+Slogan|MorganStanley|One client at a time|Ocaat
+Slogan|Nine Lives Cat Food|Only fit for a king Nine Lives|OffakNL
+Slogan|Coca-Cola| Open Happiness|OH
+Slogan|Ore-Ida|Ore-Ida! It’s all-righta!|OIa
+Slogan|Maytag Appliances|Our repairmen are the loneliest guys in town|Oratlgit
+Slogan|U.S. Forest Service|Only you can prevent forest fires|Oycpff
+Slogan|Sprite|Obey your thirst|Oyt
+Slogan|Esso|Put a Tiger in your tank|PaTiyt
+Slogan|Aston Martin | Power, beauty and soul|Pbas
+Slogan|Blogger | Push button publishing|Pbp
+Slogan|Ivory Soap|Pure clean, pure Ivory|PcpI
+Slogan|C&H|Pure cane sugar from Hawaii|PcsfH
+Slogan|Charmin|Please don’t squeeze the Charmin|PdstC
+Slogan|Pepperidge Farm|Pepperidge Farm remembers|PFr
+Slogan|Mazda|Passion for the road|Pftr
+Slogan|Pepsi|Pepsi, for those who think young|Pftwty
+Slogan|Pepsi|Pepsi-Cola hits the spot|Phts
+Slogan|Pepsi|Pepsi hits the spot|Phts
+Slogan|Fisher-Price|Play Laugh Grow|PLG
+Slogan|Grey Poupon|Pardon me, do you have any Grey Poupon?|PmdyhaGP
+Slogan|Alka-Seltzer|Plop plop, fizz fizz, oh what a relief it is|Ppffowarii
+Slogan|Alka Seltzer|Plop, plop, fizz, fizz, oh what a relief it is Plink, plink, fizz, fizz|PpffowariiPpff
+Slogan|Holiday Inn|Pleasing people the world over|Pptwo
+Slogan|Pears Soap|Preparing to be a beautiful lady|Ptbabl
+Slogan|Carlsberg|Probably the best beer in the world|Ptbbitw
+Slogan|National Pork Board|Pork The other white meat|PTowm
+Slogan|Pepsi|PepsiŃfor those who think young|Ptwty
+Slogan|Ernst & Young|Quality in everything we do|Qiewd
+Slogan|Ford|Quality is job one|Qijo
+Slogan|Levis|Quality never goes out of style|Qngoos
+Slogan|Wisk Laundry Detergent|Ring around the collar|Ratc
+Slogan|Imperial Leather|Rare but good|Rbg
+Slogan|Stella Artois|Reassuringly Expensive|RE
+Slogan|FedEx|Relax, it’s FedEx|RiF
+Slogan|RAID|RAID kills bugs dead|Rkbd
+Slogan|AT&T|Reach out and touch someone|Roats
+Slogan|DePuy Orthopedics|Restoring the joy of motion|Rtjom
+Slogan|Qwest|Ride the light|Rtl
+Slogan|Rice-a-Roni|Rice-a-Roni, the San Francisco treat|RtSFt
+Slogan|Sure|Raise your hand if you’re sure|Ryhiys
+Slogan|Schweppes|SchhhYou-Know-Who|S
+Slogan|Panasonic|Slightly ahead of its time|Saoit
+Slogan|Kellogg’s Smart Start|Start aging smart|Sas
+Slogan|Kellogg’s Rice Krispies|Snap! Crackle! pop!|SCp
+Slogan|Starkist Tuna|Sorry, Charlie Starkist wants tuna that tastes good, not tuna with good taste|SCSwtttgntwgt
+Slogan|Red Lobster | Seafood Differently|SD
+Slogan|BMW|Sheer driving pleasure|Sdp
+Slogan|Secret Deodorant|Strong enough for a man, but made for a woman|Sefambmfaw
+Slogan|IBM|Solutions for a small planet|Sfasp
+Slogan|Singapore Airlines|Singapore girl, you’re a great way to fly|Sgyagwtf
+Slogan|Tag Heuer | Success It’s a Mind Game|SIaMG
+Slogan|FTD|Say it with flowers|Siwf
+Slogan|Walmart|Save Money Live Better|SMLB
+Slogan|Kodak | Share moments Share life|SmSl
+Slogan|U.S. Army|Some of our best men are women|Soobmaw
+Slogan|Qwest|Spirit of service|Sos
+Slogan|Oracle|Software powers the Internet|SptI
+Slogan|Trix Cereal|Silly rabbit, trix are for kids|Srtafk
+Slogan|American Airlines|Something special in the air|Ssita
+Slogan|Ajax|Stronger than dirt|Std
+Slogan|Quaker Oatmeal|Something to smile about|Stsa
+Slogan|Chevrolet|See the USA in your Chevrolet|StUiyC
+Slogan|Canon | See what we mean|Swwm
+Slogan|Gerber|Shouldn’t your baby be a Gerber baby?|SybbaGb
+Slogan|Peter Paul Mounds/ Almond Joy|Sometimes you feel like a nut, sometimes you don't|Syflansyd
+Slogan|Schweppes|Schhh! You know who?|SYkw
+Slogan|Epiphany|See your way forward|Sywf
+Slogan|Kaiser Permanente|Thrive|T
+Slogan|National Crime Prevention Council|Take a bite out of crime|Tabooc
+Slogan|Club Med|The antidote for civilization|Tafc
+Slogan|Timex|Takes a licking and keeps on ticking|Talakot
+Slogan|McDonald’s|Two all-beef patties, special sauce, lettuce, cheese, pickles, onions on a sesame seed bun|Tapsslcpooassb
+Slogan|Jell-O|There’s always room for J-E-L-L-0|TarfJ
+Slogan|MasterCard|There are some things that money can’t buy For everything else there’s MasterCard|TasttmcbFeetM
+Slogan|Imax|Think big|Tb
+Slogan|Gillette|The best a man can get|Tbamcg
+Slogan|Peugeot|The best kept automotive secret in America|TbkasiA
+Slogan|Wheaties|The breakfast of champions|Tboc
+Slogan|Folger’s Coffee|The best part of waking up is Folger’s in your cup|TbpowuiFiyc
+Slogan|Goodyear|The best tires in the world have Goodyear written all over them|TbtitwhGwaot
+Slogan|Schlitz|The beer that made Milwaukee famous|TbtmMf
+Slogan|Marks & Spencer | The customer is always and completely right!|Tciaacr
+Slogan|Toyota|The car in front is a Toyota|TcifiaT
+Slogan|Citibank|The Citi never sleeps|TCns
+Slogan|Office Depot|Taking care of business|Tcob
+Slogan|Miller High Life|The champagne of bottled beer|Tcobb
+Slogan|Apple Computer|Think different|Td
+Slogan|Orange|The future’s bright The future’s Orange|TfbTfO
+Slogan|Polaroid|The fun develops instantly|Tfdi
+Slogan|Parkay Margarine|The flavor says butter|Tfsb
+Slogan|U.S. Marines|The few, the proud, the Marines|TftptM
+Slogan|Kelloggs Frosties|They’re GR-R-R-reat|TG
+Slogan|Coca-Cola|Things go better with Coke|TgbwC
+Slogan|Miller Lite|Tastes great, less filling|Tglf
+Slogan|Red Cross|The greatest tragedy is indifference|Tgtii
+Slogan|Red Cross | The greatest tragedy is indifference|Tgtii
+Slogan|Disneyland|The happiest place on earth|Thpoe
+Slogan|Noxzema|Take it all off|Tiao
+Slogan|American Egg Board|The incredible, edible egg|Tiee
+Slogan|Porsche | There is no substitute|Tins
+Slogan|Partnership for a Drug-Free America|This is your brain This is your brain on drugs|TiybTiybod
+Slogan|Alka-Seltzer|Try it, you’ll like it|Tiyli
+Slogan|Budweiser|The king of beers|Tkob
+Slogan|Dixons|The last place you want to go|Tlpywtg
+Slogan|M&M|The milk chocolate melts in your mouth, not in your hand|Tmcmiymniyh
+Slogan|United Negro College Fund|The mind is a terrible thing to waste|Tmiatttw
+Slogan|Old Spice|The mark of a man|Tmoam
+Slogan|DuPont|The miracles of science|Tmos
+Slogan|CNN|The most trusted name in news|Tmtnin
+Slogan|Max Factor|The Make Up of Make Up Artists|TMUoMUA
+Slogan|Sweet ‘N Low|There’s no equal|Tne
+Slogan|Sun Microsystems|The network is the computer|Tnitc
+Slogan|Wells Fargo|The next stage|Tns
+Slogan|NyQuil|The nighttime sniffling sneezing coughing aching stuffy head fever so you can rest medicine|Tnsscashfsycrm
+Slogan|Apple Computer|Think outside the box|Totb
+Slogan|Taco Bell|Think outside the bun|Totb
+Slogan|ChevronTexaco|Turning partnership into energy|Tpie
+Slogan|eBay|The power of all of us|Tpoaou
+Slogan|Honda|The power of dreams|Tpod
+Slogan|Apple Computer|The power to be your best|Tptbyb
+Slogan|Coca-Cola|The pause that refreshes|Tptr
+Slogan|Zenith|The quality goes in before the name goes on|Tqgibtngo
+Slogan|Bounty|The quicker picker-upper|Tqp
+Slogan|Allegra|The relief goes on|Trgo
+Slogan|Lexus|The relentless pursuit of perfection|Trpop
+Slogan|JPMorgan Chase Bank|The right relationship is everything|Trrie
+Slogan|Acura|The road will never be the same|Trwnbts
+Slogan|Volkswagen|Think Small|TS
+Slogan|Coors|The silver bullet|Tsb
+Slogan|CNET|The source for computing and technology|Tsfcat
+Slogan|Meow Mix|Tastes so good cats ask for it by name|Tsgcafibn
+Slogan|Unocal|The spirit of 76|Tso7
+Slogan|Coca-Cola| Twist the cap to refreshment|Ttctr
+Slogan|United Airlines|Time to fly|Ttf
+Slogan|U.S. Peace Corps|The toughest job you’ll ever love|Ttjyel
+Slogan|Philip Morris|Talk They’ll listen|TTl
+Slogan|Dunkin Donuts|Time to make the doughnuts|Ttmtd
+Slogan|Pepsi|The taste of a new generation|Ttoang
+Slogan|Skittles|Taste the Rainbow|TtR
+Slogan|Tums|Tum, tum, tum, tum, Tums|TtttT
+Slogan|7-Up|The uncola|Tu
+Slogan|BMW|The ultimate driving machine|Tudm
+Slogan|Staples|That was easy|Twe
+Slogan|British Airways|The world’s favourite airline|Twfa
+Slogan|HSBC|The world’s local bank|Twlb
+Slogan|AT&T|The world’s networking company|Twnc
+Slogan|eBay|The world’s online marketplace|Twom
+Slogan|FedEx|The world on time|Twot
+Slogan|British Airways|The way to fly|Twtf
+Slogan|Georgia Federal|Two words to the wise|Twttw
+Slogan|Bartles & Jaymes|Thank you for your support|Tyfys
+Slogan|Spaghettios|Uh, oh, Spaghettios|UoS
+Slogan|Audi|Vorsprung Durch Technik|VDT
+Slogan|Visine|Visine gets the red out|Vgtro
+Slogan|The Virginia Tourism Commission|Virginia is for lovers|Vifl
+Slogan|Budweiser|Wassup?!|W
+Slogan|Smarties|WotalotIgot!|W
+Slogan|Kia-Ora|We all adore a Kia-Ora|WaaaK
+Slogan|Smucker’s|With a name like Smucker’s, it has to be good|WanlSihtbg
+Slogan|Hebrew National|We answer to a higher authority|Wataha
+Slogan|Western Airlines|Western Airlines the only way to fly|WAtowtf
+Slogan|LendingTree|When banks compete, you win|Wbcyw
+Slogan|GE (General Electric)|We bring good things to life|Wbgttl
+Slogan|General Electric|We bring good things to life|Wbgttl
+Slogan|Huggies|We’re behind you every step of the way|Wbyesotw
+Slogan|UPS|What can Brown do for you?|WcBdfy
+Slogan|Denny’s|We’re cooking now|Wcn
+Slogan|Microsoft|Where do you want to go today?|Wdywtgt
+Slogan|EF Hutton|When EF Hutton talks, people listen|WEHtpl
+Slogan|Coca-Cola|We’ve got a taste for you|Wgatfy
+Slogan|Las Vegas Convention and Visitors Authority|What happens here, stays here|Whhsh
+Slogan|Federal Express|When it absolutely, positively has to be there overnight|Wiaphtbto
+Slogan|FedEx|When it absolutely, positively has to be there overnight|Wiaphtbto
+Slogan|Morton Salt|When it rains, it pours|Wirip
+Slogan|Capital One|What’s in your wallet?|Wiyw
+Slogan|AIG|We know money|Wkm
+Slogan|Ambien|Works like a dream|Wlad
+Slogan|U.S. Marines|We’re looking for a few good men|Wlfafgm
+Slogan|Delta Airlines|We love to fly and it shows|Wltfais
+Slogan|McDonald’s|We love to see you smile|Wltsys
+Slogan|Xerox|We’re moving beyond documents|Wmbd
+Slogan|Bissell|We mean clean|Wmc
+Slogan|Smith Barney|We make the money the old-fashioned way We earn it|WmtmtowWei
+Slogan|DHL|We move the world|Wmtw
+Slogan|Verizon Wireless|We never stop working for you|Wnswfy
+Slogan|Wendy’s|Where’s the beef?|Wtb
+Slogan|Chicken of the Sea|What’s the best tuna? Chicken of the Sea|WtbtCotS
+Slogan|Hostess Cakes|Where’s the cream filling?|Wtcf
+Slogan|Winston|Winston tastes good like a cigarette should|Wtglacs
+Slogan|Avis|We try harder|Wth
+Slogan|Toni|Which twin has the Toni?|WthtT
+Slogan|FedEx | When there is no tomorrow|Wtint
+Slogan|ZDNet|Where technology means business|Wtmb
+Slogan|Seagate|We turn on ideas|Wtoi
+Slogan|Petco|Where the pets go|Wtpg
+Slogan|Dr Pepper|What’s the Worst That Could Happen?|WtWTCH
+Slogan|Mitsubishi Motors|Wake up and drive|Wuad
+Slogan|Paul Masson|We will sell no wine before its time|Wwsnwbit
+Slogan|Klondike Bar|What would you do for a Klondike bar?|WwydfaKb
+Slogan|Cialis|Will you be ready?|Wybr
+Slogan|Hallmark|When you care enough to send the very best|Wycetstvb
+Slogan|El Pollo Loco|When you’re crazy for chicken|Wycfc
+Slogan|Braniff Airlines|When you’ve got it, flaunt it|Wygifi
+Slogan|Braniff Airlines|When you got it, flaunt it|Wygifi
+Slogan|Schlitz Beer|When you’re out of Schlitz, you’re out of beer|WyooSyoob
+Slogan|Budweiser|When you say Budweiser, you’ve said it all|WysBysia
+Slogan|Southwest Airlines|You are now free to move about the country|Yanftmatc
+Slogan|Virginia Slims Cigarettes|You’ve come a long way, baby|Ycalwb
+Slogan|Shell Oil|You can be sure of Shell|YcbsoS
+Slogan|Coca-Cola|You can’t beat the real thing|Ycbtrt
+Slogan|National Highway Traffic Safety Administration|You could learn a lot from a dummy Buckle up!|YclalfadBu
+Slogan|Texaco|You can trust your car to the men who wear the star|Yctycttmwwts
+Slogan|McDonald’s|You deserve a break today|Ydabt
+Slogan|Levy’s Rye Bread|You don’t have to be Jewish to love Levy’s|YdhtbJtlL
+Slogan|Access|Your flexible friend|Yff
+Slogan|Radio Shack|You’ve got questions, we’ve got answers|Ygqwga
+Slogan|Wins Radio, New York|You give us 22 minutes, we’ll give you the world|Ygu2mwgytw
+Slogan|Allstate Insurance|You’re in good hands with Allstate|YighwA
+Slogan|Tango|You know when you’ve been Tango’d|YkwybT
+Slogan|Delta Airlines|You’ll love the way we fly|Yltwwf
+Slogan|Zest Soap|You’re not fully clean until you’re Zestfully clean|YnfcuyZc
+Slogan|Typhoo|You Only Get an OO’ With Typhoo|YOGaOWT
+Slogan|Microsoft|Your potential Our passion|YpOp
+Slogan|Taco Bell|Yo quiero Taco Bell|YqTB
+Slogan|DHL|Yellow The new Brown|YTnB
+Slogan|Olympus |Your vision Our future|YvOf
+Slogan|Pepsodent|You’ll wonder where the yellow went when you brush your teeth with Pepsodent|YwwtywwybytwP
+Slogan|Mazda |Zoom Zoom|ZZ
+Slogan|Mazda|Zoom, zoom, zoom|Zzz

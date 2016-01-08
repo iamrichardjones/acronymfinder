@@ -18,8 +18,8 @@ public class FileMnemonicMapLoaderTest {
         MnemonicMap mnemonicMap = new MnemonicMap();
 
         StringReader stringReader = new StringReader(
-                "Southwest Airlines|You are now free to move about the country|Yanftmatc" + System.lineSeparator() +
-                "Virginia Slims Cigarettes|You’ve come a long way, baby|Ycalwb");
+                "Slogan|Southwest Airlines|You are now free to move about the country|Yanftmatc" + System.lineSeparator() +
+                "Slogan|Virginia Slims Cigarettes|You’ve come a long way, baby|Ycalwb");
 
         FileMnemonicMapLoader testLoader = new FileMnemonicMapLoader(new BufferedReader(stringReader));
         testLoader.load(mnemonicMap);

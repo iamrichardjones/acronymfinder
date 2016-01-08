@@ -31,8 +31,8 @@ public class FileMnemonicMapLoader implements MnemonicMapLoader {
             String line = null;
             while ((line = reader.readLine()) != null) {
                 String[] split = line.trim().split(DELIMETER);
-                if (split.length == 3) {
-                    map.add(new MatchingMnemonic(split[2], new MatchingMnemonicDetail(split[1], split[0])));
+                if (split.length == 4) {
+                    map.add(new MatchingMnemonic(split[3], new MatchingMnemonicDetail(split[2], split[1], split[0])));
                 }
             }
 //            reader.close();

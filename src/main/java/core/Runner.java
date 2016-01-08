@@ -22,7 +22,7 @@ public class Runner {
         mnemonicMap = new MnemonicMap();
 //        MnemonicMapLoader acronymMapLoader = new HardCodedMnemonicMapLoader();
         String root = "src/main/resources/";
-        MnemonicMapLoader acronymMapLoader = new FileMnemonicMapLoader(new File(root, "SlogansEtc.txt"), new File(root, "SongTitles.txt"));
+        MnemonicMapLoader acronymMapLoader = new FileMnemonicMapLoader(new File(root, "Slogans.txt"), new File(root, "SongTitles.txt"));
         acronymMapLoader.load(mnemonicMap);
     }
 
@@ -49,7 +49,7 @@ public class Runner {
             System.out.format("There %s %s matching values%n", values.size() >1 ? "are" : "is", values.size());
             System.out.format("Here's some help%n");
             for (MatchingMnemonic value : values) {
-                System.out.format("\"%s\"\t\tcan be mapped to\t\"%s\"\tOrigin: \t%s%n", value.getAcronym(), value.getDetail().getExpandedAcronym(), value.getDetail().getOrigin());
+                System.out.format("\"%s\"\t\tcan be mapped to\t\"%s\"\tOrigin: \t%s (%s)%n", value.getAcronym(), value.getDetail().getExpandedAcronym(), value.getDetail().getOrigin(), value.getDetail().getCategory());
             }
         }
     }

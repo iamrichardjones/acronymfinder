@@ -1,265 +1,265 @@
-The Beatles|cross The Universe|cTU
-The Beatles|Act Naturally|AN
-The Beatles|Ain't She Sweet|ASS
-The Beatles|All I've Got To Do|AIGTD
-The Beatles|All My Loving|AML
-The Beatles|All Together Now|ATN
-The Beatles|All You Need Is Love|AYNIL
-The Beatles|And I Love Her|AILH
-The Beatles|And Your Bird Can Sing|AYBCS
-The Beatles|Anna (Go To Him)|A(TH
-The Beatles|Another Girl|AG
-The Beatles|Any Time At All|ATAA
-The Beatles|Ask Me Why |AMW
-The Beatles|Baby It's You|BIY
-The Beatles|Baby, You're A Rich Man|BYARM
-The Beatles|Baby's In Black|BIB
-The Beatles|Back In The U.S.S.R.|BITU
-The Beatles|Bad Boy|BB
-The Beatles|The Ballad Of John And Yoko|TBOJAY
-The Beatles|Because|B
-The Beatles|Being For The Benefit Of Mr. Kite!|BFTBOMK
-The Beatles|Besame Mucho|BM
-The Beatles|Birthday|B
-The Beatles|Blackbird|B
-The Beatles|Blue Jay Way|BJW
-The Beatles|Boys |B
-The Beatles|Can't Buy Me Love|CBML
-The Beatles|Carol|C
-The Beatles|Carry That Weight|CTW
-The Beatles|Cayenne|C
-The Beatles|Chains|C
-The Beatles|Christmas Time (Is Here Again)|CT(HA
-The Beatles|Clarabella|C
-The Beatles|Come Together|CT
-The Beatles|The Continuing Story Of Bungalow Bill|TCSOBB
-The Beatles|Cry Baby Cry|CBC
-The Beatles|Cry For A Shadow|CFAS
-The Beatles|Crying, Waiting, Hoping |CWH
-The Beatles|A Day In The Life|ADITL
-The Beatles|Day Tripper|DT
-The Beatles|Dear Prudence|DP
-The Beatles|Devil In Her Heart|DIHH
-The Beatles|Dig It|DI
-The Beatles|Dizzy Miss Lizzy|DML
-The Beatles|Do You Want To Know A Secret|DYWTKAS
-The Beatles|Doctor Robert|DR
-The Beatles|Don't Bother Me|DBM
-The Beatles|Don't Ever Change|DEC
-The Beatles|Don't Let Me Down|DLMD
-The Beatles|Don't Pass Me By|DPMB
-The Beatles|Drive My Car |DMC
-The Beatles|Eight Days A Week|EDAW
-The Beatles|Eleanor Rigby|ER
-The Beatles|The End|TE
-The Beatles|Every Little Thing|ELT
-The Beatles|Everybody's Got Something To Hide Except Me And My Monkey |EGSTHEMAMM
-The Beatles|Fixing A Hole|FAH
-The Beatles|Flying|F
-The Beatles|The Fool On The Hill|TFOTH
-The Beatles|For No One|FNO
-The Beatles|For You Blue|FYB
-The Beatles|Free As A Bird|FAAB
-The Beatles|From Me To You|FMTY
-The Beatles|From Us To You |FUTY
-The Beatles|Get Back|GB
-The Beatles|Getting Better|GB
-The Beatles|Girl|G
-The Beatles|Glad All Over|GAO
-The Beatles|Glass Onion|GO
-The Beatles|Golden Slumbers|GS
-The Beatles|Good Day Sunshine|GDS
-The Beatles|Good Morning, Good Morning|GMGM
-The Beatles|Good Night|GN
-The Beatles|Got To Get You Into My Life |GTGYIML
-The Beatles|Hallelujah, I Love Her So|HILHS
-The Beatles|Happiness Is A Warm Gun|HIAWG
-The Beatles|A Hard Day's Night|AHDN
-The Beatles|Hello Goodbye|HG
-The Beatles|Hello Little Girl|HLG
-The Beatles|Help!|H
-The Beatles|Helter Skelter|HS
-The Beatles|Her Majesty|HM
-The Beatles|Here Comes The Sun|HCTS
-The Beatles|Here, There And Everywhere|HTAE
-The Beatles|Hey Bulldog|HB
-The Beatles|Hey Jude|HJ
-The Beatles|The Hippy Hippy Shake|THHS
-The Beatles|Hold Me Tight|HMT
-The Beatles|Honey Don't|HD
-The Beatles|Honey Pie|HP
-The Beatles|The Honeymoon Song|THS
-The Beatles|How Do You Do It |HDYDI
-The Beatles|I Am The Walrus|IATW
-The Beatles|I Call Your Name|ICYN
-The Beatles|I Don't Want To Spoil The Party|IDWTSTP
-The Beatles|I Feel Fine|IFF
-The Beatles|I Forgot To Remember To Forget|IFTRTF
-The Beatles|I Got A Woman|IGAW
-The Beatles|I Got To Find My Baby|IGTFMB
-The Beatles|I Just Don't Understand|IJDU
-The Beatles|I Me Mine|IMM
-The Beatles|I Need You|INY
-The Beatles|I Saw Her Standing There|ISHST
-The Beatles|I Should Have Known Better|ISHKB
-The Beatles|I Wanna Be Your Man|IWBYM
-The Beatles|I Want To Hold Your Hand|IWTHYH
-The Beatles|I Want To Tell You|IWTTY
-The Beatles|I Want You (She's So Heavy)|IWY(SH
-The Beatles|I Will|IW
-The Beatles|If I Fell|IIF
-The Beatles|If I Needed Someone|IINS
-The Beatles|I'll Be Back|IBB
-The Beatles|I'll Be On My Way|IBOMW
-The Beatles|I'll Cry Instead|ICI
-The Beatles|I'll Follow The Sun|IFTS
-The Beatles|I'll Get You|IGY
-The Beatles|I'm A Loser|IAL
-The Beatles|I'm Down|ID
-The Beatles|I'm Gonna Sit Right Down And Cry (Over You)|IGSRDAC(Y
-The Beatles|I'm Happy Just To Dance With You|IHJTDWY
-The Beatles|I'm Looking Through You|ILTY
-The Beatles|I'm Only Sleeping|IOS
-The Beatles|I'm So Tired|IST
-The Beatles|I'm My Life|IML
-The Beatles|In Spite Of All The Danger|ISOATD
-The Beatles|The Inner Light|TIL
-The Beatles|It Won't Be Long|IWBL
-The Beatles|It's All Too Much|IATM
-The Beatles|It's Only Love|IOL
-The Beatles|I've Got A Feeling|IGAF
-The Beatles|I've Just Seen A Face |IJSAF
-The Beatles|Johnny B. Goode|JBG
-The Beatles|Julia |J
-The Beatles|Kansas City/Hey-Hey-Hey-Hey!|KC
-The Beatles|Keep Your Hands Off My Baby|KYHOMB
-The Beatles|Komm, Gib Mir Deine Hand |KGMDH
-The Beatles|Lady Madonna|LM
-The Beatles|Leave My Kitten Alone|LMKA
-The Beatles|Lend Me Your Comb|LMYC
-The Beatles|Let It Be|LIB
-The Beatles|Like Dreamers Do|LDD
-The Beatles|Little Child|LC
-The Beatles|A Little Rhythm|ALR
-The Beatles|Lonesome Tears In My Eyes|LTIME
-The Beatles|The Long And Winding Road|TLAWR
-The Beatles|Long, Long, Long|LLL
-The Beatles|Long Tall Sally|LTS
-The Beatles|Love Me Do|LMD
-The Beatles|Love You To|LYT
-The Beatles|Lovely Rita|LR
-The Beatles|Lucille|L
-The Beatles|Lucy In The Sky With Diamonds |LITSWD
-The Beatles|Maggie Mae|MM
-The Beatles|Magical Mystery Tour|MMT
-The Beatles|Martha My Dear|MMD
-The Beatles|Matchbox|M
-The Beatles|Maxwell's Silver Hammer|MSH
-The Beatles|Mean Mr. Mustard|MMM
-The Beatles|Memphis, Tennessee|MT
-The Beatles|Michelle|M
-The Beatles|Misery|M
-The Beatles|Money (That' What I Want)|M(WIW
-The Beatles|Moonlight Bay|MB
-The Beatles|Mother Nature's Son|MNS
-The Beatles|Mr. Moonlight|MM
-The Beatles|My Bonnie [Sung by Tony Sheridan] |MB[bTS
-The Beatles|The Night Before|TNB
-The Beatles|No Reply|NR
-The Beatles|Norwegian Wood (This Bird Has Flown)|NW(BHF
-The Beatles|Not A Second Time|NAST
-The Beatles|Nothin' Shakin'|NS
-The Beatles|Nowhere Man |NM
-The Beatles|Ob-La-Di, Ob-La-Da|OO
-The Beatles|Octopus's Garden|OG
-The Beatles|Oh! Darling|OD
-The Beatles|Old Brown Shoe|OBS
-The Beatles|One After 909|OA9
-The Beatles|Only A Northern Song|OANS
-The Beatles|Ooh! My Soul |OMS
-The Beatles|Paperback Writer|PW
-The Beatles|Penny Lane|PL
-The Beatles|Piggies|P
-The Beatles|Please Mister Postman|PMP
-The Beatles|Please Please Me|PPM
-The Beatles|Polythene Pam|PP
-The Beatles|P.S. I Love You |PILY
-The Beatles|Rain|R
-The Beatles|Real Love|RL
-The Beatles|Revolution|R
-The Beatles|Revolution 1|R1
-The Beatles|Revolution 9|R9
-The Beatles|Rock And Roll Music|RARM
-The Beatles|Rocky Raccoon|RR
-The Beatles|Roll Over Beethoven|ROB
-The Beatles|Run For Your Life |RFYL
-The Beatles|Savoy Truffle|ST
-The Beatles|Searchin'|S
-The Beatles|Sexy Sadie|SS
-The Beatles|Sgt. Pepper's Lonely Hearts Club Band|SPLHCB
-The Beatles|Sgt. Pepper's Lonely Hearts Club Band (Reprise)|SPLHCB(
-The Beatles|She Came In Through The Bathroom Window|SCITTBW
-The Beatles|She Loves You|SLY
-The Beatles|She Said She Said|SSSS
-The Beatles|The Sheik Of Araby|TSOA
-The Beatles|She's A Woman|SAW
-The Beatles|She's Leaving Home|SLH
-The Beatles|A Shot Of Rhythm And Blues|ASORAB
-The Beatles|Shout!|S
-The Beatles|Sie Liebt Dich|SLD
-The Beatles|Slow Down|SD
-The Beatles|So How Come (No One Loves Me)|SHC(OLM
-The Beatles|Soldier Of Love|SOL
-The Beatles|Some Other Guy|SOG
-The Beatles|Something|S
-The Beatles|Strawberry Fields Forever|SFF
-The Beatles|Sun King|SK
-The Beatles|Sweet Little Sixteen |SLS
-The Beatles|A Taste Of Honey|ATOH
-The Beatles|Taxman|T
-The Beatles|Tell Me What You See|TMWYS
-The Beatles|Tell Me Why|TMW
-The Beatles|Thank You Girl|TYG
-The Beatles|That'll Be The Day|TBTD
-The Beatles|That's All Right (Mama)|TAR(
-The Beatles|There's A Place|TAP
-The Beatles|Things We Said Today|TWST
-The Beatles|Think For Yourself|TFY
-The Beatles|This Boy|TB
-The Beatles|Three Cool Cats|TCC
-The Beatles|Ticket To Ride|TTR
-The Beatles|Till There Was You|TTWY
-The Beatles|To Know Her Is To Love Her|TKHITLH
-The Beatles|Tomorrow Never Knows|TNK
-The Beatles|Too Much Monkey Business|TMMB
-The Beatles|Twist And Shout|TAS
-The Beatles|Two Of Us |TOU
-The Beatles|Wait|W
-The Beatles|We Can Work It Out|WCWIO
-The Beatles|What Goes On|WGO
-The Beatles|What You're Doing|WYD
-The Beatles|When I Get Home|WIGH
-The Beatles|When I'm Sixty Four|WISF
-The Beatles|While My Guitar Gently Weeps|WMGGW
-The Beatles|Why Don't We Do It In The Road|WDWDIITR
-The Beatles|Wild Honey Pie|WHP
-The Beatles|With A Little Help From My Friends|WALHFMF
-The Beatles|Within You Without You|WYWY
-The Beatles|The Word|TW
-The Beatles|Words Of Love |WOL
-The Beatles|Yellow Submarine|YS
-The Beatles|Yer Blues|YB
-The Beatles|Yes It Is|YII
-The Beatles|Yesterday|Y
-The Beatles|You Can't Do That|YCDT
-The Beatles|You Know My Name (Look Up The Number)|YKMN(UTN
-The Beatles|You Know What To Do|YKWTD
-The Beatles|You Like Me Too Much|YLMTM
-The Beatles|You Never Give Me Your Money|YNGMYM
-The Beatles|You Really Got A Hold On Me|YRGAHOM
-The Beatles|You Won't See Me|YWSM
-The Beatles|You'll Be Mine|YBM
-The Beatles|Young Blood|YB
-The Beatles|Your Mother Should Know|YMSK
-The Beatles|You're Going To Lose That Girl|YGTLTG
-The Beatles|You've Got To Hide Your Love Away|YGTHYLA
+SongTitles|The Beatles|cross The Universe|cTU
+SongTitles|The Beatles|Act Naturally|AN
+SongTitles|The Beatles|Ain't She Sweet|ASS
+SongTitles|The Beatles|All I've Got To Do|AIGTD
+SongTitles|The Beatles|All My Loving|AML
+SongTitles|The Beatles|All Together Now|ATN
+SongTitles|The Beatles|All You Need Is Love|AYNIL
+SongTitles|The Beatles|And I Love Her|AILH
+SongTitles|The Beatles|And Your Bird Can Sing|AYBCS
+SongTitles|The Beatles|Anna (Go To Him)|A(TH
+SongTitles|The Beatles|Another Girl|AG
+SongTitles|The Beatles|Any Time At All|ATAA
+SongTitles|The Beatles|Ask Me Why |AMW
+SongTitles|The Beatles|Baby It's You|BIY
+SongTitles|The Beatles|Baby, You're A Rich Man|BYARM
+SongTitles|The Beatles|Baby's In Black|BIB
+SongTitles|The Beatles|Back In The U.S.S.R.|BITU
+SongTitles|The Beatles|Bad Boy|BB
+SongTitles|The Beatles|The Ballad Of John And Yoko|TBOJAY
+SongTitles|The Beatles|Because|B
+SongTitles|The Beatles|Being For The Benefit Of Mr. Kite!|BFTBOMK
+SongTitles|The Beatles|Besame Mucho|BM
+SongTitles|The Beatles|Birthday|B
+SongTitles|The Beatles|Blackbird|B
+SongTitles|The Beatles|Blue Jay Way|BJW
+SongTitles|The Beatles|Boys |B
+SongTitles|The Beatles|Can't Buy Me Love|CBML
+SongTitles|The Beatles|Carol|C
+SongTitles|The Beatles|Carry That Weight|CTW
+SongTitles|The Beatles|Cayenne|C
+SongTitles|The Beatles|Chains|C
+SongTitles|The Beatles|Christmas Time (Is Here Again)|CT(HA
+SongTitles|The Beatles|Clarabella|C
+SongTitles|The Beatles|Come Together|CT
+SongTitles|The Beatles|The Continuing Story Of Bungalow Bill|TCSOBB
+SongTitles|The Beatles|Cry Baby Cry|CBC
+SongTitles|The Beatles|Cry For A Shadow|CFAS
+SongTitles|The Beatles|Crying, Waiting, Hoping |CWH
+SongTitles|The Beatles|A Day In The Life|ADITL
+SongTitles|The Beatles|Day Tripper|DT
+SongTitles|The Beatles|Dear Prudence|DP
+SongTitles|The Beatles|Devil In Her Heart|DIHH
+SongTitles|The Beatles|Dig It|DI
+SongTitles|The Beatles|Dizzy Miss Lizzy|DML
+SongTitles|The Beatles|Do You Want To Know A Secret|DYWTKAS
+SongTitles|The Beatles|Doctor Robert|DR
+SongTitles|The Beatles|Don't Bother Me|DBM
+SongTitles|The Beatles|Don't Ever Change|DEC
+SongTitles|The Beatles|Don't Let Me Down|DLMD
+SongTitles|The Beatles|Don't Pass Me By|DPMB
+SongTitles|The Beatles|Drive My Car |DMC
+SongTitles|The Beatles|Eight Days A Week|EDAW
+SongTitles|The Beatles|Eleanor Rigby|ER
+SongTitles|The Beatles|The End|TE
+SongTitles|The Beatles|Every Little Thing|ELT
+SongTitles|The Beatles|Everybody's Got Something To Hide Except Me And My Monkey |EGSTHEMAMM
+SongTitles|The Beatles|Fixing A Hole|FAH
+SongTitles|The Beatles|Flying|F
+SongTitles|The Beatles|The Fool On The Hill|TFOTH
+SongTitles|The Beatles|For No One|FNO
+SongTitles|The Beatles|For You Blue|FYB
+SongTitles|The Beatles|Free As A Bird|FAAB
+SongTitles|The Beatles|From Me To You|FMTY
+SongTitles|The Beatles|From Us To You |FUTY
+SongTitles|The Beatles|Get Back|GB
+SongTitles|The Beatles|Getting Better|GB
+SongTitles|The Beatles|Girl|G
+SongTitles|The Beatles|Glad All Over|GAO
+SongTitles|The Beatles|Glass Onion|GO
+SongTitles|The Beatles|Golden Slumbers|GS
+SongTitles|The Beatles|Good Day Sunshine|GDS
+SongTitles|The Beatles|Good Morning, Good Morning|GMGM
+SongTitles|The Beatles|Good Night|GN
+SongTitles|The Beatles|Got To Get You Into My Life |GTGYIML
+SongTitles|The Beatles|Hallelujah, I Love Her So|HILHS
+SongTitles|The Beatles|Happiness Is A Warm Gun|HIAWG
+SongTitles|The Beatles|A Hard Day's Night|AHDN
+SongTitles|The Beatles|Hello Goodbye|HG
+SongTitles|The Beatles|Hello Little Girl|HLG
+SongTitles|The Beatles|Help!|H
+SongTitles|The Beatles|Helter Skelter|HS
+SongTitles|The Beatles|Her Majesty|HM
+SongTitles|The Beatles|Here Comes The Sun|HCTS
+SongTitles|The Beatles|Here, There And Everywhere|HTAE
+SongTitles|The Beatles|Hey Bulldog|HB
+SongTitles|The Beatles|Hey Jude|HJ
+SongTitles|The Beatles|The Hippy Hippy Shake|THHS
+SongTitles|The Beatles|Hold Me Tight|HMT
+SongTitles|The Beatles|Honey Don't|HD
+SongTitles|The Beatles|Honey Pie|HP
+SongTitles|The Beatles|The Honeymoon Song|THS
+SongTitles|The Beatles|How Do You Do It |HDYDI
+SongTitles|The Beatles|I Am The Walrus|IATW
+SongTitles|The Beatles|I Call Your Name|ICYN
+SongTitles|The Beatles|I Don't Want To Spoil The Party|IDWTSTP
+SongTitles|The Beatles|I Feel Fine|IFF
+SongTitles|The Beatles|I Forgot To Remember To Forget|IFTRTF
+SongTitles|The Beatles|I Got A Woman|IGAW
+SongTitles|The Beatles|I Got To Find My Baby|IGTFMB
+SongTitles|The Beatles|I Just Don't Understand|IJDU
+SongTitles|The Beatles|I Me Mine|IMM
+SongTitles|The Beatles|I Need You|INY
+SongTitles|The Beatles|I Saw Her Standing There|ISHST
+SongTitles|The Beatles|I Should Have Known Better|ISHKB
+SongTitles|The Beatles|I Wanna Be Your Man|IWBYM
+SongTitles|The Beatles|I Want To Hold Your Hand|IWTHYH
+SongTitles|The Beatles|I Want To Tell You|IWTTY
+SongTitles|The Beatles|I Want You (She's So Heavy)|IWY(SH
+SongTitles|The Beatles|I Will|IW
+SongTitles|The Beatles|If I Fell|IIF
+SongTitles|The Beatles|If I Needed Someone|IINS
+SongTitles|The Beatles|I'll Be Back|IBB
+SongTitles|The Beatles|I'll Be On My Way|IBOMW
+SongTitles|The Beatles|I'll Cry Instead|ICI
+SongTitles|The Beatles|I'll Follow The Sun|IFTS
+SongTitles|The Beatles|I'll Get You|IGY
+SongTitles|The Beatles|I'm A Loser|IAL
+SongTitles|The Beatles|I'm Down|ID
+SongTitles|The Beatles|I'm Gonna Sit Right Down And Cry (Over You)|IGSRDAC(Y
+SongTitles|The Beatles|I'm Happy Just To Dance With You|IHJTDWY
+SongTitles|The Beatles|I'm Looking Through You|ILTY
+SongTitles|The Beatles|I'm Only Sleeping|IOS
+SongTitles|The Beatles|I'm So Tired|IST
+SongTitles|The Beatles|I'm My Life|IML
+SongTitles|The Beatles|In Spite Of All The Danger|ISOATD
+SongTitles|The Beatles|The Inner Light|TIL
+SongTitles|The Beatles|It Won't Be Long|IWBL
+SongTitles|The Beatles|It's All Too Much|IATM
+SongTitles|The Beatles|It's Only Love|IOL
+SongTitles|The Beatles|I've Got A Feeling|IGAF
+SongTitles|The Beatles|I've Just Seen A Face |IJSAF
+SongTitles|The Beatles|Johnny B. Goode|JBG
+SongTitles|The Beatles|Julia |J
+SongTitles|The Beatles|Kansas City/Hey-Hey-Hey-Hey!|KC
+SongTitles|The Beatles|Keep Your Hands Off My Baby|KYHOMB
+SongTitles|The Beatles|Komm, Gib Mir Deine Hand |KGMDH
+SongTitles|The Beatles|Lady Madonna|LM
+SongTitles|The Beatles|Leave My Kitten Alone|LMKA
+SongTitles|The Beatles|Lend Me Your Comb|LMYC
+SongTitles|The Beatles|Let It Be|LIB
+SongTitles|The Beatles|Like Dreamers Do|LDD
+SongTitles|The Beatles|Little Child|LC
+SongTitles|The Beatles|A Little Rhythm|ALR
+SongTitles|The Beatles|Lonesome Tears In My Eyes|LTIME
+SongTitles|The Beatles|The Long And Winding Road|TLAWR
+SongTitles|The Beatles|Long, Long, Long|LLL
+SongTitles|The Beatles|Long Tall Sally|LTS
+SongTitles|The Beatles|Love Me Do|LMD
+SongTitles|The Beatles|Love You To|LYT
+SongTitles|The Beatles|Lovely Rita|LR
+SongTitles|The Beatles|Lucille|L
+SongTitles|The Beatles|Lucy In The Sky With Diamonds |LITSWD
+SongTitles|The Beatles|Maggie Mae|MM
+SongTitles|The Beatles|Magical Mystery Tour|MMT
+SongTitles|The Beatles|Martha My Dear|MMD
+SongTitles|The Beatles|Matchbox|M
+SongTitles|The Beatles|Maxwell's Silver Hammer|MSH
+SongTitles|The Beatles|Mean Mr. Mustard|MMM
+SongTitles|The Beatles|Memphis, Tennessee|MT
+SongTitles|The Beatles|Michelle|M
+SongTitles|The Beatles|Misery|M
+SongTitles|The Beatles|Money (That' What I Want)|M(WIW
+SongTitles|The Beatles|Moonlight Bay|MB
+SongTitles|The Beatles|Mother Nature's Son|MNS
+SongTitles|The Beatles|Mr. Moonlight|MM
+SongTitles|The Beatles|My Bonnie [Sung by Tony Sheridan] |MB[bTS
+SongTitles|The Beatles|The Night Before|TNB
+SongTitles|The Beatles|No Reply|NR
+SongTitles|The Beatles|Norwegian Wood (This Bird Has Flown)|NW(BHF
+SongTitles|The Beatles|Not A Second Time|NAST
+SongTitles|The Beatles|Nothin' Shakin'|NS
+SongTitles|The Beatles|Nowhere Man |NM
+SongTitles|The Beatles|Ob-La-Di, Ob-La-Da|OO
+SongTitles|The Beatles|Octopus's Garden|OG
+SongTitles|The Beatles|Oh! Darling|OD
+SongTitles|The Beatles|Old Brown Shoe|OBS
+SongTitles|The Beatles|One After 909|OA9
+SongTitles|The Beatles|Only A Northern Song|OANS
+SongTitles|The Beatles|Ooh! My Soul |OMS
+SongTitles|The Beatles|Paperback Writer|PW
+SongTitles|The Beatles|Penny Lane|PL
+SongTitles|The Beatles|Piggies|P
+SongTitles|The Beatles|Please Mister Postman|PMP
+SongTitles|The Beatles|Please Please Me|PPM
+SongTitles|The Beatles|Polythene Pam|PP
+SongTitles|The Beatles|P.S. I Love You |PILY
+SongTitles|The Beatles|Rain|R
+SongTitles|The Beatles|Real Love|RL
+SongTitles|The Beatles|Revolution|R
+SongTitles|The Beatles|Revolution 1|R1
+SongTitles|The Beatles|Revolution 9|R9
+SongTitles|The Beatles|Rock And Roll Music|RARM
+SongTitles|The Beatles|Rocky Raccoon|RR
+SongTitles|The Beatles|Roll Over Beethoven|ROB
+SongTitles|The Beatles|Run For Your Life |RFYL
+SongTitles|The Beatles|Savoy Truffle|ST
+SongTitles|The Beatles|Searchin'|S
+SongTitles|The Beatles|Sexy Sadie|SS
+SongTitles|The Beatles|Sgt. Pepper's Lonely Hearts Club Band|SPLHCB
+SongTitles|The Beatles|Sgt. Pepper's Lonely Hearts Club Band (Reprise)|SPLHCB(
+SongTitles|The Beatles|She Came In Through The Bathroom Window|SCITTBW
+SongTitles|The Beatles|She Loves You|SLY
+SongTitles|The Beatles|She Said She Said|SSSS
+SongTitles|The Beatles|The Sheik Of Araby|TSOA
+SongTitles|The Beatles|She's A Woman|SAW
+SongTitles|The Beatles|She's Leaving Home|SLH
+SongTitles|The Beatles|A Shot Of Rhythm And Blues|ASORAB
+SongTitles|The Beatles|Shout!|S
+SongTitles|The Beatles|Sie Liebt Dich|SLD
+SongTitles|The Beatles|Slow Down|SD
+SongTitles|The Beatles|So How Come (No One Loves Me)|SHC(OLM
+SongTitles|The Beatles|Soldier Of Love|SOL
+SongTitles|The Beatles|Some Other Guy|SOG
+SongTitles|The Beatles|Something|S
+SongTitles|The Beatles|Strawberry Fields Forever|SFF
+SongTitles|The Beatles|Sun King|SK
+SongTitles|The Beatles|Sweet Little Sixteen |SLS
+SongTitles|The Beatles|A Taste Of Honey|ATOH
+SongTitles|The Beatles|Taxman|T
+SongTitles|The Beatles|Tell Me What You See|TMWYS
+SongTitles|The Beatles|Tell Me Why|TMW
+SongTitles|The Beatles|Thank You Girl|TYG
+SongTitles|The Beatles|That'll Be The Day|TBTD
+SongTitles|The Beatles|That's All Right (Mama)|TAR(
+SongTitles|The Beatles|There's A Place|TAP
+SongTitles|The Beatles|Things We Said Today|TWST
+SongTitles|The Beatles|Think For Yourself|TFY
+SongTitles|The Beatles|This Boy|TB
+SongTitles|The Beatles|Three Cool Cats|TCC
+SongTitles|The Beatles|Ticket To Ride|TTR
+SongTitles|The Beatles|Till There Was You|TTWY
+SongTitles|The Beatles|To Know Her Is To Love Her|TKHITLH
+SongTitles|The Beatles|Tomorrow Never Knows|TNK
+SongTitles|The Beatles|Too Much Monkey Business|TMMB
+SongTitles|The Beatles|Twist And Shout|TAS
+SongTitles|The Beatles|Two Of Us |TOU
+SongTitles|The Beatles|Wait|W
+SongTitles|The Beatles|We Can Work It Out|WCWIO
+SongTitles|The Beatles|What Goes On|WGO
+SongTitles|The Beatles|What You're Doing|WYD
+SongTitles|The Beatles|When I Get Home|WIGH
+SongTitles|The Beatles|When I'm Sixty Four|WISF
+SongTitles|The Beatles|While My Guitar Gently Weeps|WMGGW
+SongTitles|The Beatles|Why Don't We Do It In The Road|WDWDIITR
+SongTitles|The Beatles|Wild Honey Pie|WHP
+SongTitles|The Beatles|With A Little Help From My Friends|WALHFMF
+SongTitles|The Beatles|Within You Without You|WYWY
+SongTitles|The Beatles|The Word|TW
+SongTitles|The Beatles|Words Of Love |WOL
+SongTitles|The Beatles|Yellow Submarine|YS
+SongTitles|The Beatles|Yer Blues|YB
+SongTitles|The Beatles|Yes It Is|YII
+SongTitles|The Beatles|Yesterday|Y
+SongTitles|The Beatles|You Can't Do That|YCDT
+SongTitles|The Beatles|You Know My Name (Look Up The Number)|YKMN(UTN
+SongTitles|The Beatles|You Know What To Do|YKWTD
+SongTitles|The Beatles|You Like Me Too Much|YLMTM
+SongTitles|The Beatles|You Never Give Me Your Money|YNGMYM
+SongTitles|The Beatles|You Really Got A Hold On Me|YRGAHOM
+SongTitles|The Beatles|You Won't See Me|YWSM
+SongTitles|The Beatles|You'll Be Mine|YBM
+SongTitles|The Beatles|Young Blood|YB
+SongTitles|The Beatles|Your Mother Should Know|YMSK
+SongTitles|The Beatles|You're Going To Lose That Girl|YGTLTG
+SongTitles|The Beatles|You've Got To Hide Your Love Away|YGTHYLA
