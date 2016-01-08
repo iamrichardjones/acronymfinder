@@ -26,9 +26,17 @@ This project allows you to enters letters that you want to memorise and then it 
 
 And I could not do a project on mnemonics without referencing [xkcd](https://xkcd.com/992/)
 
-Legal Bit: all slogan and data used in this project is sourced from the internet. I take no responsibility for any errors. Please let me know if there are problems.
+### Legal Bit
+All data used in this project is sourced from the internet. I take no responsibility for any errors. Please let me know if there are problems or if any bits should be removed.
 
-TODO:
-* create the importer to read from a file (on-going)
+### How to build/run
+1. Clone repository
+2. Run gradle clean build 
+3. Run gradle installDist
+3. installdist will create the distribution
+4. Find /build/install/*/bin
+5. Run the bat or shell file
+
+### TODO:
 * I18N it all
-* create music song titles for mnemonics etc
+* Add more Mnemonics 
