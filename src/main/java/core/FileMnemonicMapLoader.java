@@ -14,7 +14,7 @@ public class FileMnemonicMapLoader implements MnemonicMapLoader {
     }
 
     private static BufferedReader[] getBufferedReaders(File[] dataFiles) throws FileNotFoundException {
-        List<BufferedReader> readers = new ArrayList();
+        List<BufferedReader> readers = new ArrayList<>();
         for (File dataFile : dataFiles) {
             readers.add(new BufferedReader(new FileReader(dataFile)));
         }
@@ -28,7 +28,7 @@ public class FileMnemonicMapLoader implements MnemonicMapLoader {
     @Override
     public void load(MnemonicMap map) throws IOException {
         for (BufferedReader reader : readers) {
-            String line = null;
+            String line;
             while ((line = reader.readLine()) != null) {
                 String[] split = line.trim().split(DELIMETER);
                 if (split.length == 4) {
