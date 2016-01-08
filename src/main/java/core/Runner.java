@@ -21,8 +21,6 @@ public class Runner {
         //initialise
         mnemonicMap = new MnemonicMap();
 //        MnemonicMapLoader acronymMapLoader = new HardCodedMnemonicMapLoader();
-        System.out.println(new File("").getAbsoluteFile());
-        System.out.println(new File("src/main/resources/SlogansEtc.txt").isFile());
         MnemonicMapLoader acronymMapLoader = new FileMnemonicMapLoader(new File("src/main/resources/SlogansEtc.txt"));
         acronymMapLoader.load(mnemonicMap);
     }
