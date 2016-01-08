@@ -62,8 +62,6 @@ public class Runner {
         }
     }
 
-
-
     private BufferedReader[] getReaders() {
         List<BufferedReader> res = new ArrayList<>();
         for (String file: FILE_LIST) {
@@ -71,9 +69,7 @@ public class Runner {
             res.add(new BufferedReader(new InputStreamReader(in)));
         }
         return res.toArray(new BufferedReader[res.size()]);
-
     }
-
 
     private BufferedReader[] getTestReaders() throws FileNotFoundException {
         final String root = "src/main/resources/";
