@@ -1,7 +1,8 @@
 package core;
 
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
@@ -10,20 +11,27 @@ import java.util.Scanner;
  */
 public class Runner {
 
+    private static final List<String> FILE_LIST = Arrays.asList("Slogans.txt", "SongTitles.txt");
+
     private final MnemonicMap mnemonicMap;
 
-    public static void main (String... args) throws IOException {
-        new Runner().startProgram();
-
+    public static void main (String... args) throws Throwable {
+        new Runner(args).startProgram();
     }
 
-    public Runner() throws IOException {
+    public Runner(String... args) throws Throwable{
         //initialise
         mnemonicMap = new MnemonicMap();
-//        MnemonicMapLoader acronymMapLoader = new HardCodedMnemonicMapLoader();
-        String root = "src/main/resources/";
-        MnemonicMapLoader acronymMapLoader = new FileMnemonicMapLoader(new File(root, "Slogans.txt"), new File(root, "SongTitles.txt"));
+        MnemonicMapLoader acronymMapLoader = new FileMnemonicMapLoader(getBufferedReaders(args));
         acronymMapLoader.load(mnemonicMap);
+    }
+
+    private BufferedReader[] getBufferedReaders(String[] args) throws FileNotFoundException {
+        return isDebug(args) ? getTestReaders() : getReaders();
+    }
+
+    private boolean isDebug(String[] args) {
+        return args.length > 0 && args[0].equals(Utils.DEBUG_SET);
     }
 
     private void startProgram() {
@@ -52,5 +60,27 @@ public class Runner {
                 System.out.format("\"%s\"\t\tcan be mapped to\t\"%s\"\tOrigin: \t%s (%s)%n", value.getAcronym(), value.getDetail().getExpandedAcronym(), value.getDetail().getOrigin(), value.getDetail().getCategory());
             }
         }
+    }
+
+
+
+    private BufferedReader[] getReaders() {
+        List<BufferedReader> res = new ArrayList<>();
+        for (String file: FILE_LIST) {
+            InputStream in = getClass().getResourceAsStream("/" + file);
+            res.add(new BufferedReader(new InputStreamReader(in)));
+        }
+        return res.toArray(new BufferedReader[res.size()]);
+
+    }
+
+
+    private BufferedReader[] getTestReaders() throws FileNotFoundException {
+        final String root = "src/main/resources/";
+        List<BufferedReader> res = new ArrayList<>();
+        for (String file: FILE_LIST) {
+            res.add(new BufferedReader(new FileReader(new File(root, file))));
+        }
+        return res.toArray(new BufferedReader[res.size()]);
     }
 }
