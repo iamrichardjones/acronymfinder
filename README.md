@@ -38,6 +38,6 @@ All data used in this project is sourced from the internet. I take no responsibi
 5. Run the bat or shell file (eg MnemonicRevisionHelper.bat
 
 ### TODO:
-* Improve text introduction on input
 * I18N it all
 * Add more Mnemonics 
+* Remove xlsm from the build

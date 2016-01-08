@@ -34,30 +34,40 @@ public class Runner {
         return args.length > 0 && args[0].equals(Utils.DEBUG_SET);
     }
 
+    @SuppressWarnings("InfiniteLoopStatement")
     private void startProgram() {
-        String userInput = getUserInput();
-        outputAcronym(userInput.toUpperCase());
+        header();
+        while (true) {
+            String userInput = getUserInput();
+            outputAcronym(userInput.toUpperCase());
+        }
+    }
+
+    private void header() {
+        System.out.println("************************************************************************");
+        System.out.println("** Welcome to my Mnemonic Revision Helper                             **");
+        System.out.println("** Please see my GITHUB account at https://github.com/iamrichardjones **");
+        System.out.println("** Please enter mnemonics that you want to remember below. To exit    **");
+        System.out.println("** press cntrl-C or cmd-c                                             **");
+        System.out.println("************************************************************************");
     }
 
     private String getUserInput() {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter Letters in Acronym:" );
-        String userInput = scanner.next();
-        System.out.println("You entered: " + userInput + System.lineSeparator());
-        return userInput;
+        System.out.format("%nEnter Letters in Mnemonic:" );
+        return scanner.next();
     }
 
     private void outputAcronym(String userInput) {
         List<MatchingMnemonic> values = mnemonicMap.getValues(userInput);
 
         if (values.isEmpty()) {
-            System.out.println("Acronym Not Found - sorry");
+            System.out.println("Mnemonic Not Found - sorry");
         }
         else {
             System.out.format("There %s %s matching values%n", values.size() >1 ? "are" : "is", values.size());
-            System.out.format("Here's some help%n");
             for (MatchingMnemonic value : values) {
-                System.out.format("\"%s\"\t\tcan be mapped to\t\"%s\"\tOrigin: \t%s (%s)%n", value.getAcronym(), value.getDetail().getExpandedAcronym(), value.getDetail().getOrigin(), value.getDetail().getCategory());
+                System.out.format("   \"%s\"\t\tcan be mapped to\t\"%s\"\tOrigin: \t%s (%s)%n", value.getAcronym(), value.getDetail().getExpandedAcronym(), value.getDetail().getOrigin(), value.getDetail().getCategory());
             }
         }
     }
