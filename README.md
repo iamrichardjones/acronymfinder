@@ -34,9 +34,10 @@ All data used in this project is sourced from the internet. I take no responsibi
 2. Run gradle clean build 
 3. Run gradle installDist
 3. installdist will create the distribution
-4. Find /build/install/*/bin
-5. Run the bat or shell file
+4. Find /build/install/MnemonicRevisionHelper/bin
+5. Run the bat or shell file (eg MnemonicRevisionHelper.bat
 
 ### TODO:
+* Improve text introduction on input
 * I18N it all
 * Add more Mnemonics 
