@@ -1,5 +1,7 @@
 package core;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.List;
 import java.util.Scanner;
 
@@ -10,15 +12,18 @@ public class Runner {
 
     private final MnemonicMap mnemonicMap;
 
-    public static void main (String... args) {
+    public static void main (String... args) throws IOException {
         new Runner().startProgram();
 
     }
 
-    public Runner() {
+    public Runner() throws IOException {
         //initialise
         mnemonicMap = new MnemonicMap();
-        HardCodedMnemonicMapLoader acronymMapLoader = new HardCodedMnemonicMapLoader();
+//        MnemonicMapLoader acronymMapLoader = new HardCodedMnemonicMapLoader();
+        System.out.println(new File("").getAbsoluteFile());
+        System.out.println(new File("src/main/resources/SlogansEtc.txt").isFile());
+        MnemonicMapLoader acronymMapLoader = new FileMnemonicMapLoader(new File("src/main/resources/SlogansEtc.txt"));
         acronymMapLoader.load(mnemonicMap);
     }
 
