@@ -16,7 +16,8 @@ mainClassName = "core.Runner"
 jar {
     manifest {
         attributes 'Implementation-Title': 'MnemonicRevisionHelper',
-                'Implementation-Version': version
+                   'Implementation-Version': version,
+                   'Main-Class': 'core.Runner'
     }
 }
 
