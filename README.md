@@ -41,3 +41,4 @@ All data used in this project is sourced from the internet. I take no responsibi
 * I18N it all
 * Add more Mnemonics 
 * Remove xlsm from the build
+* add main class file to manifest so people can double click the jar
