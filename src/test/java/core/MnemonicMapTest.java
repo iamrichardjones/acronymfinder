@@ -27,8 +27,8 @@ public class MnemonicMapTest {
         assertEquals(1, values.size());
         List<MatchingMnemonic> next = values.iterator().next();
         assertEquals(1, next.size());
-        assertEquals("bac", next.get(0).getAcronym());
-        assertEquals("banana apple cherry", next.get(0).getDetail().getExpandedAcronym());
+        assertEquals("bac", next.get(0).getMnemonic());
+        assertEquals("banana apple cherry", next.get(0).getDetail().getExpandedMnemonic());
         assertEquals(Utils.UNKNOWN_STRING, next.get(0).getDetail().getOrigin());
     }
 

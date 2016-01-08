@@ -32,8 +32,8 @@ public class FileMnemonicMapLoaderTest {
         assertEquals(1, afterMap.get("AACFMNTTY").size());
         assertEquals(1, afterMap.get("ABCLWY").size());
 
-        assertEquals("You are now free to move about the country", afterMap.get("AACFMNTTY").get(0).getDetail().getExpandedAcronym());
-        assertEquals("You’ve come a long way, baby", afterMap.get("ABCLWY").get(0).getDetail().getExpandedAcronym());
+        assertEquals("You are now free to move about the country", afterMap.get("AACFMNTTY").get(0).getDetail().getExpandedMnemonic());
+        assertEquals("You’ve come a long way, baby", afterMap.get("ABCLWY").get(0).getDetail().getExpandedMnemonic());
     }
 
     @Test

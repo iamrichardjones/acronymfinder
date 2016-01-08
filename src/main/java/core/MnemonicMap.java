@@ -6,15 +6,15 @@ public class MnemonicMap {
 
     private final Map<String, List<MatchingMnemonic>> map = new HashMap<>();
 
-    public List<MatchingMnemonic> getValues(String acronym) {
-        char[] charArray = acronym.toUpperCase().toCharArray();
+    public List<MatchingMnemonic> getValues(String mnemonic) {
+        char[] charArray = mnemonic.toUpperCase().toCharArray();
         Arrays.sort(charArray);
         List<MatchingMnemonic> result = map.get(new String(charArray));
         return result == null ? new ArrayList<MatchingMnemonic>() : result;
     }
 
     public void add(MatchingMnemonic detail) {
-        char[] charArray = detail.getAcronym().toUpperCase().toCharArray();
+        char[] charArray = detail.getMnemonic().toUpperCase().toCharArray();
         Arrays.sort(charArray);
         String key = new String(charArray);
         if (map.get(key) == null) {

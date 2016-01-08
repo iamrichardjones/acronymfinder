@@ -3,18 +3,18 @@ package core;
 
 public class MatchingMnemonicDetail {
 
-    private final String expandedAcronym;
+    private final String expandedMnemonic;
     private final String origin;
     private final String category;
 
-    public MatchingMnemonicDetail(String expandedAcronym, String origin, String category) {
-        this.expandedAcronym = expandedAcronym;
+    public MatchingMnemonicDetail(String expandedMnemonic, String origin, String category) {
+        this.expandedMnemonic = expandedMnemonic;
         this.origin = origin;
         this.category = category;
     }
 
-    public String getExpandedAcronym() {
-        return expandedAcronym;
+    public String getExpandedMnemonic() {
+        return expandedMnemonic;
     }
 
     public String getOrigin() {
@@ -32,7 +32,7 @@ public class MatchingMnemonicDetail {
 
         MatchingMnemonicDetail that = (MatchingMnemonicDetail) o;
 
-        if (!expandedAcronym.equals(that.expandedAcronym)) return false;
+        if (!expandedMnemonic.equals(that.expandedMnemonic)) return false;
         if (!origin.equals(that.origin)) return false;
         if (!category.equals(that.category)) return false;
 
@@ -41,7 +41,7 @@ public class MatchingMnemonicDetail {
 
     @Override
     public int hashCode() {
-        int result = expandedAcronym.hashCode();
+        int result = expandedMnemonic.hashCode();
         result = 31 * result + origin.hashCode();
         return result;
     }
