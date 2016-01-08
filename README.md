@@ -29,9 +29,20 @@ And I could not do a project on mnemonics without referencing [xkcd](https://xkc
 ### Legal Bit
 All data used in this project is sourced from the internet. I take no responsibility for any errors. Please let me know if there are problems or if any bits should be removed.
 
-### How to build/run
+### How to build
 1. Clone repository
-2. Run gradle clean build 
+2. Run gradle clean build
+ 
+### How to run
+Several ways
+####Method1
+1. Clone repository
+2. Run gradle clean build
+3. Find /build/libs
+4. Run java -jar MnemonicRevisionHelper-1.0.jar
+####Method2
+1. Clone repository
+2. Run gradle clean build
 3. Run gradle installDist
 3. installDist will create the distribution
 4. Find /build/install/MnemonicRevisionHelper/bin
@@ -39,6 +50,4 @@ All data used in this project is sourced from the internet. I take no responsibi
 
 ### TODO:
 * I18N it all
-* Add more Mnemonics 
-* Remove xlsm from the build
-* add main class file to manifest so people can double click the jar
+* Add more Mnemonics  (on-going)
