@@ -1,15 +1,17 @@
 package core;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
+
+import static core.Utils.DEFAULT_COLUMN_LENGTH;
+import static core.Utils.fixedLengthString;
 
 /**
  * Entry Point
  */
 public class Runner {
+
+    private static final ResourceBundle BUNDLE = ResourceBundle.getBundle("I18NMessages", Locale.getDefault());
 
     private static final List<String> FILE_LIST = Arrays.asList("Slogans.txt", "SongTitles.txt");
 
@@ -19,7 +21,8 @@ public class Runner {
         new Runner(args).startProgram();
     }
 
-    public Runner(String... args) throws Throwable{
+    public Runner(String... args) throws Throwable {
+
         //initialise
         mnemonicMap = new MnemonicMap();
         MnemonicMapLoader acronymMapLoader = new FileMnemonicMapLoader(getBufferedReaders(args));
@@ -44,17 +47,17 @@ public class Runner {
     }
 
     private void header() {
-        System.out.println("************************************************************************");
-        System.out.println("** Welcome to my Mnemonic Revision Helper                             **");
-        System.out.println("** Please see my GITHUB account at https://github.com/iamrichardjones **");
-        System.out.println("** Please enter mnemonics that you want to remember below.            **");
-        System.out.println("** To exit press cntrl-C or cmd-c                                     **");
-        System.out.println("************************************************************************");
+        System.out.println(BUNDLE.getString("welcomeStars"));
+        System.out.println(BUNDLE.getString("welcomeMsg1"));
+        System.out.println(BUNDLE.getString("welcomeMsg2"));
+        System.out.println(BUNDLE.getString("welcomeMsg3"));
+        System.out.println(BUNDLE.getString("welcomeMsg4"));
+        System.out.println(BUNDLE.getString("welcomeStars"));
     }
 
     private String getUserInput() {
         Scanner scanner = new Scanner(System.in);
-        System.out.format("%nEnter Letters in Mnemonic:" );
+        System.out.format(BUNDLE.getString("enterLetters"));
         return scanner.next();
     }
 
@@ -62,12 +65,24 @@ public class Runner {
         List<MatchingMnemonic> values = mnemonicMap.getValues(userInput);
 
         if (values.isEmpty()) {
-            System.out.println("Mnemonic Not Found - sorry");
+            System.out.println(BUNDLE.getString("mnemonicNotFound"));
         }
         else {
-            System.out.format("There %s %s matching values%n", values.size() >1 ? "are" : "is", values.size());
+            if (values.size() == 1) {
+                System.out.format(BUNDLE.getString("matchingOneValues"), values.size());
+            }
+            else {
+                System.out.format(BUNDLE.getString("matchingMoreThanOneValues"), values.size());
+            }
             for (MatchingMnemonic value : values) {
-                System.out.format("   \"%s\"\t\tcan be mapped to\t\"%s\"\tOrigin: \t%s (%s)%n", value.getMnemonic(), value.getDetail().getExpandedMnemonic(), value.getDetail().getOrigin(), value.getDetail().getCategory());
+                System.out.format("   \"%s\"\t\t%s \t%s\t%s: \t%s (%s)%n",
+                        value.getMnemonic(),
+                        BUNDLE.getString("canBeMapped"),
+                        fixedLengthString(value.getDetail().getExpandedMnemonic(),
+                        DEFAULT_COLUMN_LENGTH),
+                        BUNDLE.getString("origin"),
+                        value.getDetail().getOrigin(),
+                        value.getDetail().getCategory());
             }
         }
     }

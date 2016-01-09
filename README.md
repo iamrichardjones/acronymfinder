@@ -48,7 +48,7 @@ Several ways
 5. Run the bat or shell file (eg MnemonicRevisionHelper.bat
 
 ### TODO:
-* I18N it all
+* finish I18N and test
 * Add more Mnemonics  (on-going)
 
 ### Legal Bit
