@@ -1,5 +1,7 @@
 package core;
 
+import utils.Utils;
+
 public class MatchingMnemonic {
 
     public static final MatchingMnemonic NULL = new MatchingMnemonic(Utils.EMPTY_STRING, Utils.EMPTY_STRING);

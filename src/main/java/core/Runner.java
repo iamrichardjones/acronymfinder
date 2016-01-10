@@ -1,17 +1,18 @@
 package core;
 
+import utils.Utils;
+
 import java.io.*;
 import java.util.*;
 
-import static core.Utils.DEFAULT_COLUMN_LENGTH;
-import static core.Utils.fixedLengthString;
+import static utils.ResourceBundler.get;
+import static utils.Utils.DEFAULT_COLUMN_LENGTH;
+import static utils.Utils.fixedLengthString;
 
 /**
  * Entry Point
  */
 public class Runner {
-
-    private static final ResourceBundle BUNDLE = ResourceBundle.getBundle("I18NMessages", Locale.getDefault());
 
     private static final List<String> FILE_LIST = Arrays.asList("Slogans.txt", "SongTitles.txt");
 
@@ -47,17 +48,17 @@ public class Runner {
     }
 
     private void header() {
-        System.out.println(BUNDLE.getString("welcomeStars"));
-        System.out.println(BUNDLE.getString("welcomeMsg1"));
-        System.out.println(BUNDLE.getString("welcomeMsg2"));
-        System.out.println(BUNDLE.getString("welcomeMsg3"));
-        System.out.println(BUNDLE.getString("welcomeMsg4"));
-        System.out.println(BUNDLE.getString("welcomeStars"));
+        System.out.println(get("welcomeStars"));
+        System.out.println(get("welcomeMsg1"));
+        System.out.println(get("welcomeMsg2"));
+        System.out.println(get("welcomeMsg3"));
+        System.out.println(get("welcomeMsg4"));
+        System.out.println(get("welcomeStars"));
     }
 
     private String getUserInput() {
         Scanner scanner = new Scanner(System.in);
-        System.out.format(BUNDLE.getString("enterLetters"));
+        System.out.format(get("enterLetters"));
         return scanner.next();
     }
 
@@ -65,22 +66,22 @@ public class Runner {
         List<MatchingMnemonic> values = mnemonicMap.getValues(userInput);
 
         if (values.isEmpty()) {
-            System.out.println(BUNDLE.getString("mnemonicNotFound"));
+            System.out.println(get("mnemonicNotFound"));
         }
         else {
             if (values.size() == 1) {
-                System.out.format(BUNDLE.getString("matchingOneValues"), values.size());
+                System.out.format(get("matchingOneValues"), values.size());
             }
             else {
-                System.out.format(BUNDLE.getString("matchingMoreThanOneValues"), values.size());
+                System.out.format(get("matchingMoreThanOneValues"), values.size());
             }
             for (MatchingMnemonic value : values) {
                 System.out.format("   \"%s\"\t\t%s \t%s\t%s: \t%s (%s)%n",
                         value.getMnemonic(),
-                        BUNDLE.getString("canBeMapped"),
+                        get("canBeMapped"),
                         fixedLengthString(value.getDetail().getExpandedMnemonic(),
                         DEFAULT_COLUMN_LENGTH),
-                        BUNDLE.getString("origin"),
+                        get("origin"),
                         value.getDetail().getOrigin(),
                         value.getDetail().getCategory());
             }
