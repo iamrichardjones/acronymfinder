@@ -1,4 +1,3 @@
-CategoryBandTitleAcronym
 SongTitles|The Beatles|cross The Universe|cTU
 SongTitles|The Beatles|Act Naturally|AN
 SongTitles|The Beatles|Ain't She Sweet|ASS
@@ -4281,3 +4280,592 @@ SongTitles|Justin Bieber|Turn To You|TTY
 SongTitles|Justin Bieber|U Smile|US
 SongTitles|Justin Bieber|We Are|WA
 SongTitles|Justin Bieber|Yellow Raincoat|YR
+SongTitles|Adele|All I Ask|AIA
+SongTitles|Adele|Chasing Pavements|CP
+SongTitles|Adele|Cold Shoulder|CS
+SongTitles|Adele|Crazy For You|CFY
+SongTitles|Adele|Don't You Remember|DYR
+SongTitles|Adele|He Won't Go|HWG
+SongTitles|Adele|ometown Glory|oG
+SongTitles|Adele|I Found A Boy|IFAB
+SongTitles|Adele|I Miss You|IMY
+SongTitles|Adele|I'll Be Waiting|IBW
+SongTitles|Adele|Lay Me Down|LMD
+SongTitles|Adele|Love in The Dark|LiTD
+SongTitles|Adele|Make You Feel My Love|MYFML
+SongTitles|Adele|Melt My Heart to Stone|MMHtS
+SongTitles|Adele|Million Years Ago|MYA
+SongTitles|Adele|One and Only|OaO
+SongTitles|Adele|River Lea|RL
+SongTitles|Adele|Rolling In The Deep|RITD
+SongTitles|Adele|Rumour Has It|RHI
+SongTitles|Adele|Send My Love (To Your Lover)|SML(YL
+SongTitles|Adele|Set Fire to the Rain|SFttR
+SongTitles|Adele|Someone Like You|SLY
+SongTitles|Adele|Sweetest Devotion|SD
+SongTitles|Adele|Take It All|TIA
+SongTitles|Adele|Turning Tables|TT
+SongTitles|Adele|Water Under the Bridge|WUtB
+SongTitles|Adele|When We Were Young|WWWY
+SongTitles|Beyonce|Ave Maria|AM
+SongTitles|Beyonce|Baby Boy|BB
+SongTitles|Beyonce|Beautiful Liar|BL
+SongTitles|Beyonce|Best Thing I Never Had|BTINH
+SongTitles|Beyonce|Broken-Hearted Girl|BG
+SongTitles|Beyonce|Check On It|COI
+SongTitles|Beyonce|Crazy In Love|CIL
+SongTitles|Beyonce|Dance For You|DFY
+SongTitles|Beyonce|Deja Vu|DV
+SongTitles|Beyonce|Die With You|DWY
+SongTitles|Beyonce|Disappear|D
+SongTitles|Beyonce|Drunk In Love|DIL
+SongTitles|Beyonce|End of Time|EoT
+SongTitles|Beyonce|Get Me Bodied|GMB
+SongTitles|Beyonce|Ghost / Haunted|G/H
+SongTitles|Beyonce|God Made You Beautiful|GMYB
+SongTitles|Beyonce|Grown Woman|GW
+SongTitles|Beyonce|I Care|IC
+SongTitles|Beyonce|I Miss You|IMY
+SongTitles|Beyonce|I Was Here|IWH
+SongTitles|Beyonce|If I Were a Boy|IIWaB
+SongTitles|Beyonce|Love On Top|LOT
+SongTitles|Beyonce|Me, Myself And I|MMAI
+SongTitles|Beyonce|Naughty Girl|NG
+SongTitles|Beyonce|No Angel|NA
+SongTitles|Beyonce|Pretty Hurts|PH
+SongTitles|Beyonce|Rather Die Young|RDY
+SongTitles|Beyonce|Ring Off|RO
+SongTitles|Beyonce|Ring The Alarm|RTA
+SongTitles|Beyonce|Rise Up|RU
+SongTitles|Beyonce|Run the World Girls|RtWG
+SongTitles|Beyonce|Schoolin' Life|SL
+SongTitles|Beyonce|Single Ladies Put a Ring on It|SLPaRoI
+SongTitles|Beyonce|Standing on the Sun|SotS
+SongTitles|Beyonce|Start Over|SO
+SongTitles|Beyonce|Sweet Dreams|SD
+SongTitles|Beyonce|Till the End of Time|TtEoT
+SongTitles|Beyonce|Video Phone|VP
+SongTitles|Beyonce|Why Don't You Love Me|WDYLM
+SongTitles|Beyonce|Yonce Partition|YP
+SongTitles|Katy Perry|By the Grace of God|BtGoG
+SongTitles|Katy Perry|California Gurls|CG
+SongTitles|Katy Perry|Choose Your Battles|CYB
+SongTitles|Katy Perry|Circle The Drain|CTD
+SongTitles|Katy Perry|Dark Horse|DH
+SongTitles|Katy Perry|Double Rainbow|DR
+SongTitles|Katy Perry|Dressin' Up|DU
+SongTitles|Katy Perry|E T|ET
+SongTitles|Katy Perry|Every Day Is a Holiday|EDIaH
+SongTitles|Katy Perry|Hot n Cold|HnC
+SongTitles|Katy Perry|Hummingbird Heartbeat|HH
+SongTitles|Katy Perry|I Kissed a Girl|IKaG
+SongTitles|Katy Perry|I'm Still Breathing|ISB
+SongTitles|Katy Perry|International Smile|IS
+SongTitles|Katy Perry|It Takes Two|ITT
+SongTitles|Katy Perry|Last Friday Night|LFN
+SongTitles|Katy Perry|Legendary Lovers|LL
+SongTitles|Katy Perry|Love Me|LM
+SongTitles|Katy Perry|Not Like the Movies|NLtM
+SongTitles|Katy Perry|One of the Boys|OotB
+SongTitles|Katy Perry|Part of Me|PoM
+SongTitles|Katy Perry|Teenage Dream|TD
+SongTitles|Katy Perry|The One That Got Away|TOTGA
+SongTitles|Katy Perry|Thinking of You|ToY
+SongTitles|Katy Perry|This Is How We Do|TIHWD
+SongTitles|Katy Perry|This Moment|TM
+SongTitles|Katy Perry|Ur So Gay|USG
+SongTitles|Katy Perry|Waking Up In Vegas|WUIV
+SongTitles|Katy Perry|Walking On Air|WOA
+SongTitles|Katy Perry|Who Am I Living For?|WAILF
+SongTitles|Katy Perry|Wide Awake|WA
+SongTitles|Rihanna|American Oxygen|AO
+SongTitles|Rihanna|As Real as You and Me|ARaYaM
+SongTitles|Rihanna|Birthday Cake|BC
+SongTitles|Rihanna|Bitch Better Have My Money|BBHMM
+SongTitles|Rihanna|Breakin' Dishes|BD
+SongTitles|Rihanna|California King Bed|CKB
+SongTitles|Rihanna|Cheers Drink To That|CDTT
+SongTitles|Rihanna|Cockiness Love It|CLI
+SongTitles|Rihanna|Cold Case Love|CCL
+SongTitles|Rihanna|Dancing in the Dark|DitD
+SongTitles|Rihanna|Do Ya Thang|DYT
+SongTitles|Rihanna|Don't Stop the Music|DStM
+SongTitles|Rihanna|Drunk on Love|DoL
+SongTitles|Rihanna|Fire Bomb|FB
+SongTitles|Rihanna|FourFiveSeconds|F
+SongTitles|Rihanna|Get It Over With|GIOW
+SongTitles|Rihanna|Good Girl Gone Bad|GGGB
+SongTitles|Rihanna|Half Of Me|HOM
+SongTitles|Rihanna|Hate That I Love You|HTILY
+SongTitles|Rihanna|James Joint|JJ
+SongTitles|Rihanna|Lost In Paradise|LIP
+SongTitles|Rihanna|Love The Way You Lie Part II|LTWYLPI
+SongTitles|Rihanna|Love Without Tragedy  Mother Mary|LWTMM
+SongTitles|Rihanna|Loveeeeeee Song|LS
+SongTitles|Rihanna|Mad House|MH
+SongTitles|Rihanna|Man Down|MD
+SongTitles|Rihanna|No Love Allowed|NLA
+SongTitles|Rihanna|Nobody's Business|NB
+SongTitles|Rihanna|Only Girl In The World|OGITW
+SongTitles|Rihanna|Only If for a Night|OIfaN
+SongTitles|Rihanna|Phresh Off The Runway|POTR
+SongTitles|Rihanna|Pon De Replay|PDR
+SongTitles|Rihanna|Pour It Up|PIU
+SongTitles|Rihanna|Raining Men|RM
+SongTitles|Rihanna|Red Lipstick|RL
+SongTitles|Rihanna|Right Now|RN
+SongTitles|Rihanna|Roc Me Out|RMO
+SongTitles|Rihanna|Rockstar 101|R1
+SongTitles|Rihanna|Rude Boy|RB
+SongTitles|Rihanna|Russian Roulette|RR
+SongTitles|Rihanna|S.O.S. Rescue Me|SRM
+SongTitles|Rihanna|Shut Up And Drive|SUAD
+SongTitles|Rihanna|Stupid In Love|SIL
+SongTitles|Rihanna|Take A Bow|TAB
+SongTitles|Rihanna|Talk That Talk|TTT
+SongTitles|Rihanna|Te Amo|TA
+SongTitles|Rihanna|Towards the Sun|TtS
+SongTitles|Rihanna|Wait Your Turn|WYT
+SongTitles|Rihanna|Watch n' Learn|WnL
+SongTitles|Rihanna|We Found Love|WFL
+SongTitles|Rihanna|What Now|WN
+SongTitles|Rihanna|What's My Name?|WMN
+SongTitles|Rihanna|Where Have You Been|WHYB
+SongTitles|Rihanna|Who's That Chick?|WTC
+SongTitles|Rihanna|You Da One|YDO
+SongTitles|One Direction|Back For You|BFY
+SongTitles|One Direction|Best Song Ever|BSE
+SongTitles|One Direction|Better Than Words|BTW
+SongTitles|One Direction|Don't Forget Where You Belong|DFWYB
+SongTitles|One Direction|Drag Me Down|DMD
+SongTitles|One Direction|End Of The Day|EOTD
+SongTitles|One Direction|Fool's Gold|FG
+SongTitles|One Direction|Girl Almighty|GA
+SongTitles|One Direction|Gotta Be You|GBY
+SongTitles|One Direction|Hey Angel|HA
+SongTitles|One Direction|I Want|IW
+SongTitles|One Direction|I Want To Write You A Song|IWTWYAS
+SongTitles|One Direction|I Wish|IW
+SongTitles|One Direction|I Would|IW
+SongTitles|One Direction|If I Could Fly|IICF
+SongTitles|One Direction|Kiss You|KY
+SongTitles|One Direction|Last First Kiss|LFK
+SongTitles|One Direction|Little Black Dress|LBD
+SongTitles|One Direction|Little Things|LT
+SongTitles|One Direction|Little White Lies|LWL
+SongTitles|One Direction|Live While We're Young|LWWY
+SongTitles|One Direction|Long Way Down|LWD
+SongTitles|One Direction|Love You, Goodbye|LYG
+SongTitles|One Direction|Midnight Memories|MM
+SongTitles|One Direction|More Than This|MTT
+SongTitles|One Direction|Never Enough|NE
+SongTitles|One Direction|Night Changes|NC
+SongTitles|One Direction|No Control|NC
+SongTitles|One Direction|One Thing|OT
+SongTitles|One Direction|One Way Or Another (Teenage Kicks)|OWOA(K
+SongTitles|One Direction|Over Again|OA
+SongTitles|One Direction|Ready To Run|RTR
+SongTitles|One Direction|Right Now|RN
+SongTitles|One Direction|Rock Me|RM
+SongTitles|One Direction|Something Great|SG
+SongTitles|One Direction|Stand Up|SU
+SongTitles|One Direction|Steal My Girl|SMG
+SongTitles|One Direction|Stockholm Syndrome|SS
+SongTitles|One Direction|Story of My Life|SoML
+SongTitles|One Direction|Summer Love|SL
+SongTitles|One Direction|Tell Me A Lie|TMAL
+SongTitles|One Direction|Temporary Fix|TF
+SongTitles|One Direction|Through The Dark|TTD
+SongTitles|One Direction|Up All Night|UAN
+SongTitles|One Direction|Walking In The Wind|WITW
+SongTitles|One Direction|What a Feeling|WaF
+SongTitles|One Direction|What Makes You Beautiful|WMYB
+SongTitles|One Direction|Where Do Broken Hearts Go|WDBHG
+SongTitles|One Direction|You And I|YAI
+SongTitles|Sam Hunt|Break Up In A Small Town|BUIAST
+SongTitles|Sam Hunt|House Party|HP
+SongTitles|Sam Hunt|Leave the Night On|LtNO
+SongTitles|Sam Hunt|Speakers|S
+SongTitles|Sam Hunt|Take Your Time|TYT
+SongTitles|Mark Ronson|Crack in the Pearl|CitP
+SongTitles|Mark Ronson|Crack in the Pearl, Pt. II|CitPPI
+SongTitles|Mark Ronson|Daffodils|D
+SongTitles|Mark Ronson|Feel Right|FR
+SongTitles|Mark Ronson|Heavy and Rolling|HaR
+SongTitles|Mark Ronson|I Can't Lose|ICL
+SongTitles|Mark Ronson|In Case of Fire|ICoF
+SongTitles|Mark Ronson|Leaving Los Feliz|LLF
+SongTitles|Mark Ronson|Stop Me|SM
+SongTitles|Mark Ronson|Summer Breaking|SB
+SongTitles|Mark Ronson|Uptown Funk|UF
+SongTitles|Mark Ronson|Uptown's First Finale|UFF
+SongTitles|Drake|Ten Bands|TB
+SongTitles|Drake|5AM In Toronto|5IT
+SongTitles|Drake|Six God|SG
+SongTitles|Drake|Six Man|SM
+SongTitles|Drake|SixPM in New York|SiNY
+SongTitles|Drake|All Me|AM
+SongTitles|Drake|Back to Back|BtB
+SongTitles|Drake|Best I Ever Had|BIEH
+SongTitles|Drake|Buried Alive Interlude|BAI
+SongTitles|Drake|Cameras/Good Ones Go|COG
+SongTitles|Drake|Can I|CI
+SongTitles|Drake|Cece's Interlude|CI
+SongTitles|Drake|Charged Up|CU
+SongTitles|Drake|Club Paradise|CP
+SongTitles|Drake|Crew Love|CL
+SongTitles|Drake|Days in the East|DitE
+SongTitles|Drake|Doing It Wrong|DIW
+SongTitles|Drake|Draft Day|DD
+SongTitles|Drake|Dreams Money Can Buy|DMCB
+SongTitles|Drake|Find Your Love|FYL
+SongTitles|Drake|Free Spirit|FS
+SongTitles|Drake|From Time|FT
+SongTitles|Drake|Furthest Thing|FT
+SongTitles|Drake|Girls Love Beyonce|GLB
+SongTitles|Drake|Heat of the Moment|HotM
+SongTitles|Drake|Hold On We're Going Home|HOWGH
+SongTitles|Drake|Hotline Bling|HB
+SongTitles|Drake|Houstatlantavegas|H
+SongTitles|Drake|How About Now|HAN
+SongTitles|Drake|I Get Lonely Too|IGLT
+SongTitles|Drake|Know Yourself|KY
+SongTitles|Drake|Light Up|LU
+SongTitles|Drake|Look What You've Done|LWYD
+SongTitles|Drake|Lord Knows|LK
+SongTitles|Drake|Make Me Proud|MMP
+SongTitles|Drake|Marvin's Room|MR
+SongTitles|Drake|Miss Me|MM
+SongTitles|Drake|November 18th|N1
+SongTitles|Drake|Over My Dead Body|OMDB
+SongTitles|Drake|Pound Cake/Paris Morton Music 2|PCMM2
+SongTitles|Drake|Right Hand|RH
+SongTitles|Drake|Shot For Me|SFM
+SongTitles|Drake|Show Me a Good Time|SMaGT
+SongTitles|Drake|Shut It Down|SID
+SongTitles|Drake|Started from the Bottom|SftB
+SongTitles|Drake|Take Care|TC
+SongTitles|Drake|Thank Me Now|TMN
+SongTitles|Drake|The Language|TL
+SongTitles|Drake|The Motto|TM
+SongTitles|Drake|The Real Her|TRH
+SongTitles|Drake|The Ride|TR
+SongTitles|Drake|Too Much|TM
+SongTitles|Drake|Tuscan Leather|TL
+SongTitles|Drake|Under Ground Kings|UGK
+SongTitles|Drake|Unforgettable|U
+SongTitles|Drake|Used To|UT
+SongTitles|Drake|We Made It|WMI
+SongTitles|Drake|We'll Be Fine|WBF
+SongTitles|Drake|Worst Behavior|WB
+SongTitles|Drake|Wu-Tang Forever|WF
+SongTitles|Drake|You And The Six|YATS
+SongTitles|Selena Gomez|Come and Get It|CaGI
+SongTitles|Selena Gomez|Do It|DI
+SongTitles|Selena Gomez|Forget Forever|FF
+SongTitles|Selena Gomez|Good For You|GFY
+SongTitles|Selena Gomez|Hands To Myself|HTM
+SongTitles|Selena Gomez|Kill 'Em with Kindness|K'wK
+SongTitles|Selena Gomez|Like A Champion|LAC
+SongTitles|Selena Gomez|Love Will Remember|LWR
+SongTitles|Selena Gomez|Me & the Rhythm|M&tR
+SongTitles|Selena Gomez|Same Old Love|SOL
+SongTitles|Selena Gomez|Save The Day|STD
+SongTitles|Selena Gomez|Slow Down|SD
+SongTitles|Selena Gomez|The Heart Wants What It Wants|THWWIW
+SongTitles|Major Lazer|All My Love|AML
+SongTitles|Major Lazer|Bubble Butt|BB
+SongTitles|Major Lazer|Lean On|LO
+SongTitles|Shawn Mendes|Act like You Love Me|AlYLM
+SongTitles|Shawn Mendes|I Know What You Did Last Summer|IKWYDLS
+SongTitles|Shawn Mendes|Life of the Party|LotP
+SongTitles|Shawn Mendes|Show You|SY
+SongTitles|Shawn Mendes|Something Big|SB
+SongTitles|Shawn Mendes|The Weight|TW
+SongTitles|Luke Bryan|Are You Leaving With Him|AYLWH
+SongTitles|Luke Bryan|Beer In The Headlights|BITH
+SongTitles|Luke Bryan|Blood Brothers|BB
+SongTitles|Luke Bryan|Cold Beer Drinker|CBD
+SongTitles|Luke Bryan|Country Girl Shake It For Me|CGSIFM
+SongTitles|Luke Bryan|Crash My Party|CMP
+SongTitles|Luke Bryan|Dirt Road Diary|DRD
+SongTitles|Luke Bryan|Do I|DI
+SongTitles|Luke Bryan|Drink a Beer|DaB
+SongTitles|Luke Bryan|Drunk On You|DOY
+SongTitles|Luke Bryan|Goodbye Girl|GG
+SongTitles|Luke Bryan|Harvest Time|HT
+SongTitles|Luke Bryan|Home Alone Tonight|HAT
+SongTitles|Luke Bryan|Huntin,' Fishin' and Lovin' Every Day|HFaLED
+SongTitles|Luke Bryan|I Don't Want This Night To End|IDWTNTE
+SongTitles|Luke Bryan|I See You|ISY
+SongTitles|Luke Bryan|Kick The Dust Up|KTDU
+SongTitles|Luke Bryan|Kill the Lights|KtL
+SongTitles|Luke Bryan|Kiss Tomorrow Goodbye|KTG
+SongTitles|Luke Bryan|Like We Ain't Ever|LWAE
+SongTitles|Luke Bryan|Love it Gone|LiG
+SongTitles|Luke Bryan|Muckalee Creek|MC
+SongTitles|Luke Bryan|My Ol' Bronco|MOB
+SongTitles|Luke Bryan|Night One|NO
+SongTitles|Luke Bryan|Play It Again|PIA
+SongTitles|Luke Bryan|Rain Is a Good Thing|RIaGT
+SongTitles|Luke Bryan|Roller Coaster|RC
+SongTitles|Luke Bryan|Shut it Down|SiD
+SongTitles|Luke Bryan|Someone Else Calling You Baby|SECYB
+SongTitles|Luke Bryan|Spring Breakdown|SB
+SongTitles|Luke Bryan|Strip It Down|SID
+SongTitles|Luke Bryan|Tackle Box|TB
+SongTitles|Luke Bryan|That's My Kind of Night|TMKoN
+SongTitles|Luke Bryan|To the Moon and Back|TtMaB
+SongTitles|Luke Bryan|You And The Beach|YATB
+SongTitles|Luke Bryan|You Don't Know Jack|YDKJ
+SongTitles|Luke Bryan|Your Mama Should've Named You Whiskey|YMSNYW
+SongTitles|Meek Mill|All Eyes on You|AEoY
+SongTitles|Meek Mill|Bad For You|BFY
+SongTitles|Meek Mill|Dreams and Nightmares|DaN
+SongTitles|Meek Mill|Ima Boss|IB
+SongTitles|Meek Mill|Maybach Curtains|MC
+SongTitles|Meek Mill|R. I. C. O.|RICO
+SongTitles|Meek Mill|Traumatized|T
+SongTitles|Meek Mill|Wanna Know|WK
+SongTitles|Counting Crows|A Long December|ALD
+SongTitles|Counting Crows|A Murder Of One|AMOO
+SongTitles|Counting Crows|Accidentally in Love|AiL
+SongTitles|Counting Crows|American Girls|AG
+SongTitles|Counting Crows|Anna Begins|AB
+SongTitles|Counting Crows|Butterfly In Reverse|BIR
+SongTitles|Counting Crows|Colorblind|C
+SongTitles|Counting Crows|Come Around|CA
+SongTitles|Counting Crows|Earthquake Driver|ED
+SongTitles|Counting Crows|Einstein On The Beach (For An Eggman)|EOTB(AE
+SongTitles|Counting Crows|God of Ocean Tide|GoOT
+SongTitles|Counting Crows|Goodnight Elisabeth|GE
+SongTitles|Counting Crows|Hanging Tree|HT
+SongTitles|Counting Crows|Hard Candy|HC
+SongTitles|Counting Crows|Have You Seen Me Lately|HYSML
+SongTitles|Counting Crows|I Wish I Was a Girl|IWIWaG
+SongTitles|Counting Crows|Mr. Jones|MJ
+SongTitles|Counting Crows|Mrs. Potter's Lullaby|MPL
+SongTitles|Counting Crows|Palisades Park|PP
+SongTitles|Counting Crows|Perfect Blue Buildings|PBB
+SongTitles|Counting Crows|Rain King|RK
+SongTitles|Counting Crows|Round Here|RH
+SongTitles|Counting Crows|Sullivan Street|SS
+SongTitles|Counting Crows|You Can't Count On Me|YCCOM
+SongTitles|Maroon 5|Give a Little More|GaLM
+SongTitles|Maroon 5|Hands All Over|HAO
+SongTitles|Maroon 5|Harder To Breathe|HTB
+SongTitles|Maroon 5|If I Never See Your Face Again|IINSYFA
+SongTitles|Maroon 5|It Was Always You|IWAY
+SongTitles|Maroon 5|Love Somebody|LS
+SongTitles|Maroon 5|Lucky Strike|LS
+SongTitles|Maroon 5|Makes Me Wonder|MMW
+SongTitles|Maroon 5|Moves Like Jagger|MLJ
+SongTitles|Maroon 5|Must Get Out|MGO
+SongTitles|Maroon 5|My Heart Is Open|MHIO
+SongTitles|Maroon 5|Never Gonna Leave This Bed|NGLTB
+SongTitles|Maroon 5|One More Night|OMN
+SongTitles|Maroon 5|Out Of Goodbyes|OOG
+SongTitles|Maroon 5|She Will Be Loved|SWBL
+SongTitles|Maroon 5|The Man Who Never Lied|TMWNL
+SongTitles|Maroon 5|This Love|TL
+SongTitles|Maroon 5|This Summer's Gonna Hurt|TSGH
+SongTitles|Maroon 5|Wake Up Call|WUC
+SongTitles|Maroon 5|Wasted Years|WY
+SongTitles|Maroon 5|Won't Go Home Without You|WGHWY
+SongTitles|Walk The Moon|Anna Sun|AS
+SongTitles|Walk The Moon|Different Colors|DC
+SongTitles|Future|Benz Friendz Whatchutola|BFW
+SongTitles|Future|Blood, Sweat, Tears|BST
+SongTitles|Future|I Serve the Base|IStB
+SongTitles|Future|I Won|IW
+SongTitles|Future|Karate Chop|KC
+SongTitles|Future|Last Breath|LB
+SongTitles|Future|Move That Dope|MTD
+SongTitles|Future|Real And True|RAT
+SongTitles|Future|Rock Star|RS
+SongTitles|Future|Stick Talk|ST
+SongTitles|Future|Turn On The Lights|TOTL
+SongTitles|Future|Where Ya At|WYA
+SongTitles|Jess Glynne|Ain't Got Far to Go|AGFtG
+SongTitles|Jess Glynne|Don't Be So Hard On Yourself|DBSHOY
+SongTitles|Jess Glynne|Hold My Hand|HMH
+SongTitles|Jess Glynne|Right Here|RH
+SongTitles|Jess Glynne|Take Me Home|TMH
+SongTitles|Jess Glynne|Why Me|WM
+SongTitles|Olly Murs|Army Of Two|AOT
+SongTitles|Olly Murs|Dance With Me Tonight|DWMT
+SongTitles|Olly Murs|Dear Darlin'|DD
+SongTitles|Olly Murs|Did You Miss Me|DYMM
+SongTitles|Olly Murs|Hand On Heart|HOH
+SongTitles|Olly Murs|Head to Toe|HtT
+SongTitles|Olly Murs|Heart On My Sleeve|HOMS
+SongTitles|Olly Murs|Heart Skips a Beat|HSaB
+SongTitles|Olly Murs|Hey You Beautiful|HYB
+SongTitles|Olly Murs|I Need You Now|INYN
+SongTitles|Olly Murs|Kiss Me|KM
+SongTitles|Olly Murs|Let Me In|LMI
+SongTitles|Olly Murs|Loud and Clear|LaC
+SongTitles|Olly Murs|Never Been Better|NBB
+SongTitles|Olly Murs|Oh My Goodness|OMG
+SongTitles|Olly Murs|One of These Days|OoTD
+SongTitles|Olly Murs|Please Don't Let Me Go|PDLMG
+SongTitles|Olly Murs|Right Place Right Time|RPRT
+SongTitles|Olly Murs|That's Alright With Me|TAWM
+SongTitles|Olly Murs|The One|TO
+SongTitles|Olly Murs|Thinking Of Me|TOM
+SongTitles|Olly Murs|What a Buzz|WaB
+SongTitles|Olly Murs|Wrapped Up|WU
+SongTitles|Charli XCX|Body of My Own|BoMO
+SongTitles|Charli XCX|Boom Clap|BC
+SongTitles|Charli XCX|Break The Rules|BTR
+SongTitles|Charli XCX|Breaking Up|BU
+SongTitles|Charli XCX|Die Tonight|DT
+SongTitles|Charli XCX|Doing It|DI
+SongTitles|Charli XCX|Gold Coins|GC
+SongTitles|Charli XCX|Hanging Around|HA
+SongTitles|Charli XCX|Lock You Up|LYU
+SongTitles|Charli XCX|London Queen|LQ
+SongTitles|Charli XCX|Need Ur Love|NUL
+SongTitles|Charli XCX|Nuclear Seasons|NS
+SongTitles|Charli XCX|So Over You|SOY
+SongTitles|Charli XCX|Stay Away|SA
+SongTitles|Charli XCX|You Ha Ha Ha|YHHH
+SongTitles|Pixie Lott|All About Tonight|AAT
+SongTitles|Pixie Lott|Boys and Girls|BaG
+SongTitles|Pixie Lott|Break Up Song|BUS
+SongTitles|Pixie Lott|Broken Arrow|BA
+SongTitles|Pixie Lott|Can't Make This Over|CMTO
+SongTitles|Pixie Lott|Coming Home|CH
+SongTitles|Pixie Lott|Cry Me Out|CMO
+SongTitles|Pixie Lott|Everybody Hurts Sometimes|EHS
+SongTitles|Pixie Lott|Hold Me In Your Arms|HMIYA
+SongTitles|Pixie Lott|Kiss The Stars|KTS
+SongTitles|Pixie Lott|Lay Me Down|LMD
+SongTitles|Pixie Lott|Mama Do|MD
+SongTitles|Pixie Lott|Nothing Compares|NC
+SongTitles|Pixie Lott|Stevie On The Radio|SOTR
+SongTitles|Pixie Lott|Turn It Up|TIU
+SongTitles|Pixie Lott|What Do You Take Me For?|WDYTMF
+SongTitles|Pixie Lott|You Win|YW
+SongTitles|Calvin Harris|Drinking From the Bottle|DFtB
+SongTitles|Calvin Harris|Feel So Close|FSC
+SongTitles|Calvin Harris|Here 2 China|H2C
+SongTitles|Calvin Harris|How Deep Is Your Love|HDIYL
+SongTitles|Calvin Harris|I Need Your Love|INYL
+SongTitles|Calvin Harris|I'm Not Alone|INA
+SongTitles|Calvin Harris|Let's Go|LG
+SongTitles|Calvin Harris|Open Wide|OW
+SongTitles|Calvin Harris|Pray To God|PTG
+SongTitles|Calvin Harris|Ready for the Weekend|RftW
+SongTitles|Calvin Harris|Stars Come Out|SCO
+SongTitles|Calvin Harris|Sweet Nothing|SN
+SongTitles|Calvin Harris|Thinking About You|TAY
+SongTitles|Calvin Harris|Under Control|UC
+SongTitles|Calvin Harris|We'll Be Coming Back|WBCB
+SongTitles|Calvin Harris|Worst Day|WD
+SongTitles|Calvin Harris|Yeah Yeah Yeah La La La|YYYLLL
+SongTitles|Tinie Tempah|Five Minutes|FM
+SongTitles|Tinie Tempah|Children of the Sun|CotS
+SongTitles|Tinie Tempah|Don't Sell Out|DSO
+SongTitles|Tinie Tempah|Let Go|LG
+SongTitles|Tinie Tempah|Looking Down the Barrel|LDtB
+SongTitles|Tinie Tempah|Lost Ones|LO
+SongTitles|Tinie Tempah|Love Suicide|LS
+SongTitles|Tinie Tempah|Lover Not a Fighter|LNaF
+SongTitles|Tinie Tempah|Mosh Pit|MP
+SongTitles|Tinie Tempah|Not Letting Go|NLG
+SongTitles|Tinie Tempah|Pass Out|PO
+SongTitles|Tinie Tempah|Simply Unstoppable|SU
+SongTitles|Tinie Tempah|Someday Place in the Sun|SPitS
+SongTitles|Tinie Tempah|Tears Run Dry|TRD
+SongTitles|Tinie Tempah|Till I'm Gone|TIG
+SongTitles|Tinie Tempah|Witch Doctor|WD
+SongTitles|Tinie Tempah|Written in the Stars|WitS
+SongTitles|Paloma Faith|30 Minute Love Affair|3MLA
+SongTitles|Paloma Faith|Can't Rely on You|CRoY
+SongTitles|Paloma Faith|Do You Want The Truth Or Something Beautiful?|DYWTTOSB
+SongTitles|Paloma Faith|It's the Not Knowing|ItNK
+SongTitles|Paloma Faith|Just Be|JB
+SongTitles|Paloma Faith|Mouth to Mouth|MtM
+SongTitles|Paloma Faith|New York|NY
+SongTitles|Paloma Faith|Only Love Can Hurt Like This|OLCHLT
+SongTitles|Paloma Faith|Picking Up The Pieces|PUTP
+SongTitles|Paloma Faith|Smoke & Mirrors|S&M
+SongTitles|Paloma Faith|Stone Cold Sober|SCS
+SongTitles|Paloma Faith|Streets Of Glory|SOG
+SongTitles|Paloma Faith|Take Me|TM
+SongTitles|Paloma Faith|The Beauty of the End|TBotE
+SongTitles|Paloma Faith|Trouble with My Baby|TwMB
+SongTitles|Jessie Ware|Champagne Kisses|CK
+SongTitles|Jessie Ware|Imagine It Was Us|IIWU
+SongTitles|Jessie Ware|Kind of…Sometimes…Maybe|Ko
+SongTitles|Jessie Ware|Meet Me In the Middle|MMItM
+SongTitles|Jessie Ware|Night Light|NL
+SongTitles|Jessie Ware|No to Love|NtL
+SongTitles|Jessie Ware|Say You Love Me|SYLM
+SongTitles|Jessie Ware|Sweet Talk|ST
+SongTitles|Jessie Ware|Taking In Water|TIW
+SongTitles|Jessie Ware|Tough Love|TL
+SongTitles|Jessie Ware|Wildest Moments|WM
+SongTitles|Jessie Ware|You and I Forever|YaIF
+SongTitles|Katy B|Broken Record|BR
+SongTitles|Katy B|Crying For No Reason|CFNR
+SongTitles|Katy B|Easy Please Me|EPM
+SongTitles|Katy B|Go Away|GA
+SongTitles|Katy B|Hard to Get|HtG
+SongTitles|Katy B|I Like You|ILY
+SongTitles|Katy B|Katy On A Mission|KOAM
+SongTitles|Katy B|Light as a Feather|LaaF
+SongTitles|Katy B|Lights On|LO
+SongTitles|Katy B|Power On Me|POM
+SongTitles|Katy B|What Love Is Made Of|WLIMO
+SongTitles|Leona Lewis|Another Love Song|ALS
+SongTitles|Leona Lewis|Better In Time|BIT
+SongTitles|Leona Lewis|Bleeding Love|BL
+SongTitles|Leona Lewis|Come Alive|CA
+SongTitles|Leona Lewis|Don't Let Me Down|DLMD
+SongTitles|Leona Lewis|Fire Under My Feet|FUMF
+SongTitles|Leona Lewis|Footprints In The Sand|FITS
+SongTitles|Leona Lewis|Forgive Me|FM
+SongTitles|Leona Lewis|Glassheart|G
+SongTitles|Leona Lewis|Here I Am|HIA
+SongTitles|Leona Lewis|I Got You|IGY
+SongTitles|Leona Lewis|I See You|ISY
+SongTitles|Leona Lewis|I To You|ITY
+SongTitles|Leona Lewis|I Will Be|IWB
+SongTitles|Leona Lewis|Mr. Right|MR
+SongTitles|Leona Lewis|My Hands|MH
+SongTitles|Leona Lewis|One More Sleep|OMS
+SongTitles|Leona Lewis|Outta My Head|OMH
+SongTitles|Leona Lewis|You Don't Care|YDC
+SongTitles|Leona Lewis|You Knew Me When|YKMW
+SongTitles|Leona Lewis|Your Hallelujah|YH
+SongTitles|Lily Allen|Air Balloon|AB
+SongTitles|Lily Allen|As Long As I Got You|ALAIGY
+SongTitles|Lily Allen|Everyone's at It|EaI
+SongTitles|Lily Allen|F--k You|FY
+SongTitles|Lily Allen|Go Back to the Start|GBttS
+SongTitles|Lily Allen|Hard Out Here|HOH
+SongTitles|Lily Allen|He Wasn't There|HWT
+SongTitles|Lily Allen|Insincerely Yours|IY
+SongTitles|Lily Allen|L8 CMMR|LC
+SongTitles|Lily Allen|Life For Me|LFM
+SongTitles|Lily Allen|Littlest Things|LT
+SongTitles|Lily Allen|Never Gonna Happen|NGH
+SongTitles|Lily Allen|Not Fair|NF
+SongTitles|Lily Allen|Silver Spoon|SS
+SongTitles|Lily Allen|Something's Not Right|SNR
+SongTitles|Lily Allen|Somewhere Only We Know|SOWK
+SongTitles|Lily Allen|Take My Place|TMP
+SongTitles|Lily Allen|The Fear|TF
+SongTitles|Lily Allen|URL Badman|UB
+SongTitles|Lily Allen|Who'd Have Known|WHK
+SongTitles|Birdy|All About You|AAY
+SongTitles|Birdy|Just a Game|JaG
+SongTitles|Birdy|Light Me Up|LMU
+SongTitles|Birdy|No Angel|NA
+SongTitles|Birdy|Not About Angels|NAA
+SongTitles|Birdy|People Help the People|PHtP
+SongTitles|Birdy|Skinny Love|SL
+SongTitles|Birdy|Without A Word|WAW
+SongTitles|Birdy|Words as Weapons|WaW
