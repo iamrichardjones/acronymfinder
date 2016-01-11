@@ -23,7 +23,6 @@ public class Runner {
     }
 
     public Runner(String... args) throws Throwable {
-
         //initialise
         mnemonicMap = new MnemonicMap();
         MnemonicMapLoader acronymMapLoader = new FileMnemonicMapLoader(getBufferedReaders(args));
