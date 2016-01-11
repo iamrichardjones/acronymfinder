@@ -1,3 +1,4 @@
+CategoryBandTitleAcronym
 SongTitles|The Beatles|cross The Universe|cTU
 SongTitles|The Beatles|Act Naturally|AN
 SongTitles|The Beatles|Ain't She Sweet|ASS
@@ -4128,3 +4129,155 @@ SongTitles|Lady Gaga|The Edge of Glory|TEoG
 SongTitles|Lady Gaga|Til It Happens To You|TIHTY
 SongTitles|Lady Gaga|You and I|YaI
 SongTitles|Lady Gaga|You're All My Little Monsters|YAMLM
+SongTitles|Will.i.am|that Power|tP
+SongTitles|Will.i.am|Bang Bang|BB
+SongTitles|Will.i.am|Fall Down|FD
+SongTitles|Will.i.am|Far Away From Home|FAFH
+SongTitles|Will.i.am|Feelin' Myself|FM
+SongTitles|Will.i.am|I Got It From My Mama|IGIFMM
+SongTitles|Will.i.am|It's My Birthday|IMB
+SongTitles|Will.i.am|Let's Go|LG
+SongTitles|Will.i.am|Reach for the Stars|RftS
+SongTitles|Will.i.am|Scream & Shout|S&S
+SongTitles|Will.i.am|Smile Mona Lisa|SML
+SongTitles|Will.i.am|The Hardest Ever|THE
+SongTitles|Will.i.am|This is Love|TiL
+SongTitles|Will.i.am|Yes We Can|YWC
+SongTitles|Cheryl Cole|Three Words|TW
+SongTitles|Cheryl Cole|A Million Lights|AML
+SongTitles|Cheryl Cole|All In One Night|AION
+SongTitles|Cheryl Cole|All Is Fair|AIF
+SongTitles|Cheryl Cole|Boy Like You|BLY
+SongTitles|Cheryl Cole|Call My Name|CMN
+SongTitles|Cheryl Cole|Coming Up for Air|CUfA
+SongTitles|Cheryl Cole|Craziest Things|CT
+SongTitles|Cheryl Cole|Crazy Stupid Love|CSL
+SongTitles|Cheryl Cole|Don't Talk About This Love|DTATL
+SongTitles|Cheryl Cole|Fight For This Love|FFTL
+SongTitles|Cheryl Cole|Ghetto Baby|GB
+SongTitles|Cheryl Cole|Girl In The Mirror|GITM
+SongTitles|Cheryl Cole|Goodbye Means Hello|GMH
+SongTitles|Cheryl Cole|Happy Hour|HH
+SongTitles|Cheryl Cole|Happy Tears|HT
+SongTitles|Cheryl Cole|I Don't Care|IDC
+SongTitles|Cheryl Cole|It's About Time|IAT
+SongTitles|Cheryl Cole|Love Killer|LK
+SongTitles|Cheryl Cole|Make Me Cry|MMC
+SongTitles|Cheryl Cole|Mechanics of the Heart|MotH
+SongTitles|Cheryl Cole|Only Human|OH
+SongTitles|Cheryl Cole|Promise This|PT
+SongTitles|Cheryl Cole|Rain On Me|ROM
+SongTitles|Cheryl Cole|Screw You|SY
+SongTitles|Cheryl Cole|Sexy Den A Mutha|SDAM
+SongTitles|Cheryl Cole|Stand Up|SU
+SongTitles|Cheryl Cole|The Flood|TF
+SongTitles|Cheryl Cole|Under The Sun|UTS
+SongTitles|Cheryl Cole|Yeah Yeah|YY
+SongTitles|Taylor Swift|A Place In This World|APITW
+SongTitles|Taylor Swift|All Too Well|ATW
+SongTitles|Taylor Swift|All You Had To Do Was Stay|AYHTDWS
+SongTitles|Taylor Swift|Back To December|BTD
+SongTitles|Taylor Swift|Bad Blood|BB
+SongTitles|Taylor Swift|Begin Again|BA
+SongTitles|Taylor Swift|Better Than Revenge|BTR
+SongTitles|Taylor Swift|Blank Space|BS
+SongTitles|Taylor Swift|Cold As You|CAY
+SongTitles|Taylor Swift|Dear John|DJ
+SongTitles|Taylor Swift|Everything Has Changed|EHC
+SongTitles|Taylor Swift|Eyes Open|EO
+SongTitles|Taylor Swift|Forever & Always|F&A
+SongTitles|Taylor Swift|Hey Stephen|HS
+SongTitles|Taylor Swift|Holy Ground|HG
+SongTitles|Taylor Swift|How You Get The Girl|HYGTG
+SongTitles|Taylor Swift|I Almost Do|IAD
+SongTitles|Taylor Swift|I Knew You Were Trouble|IKYWT
+SongTitles|Taylor Swift|I Know Places|IKP
+SongTitles|Taylor Swift|I Wish You Would|IWYW
+SongTitles|Taylor Swift|If This Was a Movie|ITWaM
+SongTitles|Taylor Swift|Jump Then Fall|JTF
+SongTitles|Taylor Swift|Last Kiss|LK
+SongTitles|Taylor Swift|Long Live|LL
+SongTitles|Taylor Swift|Love Story|LS
+SongTitles|Taylor Swift|Mary's Song Oh My My My|MSOMMM
+SongTitles|Taylor Swift|Never Grow Up|NGU
+SongTitles|Taylor Swift|New Romantics|NR
+SongTitles|Taylor Swift|Our Song|OS
+SongTitles|Taylor Swift|Out Of The Woods|OOTW
+SongTitles|Taylor Swift|Picture To Burn|PTB
+SongTitles|Taylor Swift|Sad Beautiful Tragic|SBT
+SongTitles|Taylor Swift|Safe and Sound|SaS
+SongTitles|Taylor Swift|Shake It Off|SIO
+SongTitles|Taylor Swift|Should've Said No|SSN
+SongTitles|Taylor Swift|Sparks Fly|SF
+SongTitles|Taylor Swift|Speak Now|SN
+SongTitles|Taylor Swift|Starlight|S
+SongTitles|Taylor Swift|State of Grace|SoG
+SongTitles|Taylor Swift|Stay Beautiful|SB
+SongTitles|Taylor Swift|Stay Stay Stay|SSS
+SongTitles|Taylor Swift|Sweeter Than Fiction|STF
+SongTitles|Taylor Swift|Teardrops on My Guitar|ToMG
+SongTitles|Taylor Swift|Tell Me Why|TMW
+SongTitles|Taylor Swift|The Best Day|TBD
+SongTitles|Taylor Swift|The Last Time|TLT
+SongTitles|Taylor Swift|The Lucky One|TLO
+SongTitles|Taylor Swift|The Moment I Knew|TMIK
+SongTitles|Taylor Swift|The Outside|TO
+SongTitles|Taylor Swift|The Story of Us|TSoU
+SongTitles|Taylor Swift|The Way I Loved You|TWILY
+SongTitles|Taylor Swift|This Love|TL
+SongTitles|Taylor Swift|Tied Together With A Smile|TTWAS
+SongTitles|Taylor Swift|Tim McGraw|TM
+SongTitles|Taylor Swift|Today Was a Fairytale|TWaF
+SongTitles|Taylor Swift|We Are Never Ever Getting Back Together|WANEGBT
+SongTitles|Taylor Swift|Welcome to New York|WtNY
+SongTitles|Taylor Swift|White Horse|WH
+SongTitles|Taylor Swift|Wildest Dreams|WD
+SongTitles|Taylor Swift|Wonderland|W
+SongTitles|Taylor Swift|You Are In Love|YAIL
+SongTitles|Taylor Swift|You Belong With Me|YBWM
+SongTitles|Taylor Swift|You're Not Sorry|YNS
+SongTitles|Justin Bieber|All Around The World|AATW
+SongTitles|Justin Bieber|All Bad|AB
+SongTitles|Justin Bieber|All I Want Is You|AIWIY
+SongTitles|Justin Bieber|All In It|AII
+SongTitles|Justin Bieber|All That Matters|ATM
+SongTitles|Justin Bieber|As Long As You Love Me|ALAYLM
+SongTitles|Justin Bieber|Bad Day|BD
+SongTitles|Justin Bieber|Be Alright|BA
+SongTitles|Justin Bieber|Beauty And A Beat|BAAB
+SongTitles|Justin Bieber|Catching Feelings|CF
+SongTitles|Justin Bieber|Change Me|CM
+SongTitles|Justin Bieber|Christmas Eve|CE
+SongTitles|Justin Bieber|Die In Your Arms|DIYA
+SongTitles|Justin Bieber|Down To Earth|DTE
+SongTitles|Justin Bieber|Fa La La|FLL
+SongTitles|Justin Bieber|Heartbreaker|H
+SongTitles|Justin Bieber|Hit The Ground|HTG
+SongTitles|Justin Bieber|Hold Tight|HT
+SongTitles|Justin Bieber|Home This Christmas|HTC
+SongTitles|Justin Bieber|I Would|IW
+SongTitles|Justin Bieber|Life Is Worth Living|LIWL
+SongTitles|Justin Bieber|Love Me|LM
+SongTitles|Justin Bieber|Mark My Words|MMW
+SongTitles|Justin Bieber|Never Let You Go|NLYG
+SongTitles|Justin Bieber|Never Say Never|NSN
+SongTitles|Justin Bieber|No Pressure|NP
+SongTitles|Justin Bieber|No Sense|NS
+SongTitles|Justin Bieber|Nothing Like Us|NLU
+SongTitles|Justin Bieber|One Less Lonely Girl|OLLG
+SongTitles|Justin Bieber|One Love|OL
+SongTitles|Justin Bieber|One Time|OT
+SongTitles|Justin Bieber|Only Thing I Ever Get For Christmas|OTIEGFC
+SongTitles|Justin Bieber|Right Here|RH
+SongTitles|Justin Bieber|Roller Coaster|RC
+SongTitles|Justin Bieber|Runaway Love|RL
+SongTitles|Justin Bieber|Show You|SY
+SongTitles|Justin Bieber|Somebody To Love|STL
+SongTitles|Justin Bieber|Take You|TY
+SongTitles|Justin Bieber|That Should Be Me|TSBM
+SongTitles|Justin Bieber|The Feeling|TF
+SongTitles|Justin Bieber|Thought Of You|TOY
+SongTitles|Justin Bieber|Turn To You|TTY
+SongTitles|Justin Bieber|U Smile|US
+SongTitles|Justin Bieber|We Are|WA
+SongTitles|Justin Bieber|Yellow Raincoat|YR
