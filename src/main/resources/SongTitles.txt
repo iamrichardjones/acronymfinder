@@ -1,3 +1,4 @@
+CategoryBandTitleAcronym
 SongTitles|The Beatles|cross The Universe|cTU
 SongTitles|The Beatles|Act Naturally|AN
 SongTitles|The Beatles|Ain't She Sweet|ASS
@@ -4869,3 +4870,160 @@ SongTitles|Birdy|People Help the People|PHtP
 SongTitles|Birdy|Skinny Love|SL
 SongTitles|Birdy|Without A Word|WAW
 SongTitles|Birdy|Words as Weapons|WaW
+SongTitles|Take That|Back For Good|BFG
+SongTitles|Take That|Don't Say Goodbye|DSG
+SongTitles|Take That|Get Ready for It|GRfI
+SongTitles|Take That|Greatest Day|GD
+SongTitles|Take That|How Did It Come to This|HDICtT
+SongTitles|Take That|Let in the Sun|LitS
+SongTitles|Take That|Love Love|LL
+SongTitles|Take That|Relight My Fire|RMF
+SongTitles|Take That|Rule The World|RTW
+SongTitles|Take That|Said It All|SIA
+SongTitles|Take That|The Circus|TC
+SongTitles|Take That|The Day The Work Is Done|TDTWID
+SongTitles|Take That|The Flood|TF
+SongTitles|Take That|The Garden|TG
+SongTitles|Take That|These Days|TD
+SongTitles|Take That|Up All Night|UAN
+SongTitles|Take That|What Do You Want From Me?|WDYWFM
+SongTitles|Take That|When We Were Young|WWWY
+SongTitles|Take That|Wonderful World|WW
+SongTitles|Oasis|Get Off Your High Horse Lady|GOYHHL
+SongTitles|Oasis|Ain't Got Nothin'|AGN
+SongTitles|Oasis|All Around The World|AATW
+SongTitles|Oasis|Bag It Up|BIU
+SongTitles|Oasis|Bring It On Down|BIOD
+SongTitles|Oasis|Cast No Shadow|CNS
+SongTitles|Oasis|Champagne Supernova|CS
+SongTitles|Oasis|Cigarettes & Alcohol|C&A
+SongTitles|Oasis|D'you Know What I Mean|DKWIM
+SongTitles|Oasis|Digsy's Dinner|DD
+SongTitles|Oasis|Don't Go Away|DGA
+SongTitles|Oasis|Don't Look Back In Anger|DLBIA
+SongTitles|Oasis|F--kin' in the Bushes|FitB
+SongTitles|Oasis|Fade In-Out|FI
+SongTitles|Oasis|Falling Down|FD
+SongTitles|Oasis|Force of Nature|FoN
+SongTitles|Oasis|Gas Panic!|GP
+SongTitles|Oasis|Go Let It Out|GLIO
+SongTitles|Oasis|Going Nowhere|GN
+SongTitles|Oasis|Half the World Away|HtWA
+SongTitles|Oasis|Hey Now|HN
+SongTitles|Oasis|I'm Outta Time|IOT
+SongTitles|Oasis|Let There Be Love|LTBL
+SongTitles|Oasis|Listen Up|LU
+SongTitles|Oasis|Little By Little|LBL
+SongTitles|Oasis|Little James|LJ
+SongTitles|Oasis|Live Forever|LF
+SongTitles|Oasis|Lord Don't Slow Me Down|LDSMD
+SongTitles|Oasis|Love Like A Bomb|LLAB
+SongTitles|Oasis|Married With Children|MWC
+SongTitles|Oasis|Morning Glory|MG
+SongTitles|Oasis|Mucky Fingers|MF
+SongTitles|Oasis|Part Of The Queue|POTQ
+SongTitles|Oasis|Rock 'n' Roll Star|R'RS
+SongTitles|Oasis|Roll It Over|RIO
+SongTitles|Oasis|Roll With It|RWI
+SongTitles|Oasis|Sad Song|SS
+SongTitles|Oasis|Shakermaker|S
+SongTitles|Oasis|She Is Love|SIL
+SongTitles|Oasis|She's Electric|SE
+SongTitles|Oasis|Slide Away|SA
+SongTitles|Oasis|Soldier On|SO
+SongTitles|Oasis|Some Might Say|SMS
+SongTitles|Oasis|Stand By Me|SBM
+SongTitles|Oasis|Stop Cryin' Your Heart Out|SCYHO
+SongTitles|Oasis|Sunday Morning Call|SMC
+SongTitles|Oasis|Talk Tonight|TT
+SongTitles|Oasis|The Hindu Times|THT
+SongTitles|Oasis|The Importance Of Being Idle|TIOBI
+SongTitles|Oasis|The Masterplan|TM
+SongTitles|Oasis|The Meaning Of Soul|TMOS
+SongTitles|Oasis|The Nature of Reality|TNoR
+SongTitles|Oasis|The Shock of the Lightning|TSotL
+SongTitles|Oasis|The Turning|TT
+SongTitles|Oasis|To Be Where There's Life|TBWTL
+SongTitles|Oasis|Up in the Sky|UitS
+SongTitles|Oasis|Waiting for the Rapture|WftR
+SongTitles|Oasis|Where Did It All Go Wrong?|WDIAGW
+SongTitles|Tom Jones|Green Green Grass Of Home|GGGOH
+SongTitles|Tom Jones|I'll Never Fall In Love Again|INFILA
+SongTitles|Tom Jones|I'm Coming Home|ICH
+SongTitles|Tom Jones|If I Only Knew|IIOK
+SongTitles|Tom Jones|It's Not Unusual|INU
+SongTitles|Tom Jones|Mama Told Me Not To Come|MTMNTC
+SongTitles|Tom Jones|Sugar Daddy|SD
+SongTitles|Tom Jones|The Road|TR
+SongTitles|Tom Jones|What's New Pussycat?|WNP
+SongTitles|Rixton|Hotel Ceiling|HC
+SongTitles|Rixton|Let the Road|LtR
+SongTitles|Rixton|Make Out|MO
+SongTitles|Rixton|Me and My Broken Heart|MaMBH
+SongTitles|Rixton|Wait On Me|WOM
+SongTitles|Pharell William|Brand New|BN
+SongTitles|Pharell William|Can I Have It Like That|CIHILT
+SongTitles|Pharell William|Come Get It Bae|CGIB
+SongTitles|Pharell William|Despicable Me|DM
+SongTitles|Pharell William|Gust of Wind|GoW
+SongTitles|Pharell William|How Does It Feel?|HDIF
+SongTitles|Pharell William|It Girl|IG
+SongTitles|Pharell William|Know Who You Are|KWYA
+SongTitles|Pharell William|Lost Queen|LQ
+SongTitles|Pharell William|Marilyn Monroe|MM
+SongTitles|The Vamps|Can We Dance|CWD
+SongTitles|The Vamps|Last Night|LN
+SongTitles|The Vamps|Oh Cecilia Breaking My Heart|OCBMH
+SongTitles|The Vamps|Rest Your Love|RYL
+SongTitles|The Vamps|Somebody To You|STY
+SongTitles|The Vamps|Wake Up|WU
+SongTitles|The Vamps|Wild Heart|WH
+SongTitles|Sam Smith|Drowning Shadows|DS
+SongTitles|Sam Smith|Good Thing|GT
+SongTitles|Sam Smith|I'm Not The Only One|INTOO
+SongTitles|Sam Smith|I've Told You Now|ITYN
+SongTitles|Sam Smith|Lay Me Down|LMD
+SongTitles|Sam Smith|Leave Your Lover|LYL
+SongTitles|Sam Smith|Life Support|LS
+SongTitles|Sam Smith|Like I Can|LIC
+SongTitles|Sam Smith|Make It to Me|MItM
+SongTitles|Sam Smith|Money On My Mind|MOMM
+SongTitles|Sam Smith|Not In That Way|NITW
+SongTitles|Sam Smith|Reminds Me of You|RMoY
+SongTitles|Sam Smith|Safe With Me|SWM
+SongTitles|Sam Smith|Stay With Me|SWM
+SongTitles|Sam Smith|Writing's On The Wall|WOTW
+SongTitles|Sam Smith|Yellow Hat|YH
+SongTitles|Usher|Best Thing|BT
+SongTitles|Usher|Confessions, Pt. Two|CPT
+SongTitles|Usher|DJ Got Us Fallin' In Love|DGUFIL
+SongTitles|Usher|Foolin' Around|FA
+SongTitles|Usher|Good Kisser|GK
+SongTitles|Usher|Here I Stand|HIS
+SongTitles|Usher|Hey Daddy Daddy's Home|HDDH
+SongTitles|Usher|His Mistakes|HM
+SongTitles|Usher|Hot Thing|HT
+SongTitles|Usher|Hot Tottie|HT
+SongTitles|Usher|I Care for U|ICfU
+SongTitles|Usher|I Don't Mind|IDM
+SongTitles|Usher|Lay You Down|LYD
+SongTitles|Usher|Lemme See|LS
+SongTitles|Usher|Lil Freak|LF
+SongTitles|Usher|Looking 4 Myself|L4M
+SongTitles|Usher|Love in This Club|LiTC
+SongTitles|Usher|Love in This Club Part II|LiTCPI
+SongTitles|Usher|Love You Gently|LYG
+SongTitles|Usher|Mars Vs Venus|MVV
+SongTitles|Usher|Moving Mountains|MM
+SongTitles|Usher|My Boo|MB
+SongTitles|Usher|Prayer for You|PfY
+SongTitles|Usher|She Came to Give It to You|SCtGItY
+SongTitles|Usher|She Don't Know|SDK
+SongTitles|Usher|Show Me|SM
+SongTitles|Usher|Sins of My Father|SoMF
+SongTitles|Usher|Something Special|SS
+SongTitles|Usher|There Goes My Baby|TGMB
+SongTitles|Usher|This Ain't Sex|TAS
+SongTitles|Usher|Trading Places|TP
+SongTitles|Usher|What Happened to U|WHtU
+SongTitles|Usher|You Make Me Wanna|YMMW
