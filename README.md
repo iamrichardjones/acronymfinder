@@ -47,9 +47,12 @@ Several ways
 4. Find /build/install/MnemonicRevisionHelper/bin
 5. Run the bat or shell file (eg MnemonicRevisionHelper.bat
 
+### Translations:
+Thanks to Sabine Reisinger for the German translation
+
 ### TODO:
 * finish I18N and test
-* Add more Mnemonics  (on-going)
+* Add more Mnemonics  (on-going) - Currently over 500 Slogans and 500 Songs
 
 ### Legal Bit
 All data used in this project is sourced from the internet. I take no responsibility for any errors. Please let me know if there are problems or if any bits should be removed.
