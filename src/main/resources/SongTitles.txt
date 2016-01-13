@@ -8,7 +8,7 @@ SongTitles|The Beatles|All Together Now|ATN
 SongTitles|The Beatles|All You Need Is Love|AYNIL
 SongTitles|The Beatles|And I Love Her|AILH
 SongTitles|The Beatles|And Your Bird Can Sing|AYBCS
-SongTitles|The Beatles|Anna (Go To Him)|A(TH
+SongTitles|The Beatles|Anna Go To Him|AGTH
 SongTitles|The Beatles|Another Girl|AG
 SongTitles|The Beatles|Any Time At All|ATAA
 SongTitles|The Beatles|Ask Me Why |AMW
@@ -30,7 +30,7 @@ SongTitles|The Beatles|Carol|C
 SongTitles|The Beatles|Carry That Weight|CTW
 SongTitles|The Beatles|Cayenne|C
 SongTitles|The Beatles|Chains|C
-SongTitles|The Beatles|Christmas Time (Is Here Again)|CT(HA
+SongTitles|The Beatles|Christmas Time Is Here Again|CTIHA
 SongTitles|The Beatles|Clarabella|C
 SongTitles|The Beatles|Come Together|CT
 SongTitles|The Beatles|The Continuing Story Of Bungalow Bill|TCSOBB
@@ -106,7 +106,7 @@ SongTitles|The Beatles|I Should Have Known Better|ISHKB
 SongTitles|The Beatles|I Wanna Be Your Man|IWBYM
 SongTitles|The Beatles|I Want To Hold Your Hand|IWTHYH
 SongTitles|The Beatles|I Want To Tell You|IWTTY
-SongTitles|The Beatles|I Want You (She's So Heavy)|IWY(SH
+SongTitles|The Beatles|I Want You She's So Heavy|IWYSSH
 SongTitles|The Beatles|I Will|IW
 SongTitles|The Beatles|If I Fell|IIF
 SongTitles|The Beatles|If I Needed Someone|IINS
@@ -117,7 +117,7 @@ SongTitles|The Beatles|I'll Follow The Sun|IFTS
 SongTitles|The Beatles|I'll Get You|IGY
 SongTitles|The Beatles|I'm A Loser|IAL
 SongTitles|The Beatles|I'm Down|ID
-SongTitles|The Beatles|I'm Gonna Sit Right Down And Cry (Over You)|IGSRDAC(Y
+SongTitles|The Beatles|I'm Gonna Sit Right Down And Cry Over You|IGSRDACOY
 SongTitles|The Beatles|I'm Happy Just To Dance With You|IHJTDWY
 SongTitles|The Beatles|I'm Looking Through You|ILTY
 SongTitles|The Beatles|I'm Only Sleeping|IOS
@@ -160,14 +160,14 @@ SongTitles|The Beatles|Mean Mr. Mustard|MMM
 SongTitles|The Beatles|Memphis, Tennessee|MT
 SongTitles|The Beatles|Michelle|M
 SongTitles|The Beatles|Misery|M
-SongTitles|The Beatles|Money (That' What I Want)|M(WIW
+SongTitles|The Beatles|Money That' What I Want|MTWIW
 SongTitles|The Beatles|Moonlight Bay|MB
 SongTitles|The Beatles|Mother Nature's Son|MNS
 SongTitles|The Beatles|Mr. Moonlight|MM
 SongTitles|The Beatles|My Bonnie [Sung by Tony Sheridan] |MB[bTS
 SongTitles|The Beatles|The Night Before|TNB
 SongTitles|The Beatles|No Reply|NR
-SongTitles|The Beatles|Norwegian Wood (This Bird Has Flown)|NW(BHF
+SongTitles|The Beatles|Norwegian Wood This Bird Has Flown|NWTBHF
 SongTitles|The Beatles|Not A Second Time|NAST
 SongTitles|The Beatles|Nothin' Shakin'|NS
 SongTitles|The Beatles|Nowhere Man |NM
@@ -198,7 +198,7 @@ SongTitles|The Beatles|Savoy Truffle|ST
 SongTitles|The Beatles|Searchin'|S
 SongTitles|The Beatles|Sexy Sadie|SS
 SongTitles|The Beatles|Sgt. Pepper's Lonely Hearts Club Band|SPLHCB
-SongTitles|The Beatles|Sgt. Pepper's Lonely Hearts Club Band (Reprise)|SPLHCB(
+SongTitles|The Beatles|Sgt. Pepper's Lonely Hearts Club Band Reprise|SPLHCBR
 SongTitles|The Beatles|She Came In Through The Bathroom Window|SCITTBW
 SongTitles|The Beatles|She Loves You|SLY
 SongTitles|The Beatles|She Said She Said|SSSS
@@ -209,7 +209,7 @@ SongTitles|The Beatles|A Shot Of Rhythm And Blues|ASORAB
 SongTitles|The Beatles|Shout!|S
 SongTitles|The Beatles|Sie Liebt Dich|SLD
 SongTitles|The Beatles|Slow Down|SD
-SongTitles|The Beatles|So How Come (No One Loves Me)|SHC(OLM
+SongTitles|The Beatles|So How Come No One Loves Me|SHCNOLM
 SongTitles|The Beatles|Soldier Of Love|SOL
 SongTitles|The Beatles|Some Other Guy|SOG
 SongTitles|The Beatles|Something|S
@@ -222,7 +222,7 @@ SongTitles|The Beatles|Tell Me What You See|TMWYS
 SongTitles|The Beatles|Tell Me Why|TMW
 SongTitles|The Beatles|Thank You Girl|TYG
 SongTitles|The Beatles|That'll Be The Day|TBTD
-SongTitles|The Beatles|That's All Right (Mama)|TAR(
+SongTitles|The Beatles|That's All Right Mama|TARM
 SongTitles|The Beatles|There's A Place|TAP
 SongTitles|The Beatles|Things We Said Today|TWST
 SongTitles|The Beatles|Think For Yourself|TFY
@@ -253,7 +253,7 @@ SongTitles|The Beatles|Yer Blues|YB
 SongTitles|The Beatles|Yes It Is|YII
 SongTitles|The Beatles|Yesterday|Y
 SongTitles|The Beatles|You Can't Do That|YCDT
-SongTitles|The Beatles|You Know My Name (Look Up The Number)|YKMN(UTN
+SongTitles|The Beatles|You Know My Name Look Up The Number|YKMNLUTN
 SongTitles|The Beatles|You Know What To Do|YKWTD
 SongTitles|The Beatles|You Like Me Too Much|YLMTM
 SongTitles|The Beatles|You Never Give Me Your Money|YNGMYM
@@ -297,7 +297,7 @@ SongTitles|Stevie Wonder|Bam|B
 SongTitles|Stevie Wonder|Bang Bang|BB
 SongTitles|Stevie Wonder|Be Cool, Be Calm|BCBC
 SongTitles|Stevie Wonder|Beachstomp|B
-SongTitles|Stevie Wonder|Been Through The Storm (with Busta Rhymes)|BTTS(BR
+SongTitles|Stevie Wonder|Been Through The Storm With Busta Rhymes|BTTSWBR
 SongTitles|Stevie Wonder|Bedtime For Toys|BFT
 SongTitles|Stevie Wonder|Beyond The Sea|BTS
 SongTitles|Stevie Wonder|Big Brother|BB
@@ -320,7 +320,7 @@ SongTitles|Stevie Wonder|Come Back Baby|CBB
 SongTitles|Stevie Wonder|Come Let Me Make Your Love Come Down|CLMMYLCD
 SongTitles|Stevie Wonder|Contract On Love|COL
 SongTitles|Stevie Wonder|Contusion|C
-SongTitles|Stevie Wonder|Conversations (with Snoop Dogg)|C(SD
+SongTitles|Stevie Wonder|Conversations|C
 SongTitles|Stevie Wonder|Conversation Peace|CP
 SongTitles|Stevie Wonder|Creepin'|C
 SongTitles|Stevie Wonder|Cryin' Through The Night|CTTN
@@ -336,25 +336,25 @@ SongTitles|Stevie Wonder|Don't Wonder Why|DWW
 SongTitles|Stevie Wonder|Don't You Feel It|DYFI
 SongTitles|Stevie Wonder|Don't You Know|DYK
 SongTitles|Stevie Wonder|Don't You Worry 'Bout A Thing|DYW'AT
-SongTitles|Stevie Wonder|Dove Vai (Italian)|DV(
+SongTitles|Stevie Wonder|Dove Vai|DV
 SongTitles|Stevie Wonder|Down To Earth|DTE
 SongTitles|Stevie Wonder|Dream|D
 SongTitles|Stevie Wonder|Drown In My Own Tears|DIMOT
 SongTitles|Stevie Wonder|Each Other's Throat|EOT
 SongTitles|Stevie Wonder|Earth's Creation|EC
-SongTitles|Stevie Wonder|Easy Goin' Evening (My Mama's Call)|EGE(MC
+SongTitles|Stevie Wonder|Easy Goin' Evening My Mama's Call|EGEMMC
 SongTitles|Stevie Wonder|Ebb Tide|ET
 SongTitles|Stevie Wonder|Ebony And Ivory|EAI
 SongTitles|Stevie Wonder|Ebony Eyes|EE
 SongTitles|Stevie Wonder|Ecclesiastes|E
 SongTitles|Stevie Wonder|Edge Of Eternity|EOE
-SongTitles|Stevie Wonder|Everyday (I Have The Blues)|E(HTB
+SongTitles|Stevie Wonder|Everyday I Have The Blues|EIHTB
 SongTitles|Stevie Wonder|Everyone's A Kid A Christmas Time|EAKACT
-SongTitles|Stevie Wonder|Everybody Needs Somebody (I Need You)|ENS(NY
+SongTitles|Stevie Wonder|Everybody Needs Somebody I Need You|ENSINY
 SongTitles|Stevie Wonder|Everytime I See You I Go Wild|EISYIGW
 SongTitles|Stevie Wonder|Evil|E
 SongTitles|Stevie Wonder|Feeding Off The Love Of The Land|FOTLOTL
-SongTitles|Stevie Wonder|Feeling You (with Omar)|FY(O
+SongTitles|Stevie Wonder|Feeling You|FY
 SongTitles|Stevie Wonder|Finale|F
 SongTitles|Stevie Wonder|Finally|F
 SongTitles|Stevie Wonder|Fingertips Pts 1 & 2|FP1&2
@@ -369,7 +369,7 @@ SongTitles|Stevie Wonder|Galaxy Paradise|GP
 SongTitles|Stevie Wonder|Get Happy|GH
 SongTitles|Stevie Wonder|Get It|GI
 SongTitles|Stevie Wonder|Girl Blue|GB
-SongTitles|Stevie Wonder|Give Me Time (Minnie Riperton - Tribute)|GMT(R-T
+SongTitles|Stevie Wonder|Give Me Time|GMT
 SongTitles|Stevie Wonder|Give Your Heart A Chance|GYHAC
 SongTitles|Stevie Wonder|Give Your Love|GYL
 SongTitles|Stevie Wonder|Go Home|GH
@@ -396,7 +396,7 @@ SongTitles|Stevie Wonder|How Can You Believe?|HCYB
 SongTitles|Stevie Wonder|How Come, How Long|HCHL
 SongTitles|Stevie Wonder|How Will I Know|HWIK
 SongTitles|Stevie Wonder|I Ain't Gonna Stand For It|IAGSFI
-SongTitles|Stevie Wonder|I Believe (When I Fall In Love It Will Be Forever)|IB(IFILIWBF
+SongTitles|Stevie Wonder|I Believe When I Fall In Love It Will Be Forever|IBWIFILIWBF
 SongTitles|Stevie Wonder|I Call It Pretty Music Music But The People Call It The Blues|ICIPMMBTPCITB
 SongTitles|Stevie Wonder|I Can Only Be Me|ICOBM
 SongTitles|Stevie Wonder|I Can't Let My Heaven Walk Away|ICLMHWA
@@ -5027,3 +5027,80 @@ SongTitles|Usher|This Ain't Sex|TAS
 SongTitles|Usher|Trading Places|TP
 SongTitles|Usher|What Happened to U|WHtU
 SongTitles|Usher|You Make Me Wanna|YMMW
+SongTitles|Kasabian|Acid Turkish Bath Shelter From the Storm|ATBSFtS
+SongTitles|Kasabian|Days Are Forgotten|DAF
+SongTitles|Kasabian|Fast Fuse|FF
+SongTitles|Kasabian|Goodbye Kiss|GK
+SongTitles|Kasabian|I Hear Voices|IHV
+SongTitles|Kasabian|Lost Souls Forever|LSF
+SongTitles|Kasabian|La Fee Verte|LFV
+SongTitles|Kasabian|Ladies And Gentlemen Roll The Dice|LAGRTD
+SongTitles|Kasabian|Let's Roll Just Like We Used To|LRJLWUT
+SongTitles|Kasabian|Man of Simple Pleasures|MoSP
+SongTitles|Kasabian|Neon Noon|NN
+SongTitles|Kasabian|Re Wired|RW
+SongTitles|Kasabian|Secret Alphabets|SA
+SongTitles|Kasabian|Shoot The Runner|STR
+SongTitles|Kasabian|S P S|SPS
+SongTitles|Kasabian|Switchblade Smiles|SS
+SongTitles|Kasabian|Take Aim|TA
+SongTitles|Kasabian|Thick As Thieves|TAT
+SongTitles|Kasabian|Vlad The Impaler|VTI
+SongTitles|Kasabian|West Rider Silver Bullet|WRSB
+SongTitles|Kasabian|Where Did All The Love Go?|WDATLG
+SongTitles|Sigalar|Easy Love|EL
+SongTitles|Sigalar|Sweet Lovin'|SL
+SongTitles|Coldplay|Til Kingdom Come|TKC
+SongTitles|Coldplay|A Head Full Of Dreams|AHFOD
+SongTitles|Coldplay|A Message|AM
+SongTitles|Coldplay|A Rush Of Blood To The Head|AROBTTH
+SongTitles|Coldplay|A Sky Full Of Stars|ASFOS
+SongTitles|Coldplay|Adventure of a Lifetime|AoaL
+SongTitles|Coldplay|Always In My Head|AIMH
+SongTitles|Coldplay|Amazing Day|AD
+SongTitles|Coldplay|Another's Arms|AA
+SongTitles|Coldplay|Army Of One|AOO
+SongTitles|Coldplay|Careful Where You Stand|CWYS
+SongTitles|Coldplay|Cemeteries of London|CoL
+SongTitles|Coldplay|Charlie Brown|CB
+SongTitles|Coldplay|Chinese Sleep Chant|CSC
+SongTitles|Coldplay|Christmas Lights|CL
+SongTitles|Coldplay|Colour Spectrum|CS
+SongTitles|Coldplay|Death And All His Friends|DAAHF
+SongTitles|Coldplay|Don't Let It Break Your Heart|DLIBYH
+SongTitles|Coldplay|Every Teardrop is a Waterfall|ETiaW
+SongTitles|Coldplay|Fix You|FY
+SongTitles|Coldplay|Fly On|FO
+SongTitles|Coldplay|Glass of Water|GoW
+SongTitles|Coldplay|God Put A Smile Upon Your Face|GPASUYF
+SongTitles|Coldplay|Green Eyes|GE
+SongTitles|Coldplay|Hurts Like Heaven|HLH
+SongTitles|Coldplay|Hymn For The Weekend|HFTW
+SongTitles|Coldplay|In My Place|IMP
+SongTitles|Coldplay|Life In Technicolor|LIT
+SongTitles|Coldplay|Lovers in Japan / Reign Of Love|LiJ/ROL
+SongTitles|Coldplay|M. M. I. X.|MMIX
+SongTitles|Coldplay|Major Minus|MM
+SongTitles|Coldplay|Moving To Mars|MTM
+SongTitles|Coldplay|Mylo Xyloto|MX
+SongTitles|Coldplay|Princess of China|PoC
+SongTitles|Coldplay|Prospekt's March|PM
+SongTitles|Coldplay|Rainy Day|RD
+SongTitles|Coldplay|See You Soon|SYS
+SongTitles|Coldplay|Speed of Sound|SoS
+SongTitles|Coldplay|Strawberry Swing|SS
+SongTitles|Coldplay|Such A Rush|SAR
+SongTitles|Coldplay|The Escapist|TE
+SongTitles|Coldplay|The Scientist|TS
+SongTitles|Coldplay|True Love|TL
+SongTitles|Coldplay|U. F. O.|UFO
+SongTitles|Coldplay|Up and Up|UaU
+SongTitles|Coldplay|Up In Flames|UIF
+SongTitles|Coldplay|Up With The Birds|UWTB
+SongTitles|Coldplay|Us Against The World|UATW
+SongTitles|Coldplay|Violet Hill|VH
+SongTitles|Coldplay|Viva La Vida|VLV
+SongTitles|Coldplay|Warning Sign|WS
+SongTitles|Coldplay|We Never Change|WNC
+SongTitles|Coldplay|White Shadows|WS
+SongTitles|Coldplay|X Marks the Spot|XMtS
