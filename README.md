@@ -42,6 +42,11 @@ Several ways
 #### Method2
 1. Clone repository
 2. Run gradle clean build
+3. Run core.Runner with parameter -D for debug. (-D will help with loading resources)
+
+#### Method3
+1. Clone repository
+2. Run gradle clean build
 3. Run gradle installDist
 3. installDist will create the distribution
 4. Find /build/install/MnemonicRevisionHelper/bin
