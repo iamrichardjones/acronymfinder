@@ -416,7 +416,7 @@ SongTitles|Stevie Wonder|I Was Made To Love Her|IWMTLH
 SongTitles|Stevie Wonder|I Wish|IW
 SongTitles|Stevie Wonder|I'd Be A Fool Right Now|IBAFRN
 SongTitles|Stevie Wonder|I'd Cry|IC
-SongTitles|Stevie Wonder|I'm More Than Happy (I'm Satisfied)|IMTH(S
+SongTitles|Stevie Wonder|I'm More Than Happy I'm Satisfied|IMTHIS
 SongTitles|Stevie Wonder|I'm New|IN
 SongTitles|Stevie Wonder|I'm The One Who Loves You|ITOWLY
 SongTitles|Stevie Wonder|I'm Too Close|ITC
@@ -428,18 +428,18 @@ SongTitles|Stevie Wonder|If It's Magic|IIM
 SongTitles|Stevie Wonder|If She Breaks Your Heart|ISBYH
 SongTitles|Stevie Wonder|If You Really Love Me|IYRLM
 SongTitles|Stevie Wonder|If Your Love Cannot Be Moved|IYLCBM
-SongTitles|Stevie Wonder|Il Sole E' Di Tutti (Italian)|ISEDT(
+SongTitles|Stevie Wonder|Il Sole E' Di Tutti|ISEDT
 SongTitles|Stevie Wonder|In Your Corner|IYC
 SongTitles|Stevie Wonder|Isn't She Lovely|ISL
 SongTitles|Stevie Wonder|It Ain't No Use|IANU
 SongTitles|Stevie Wonder|It's You|IY
 SongTitles|Stevie Wonder|It's More Than You|IMTY
-SongTitles|Stevie Wonder|It's Wrong (Apartheid)|IW(
+SongTitles|Stevie Wonder|It's Wrong Apartheid|IWA
 SongTitles|Stevie Wonder|Jesus Children Of America|JCOA
-SongTitles|Stevie Wonder|Joy (Takes Over Me)|J(OM
+SongTitles|Stevie Wonder|Joy Takes Over Me|JTOM
 SongTitles|Stevie Wonder|Joy Inside My Tears|JIMT
 SongTitles|Stevie Wonder|Jungle Fever|JF
-SongTitles|Stevie Wonder|Just Good Friends (with Michael Jackson)|JGF(MJ
+SongTitles|Stevie Wonder|Just Good Friends|JGF
 SongTitles|Stevie Wonder|Justice Of The Heart|JOTH
 SongTitles|Stevie Wonder|Keep On Running|KOR
 SongTitles|Stevie Wonder|Keep Our Love Alive|KOLA
@@ -466,11 +466,11 @@ SongTitles|Stevie Wonder|Make Someone Happy|MSH
 SongTitles|Stevie Wonder|Make Sure You're Sure|MSYS
 SongTitles|Stevie Wonder|Manhattan At Six|MAS
 SongTitles|Stevie Wonder|Mary Ann|MA
-SongTitles|Stevie Wonder|Mastablasta '98 (with Wyclef Jean)|M'(WJ
-SongTitles|Stevie Wonder|Master Blaster (Jammin')|MB(
+SongTitles|Stevie Wonder|Mastablasta '98|M'
+SongTitles|Stevie Wonder|Master Blaster Jammin'|MBJ
 SongTitles|Stevie Wonder|Maybe Your Baby|MYB
-SongTitles|Stevie Wonder|Mi Ayer Tu Ayer El Ayer (Spanish)|MATAEA(
-SongTitles|Stevie Wonder|Mi Querido Amor (Spanish)|MQA(
+SongTitles|Stevie Wonder|Mi Ayer Tu Ayer El Ayer|MATAEA
+SongTitles|Stevie Wonder|Mi Querido Amor|MQA
 SongTitles|Stevie Wonder|Misrepresented People|MP
 SongTitles|Stevie Wonder|Moments Aren't Moments|MAM
 SongTitles|Stevie Wonder|Monkey Talk|MT
@@ -481,7 +481,7 @@ SongTitles|Stevie Wonder|Mr Tambourine Man|MTM
 SongTitles|Stevie Wonder|Ms. & Mr. Little Ones|M&MLO
 SongTitles|Stevie Wonder|Music Talk|MT
 SongTitles|Stevie Wonder|My Baby's Gone|MBG
-SongTitles|Stevie Wonder|My Cherie Amor (Italian)|MCA(
+SongTitles|Stevie Wonder|My Cherie Amor|MCA
 SongTitles|Stevie Wonder|My Cherie Amour|MCA
 SongTitles|Stevie Wonder|My Eyes Don't Cry|MEDC
 SongTitles|Stevie Wonder|My Girl|MG
@@ -492,9 +492,9 @@ SongTitles|Stevie Wonder|My World Is Empty Without You|MWIEWY
 SongTitles|Stevie Wonder|Never Dreamed You'd Leave In Summer|NDYLIS
 SongTitles|Stevie Wonder|Never Had A Dream Come True|NHADCT
 SongTitles|Stevie Wonder|Never In Your Sun|NIYS
-SongTitles|Stevie Wonder|Never My Love / Ask The Lonely (Medley)|NML/ATL(
+SongTitles|Stevie Wonder|Never My Love / Ask The Lonely|NML/ATL
 SongTitles|Stevie Wonder|Ngiculela - Es Una Historia/I Am Singing|N-EUHAS
-SongTitles|Stevie Wonder|Non Sono Un Angelo (Italian)|NSUA(
+SongTitles|Stevie Wonder|Non Sono Un Angelo|NSUA
 SongTitles|Stevie Wonder|Nothing's Too Good For My Baby|NTGFMB
 SongTitles|Stevie Wonder|On The Sunny Side Of The Street|OTSSOTS
 SongTitles|Stevie Wonder|One Little Christmas Tree|OLCT
@@ -504,7 +504,7 @@ SongTitles|Stevie Wonder|Outside My Window|OMW
 SongTitles|Stevie Wonder|Overjoyed|O
 SongTitles|Stevie Wonder|Part-Time Lover|PL
 SongTitles|Stevie Wonder|Passionate Raindrops|PR
-SongTitles|Stevie Wonder|Passo Le Mie Notti Quida Solo (Italian)|PLMNQS(
+SongTitles|Stevie Wonder|Passo Le Mie Notti Quida Solo|PLMNQS
 SongTitles|Stevie Wonder|Pastime Paradise|PP
 SongTitles|Stevie Wonder|Paulsby|P
 SongTitles|Stevie Wonder|Peace Wanted Just Too Be Free|PWJTBF
@@ -515,7 +515,7 @@ SongTitles|Stevie Wonder|Please Don't Go|PDG
 SongTitles|Stevie Wonder|Please Don't Hurt my Baby|PDHmB
 SongTitles|Stevie Wonder|Please, Please, Please|PPP
 SongTitles|Stevie Wonder|Pops We Love You|PWLY
-SongTitles|Stevie Wonder|Por Primera Vez (Spanish)|PPV(
+SongTitles|Stevie Wonder|Por Primera Vez|PPV
 SongTitles|Stevie Wonder|Positivity|P
 SongTitles|Stevie Wonder|Power Flower|PF
 SongTitles|Stevie Wonder|Pretty Little Angel|PLA
@@ -533,7 +533,7 @@ SongTitles|Stevie Wonder|Ruby|R
 SongTitles|Stevie Wonder|Sad Boy|SB
 SongTitles|Stevie Wonder|Same Old Story|SOS
 SongTitles|Stevie Wonder|Saturn|S
-SongTitles|Stevie Wonder|Se Tu Ragazza Mia (Italian)|STRM(
+SongTitles|Stevie Wonder|Se Tu Ragazza Mia|STRM
 SongTitles|Stevie Wonder|Seasons|S
 SongTitles|Stevie Wonder|Seasons Of Love|SOL
 SongTitles|Stevie Wonder|Seems So Long|SSL
@@ -550,9 +550,9 @@ SongTitles|Stevie Wonder|Sixteen Tons|ST
 SongTitles|Stevie Wonder|Skeletons|S
 SongTitles|Stevie Wonder|Smile|S
 SongTitles|Stevie Wonder|Smile Please|SP
-SongTitles|Stevie Wonder|So Amazing (with Beyonce)|SA(B
+SongTitles|Stevie Wonder|So Amazing|SA
 SongTitles|Stevie Wonder|So What The Fuss|SWTF
-SongTitles|Stevie Wonder|Solo Te, Solo Me, Solo Noi (Italian)|STSMSN(
+SongTitles|Stevie Wonder|Solo Te, Solo Me, Solo Noi|STSMSN
 SongTitles|Stevie Wonder|Some Other Time|SOT
 SongTitles|Stevie Wonder|Some Years Ago|SYA
 SongTitles|Stevie Wonder|Somebody Knows, Somebody Cares|SKSC
@@ -563,7 +563,7 @@ SongTitles|Stevie Wonder|Sorry|S
 SongTitles|Stevie Wonder|Soul Bongo|SB
 SongTitles|Stevie Wonder|Spiritual Walkers|SW
 SongTitles|Stevie Wonder|Square|S
-SongTitles|Stevie Wonder|St. Louis Blues (with Herbie Hancock)|SLB(HH
+SongTitles|Stevie Wonder|St. Louis Blues|SLB
 SongTitles|Stevie Wonder|Stay Gold|SG
 SongTitles|Stevie Wonder|Stevie Ray Blues|SRB
 SongTitles|Stevie Wonder|Stranger On The Shore Of Love|SOTSOL
@@ -575,7 +575,7 @@ SongTitles|Stevie Wonder|Summer Soft|SS
 SongTitles|Stevie Wonder|Sunset|S
 SongTitles|Stevie Wonder|Sunshine In There Eyes|SITE
 SongTitles|Stevie Wonder|Superstition|S
-SongTitles|Stevie Wonder|Superwoman (Where Were You When I Needed You)|S(WYWINY
+SongTitles|Stevie Wonder|Superwoman Where Were You When I Needed You|SWWYWINY
 SongTitles|Stevie Wonder|Sweet Little Girl|SLG
 SongTitles|Stevie Wonder|Sweetest Somebody I Know|SSIK
 SongTitles|Stevie Wonder|Sylvia|S
@@ -585,7 +585,7 @@ SongTitles|Stevie Wonder|Take Up A Course In Happiness|TUACIH
 SongTitles|Stevie Wonder|Teach Me Tonight|TMT
 SongTitles|Stevie Wonder|Tears In Vain|TIV
 SongTitles|Stevie Wonder|Tell Your Heart I Love You|TYHILY
-SongTitles|Stevie Wonder|Thank You (For Loving Me All The Way)|TY(LMATW
+SongTitles|Stevie Wonder|Thank You For Loving Me All The Way|TYFLMATW
 SongTitles|Stevie Wonder|Thank You Love|TYL
 SongTitles|Stevie Wonder|That Girl|TG
 SongTitles|Stevie Wonder|That's What Friends Are For|TWFAF
@@ -617,10 +617,10 @@ SongTitles|Stevie Wonder|True Love|TL
 SongTitles|Stevie Wonder|True To Your Heart|TTYH
 SongTitles|Stevie Wonder|Tuesday Heartbreak|TH
 SongTitles|Stevie Wonder|Twinkle Twinkle Little Me|TTLM
-SongTitles|Stevie Wonder|Un Un Lugar En El Sol (Spanish)|UULEES(
-SongTitles|Stevie Wonder|Until You Come Back To Me (That's What I'm Gonna Do)|UYCBTM(WIGD
+SongTitles|Stevie Wonder|Un Un Lugar En El Sol|UULEES
+SongTitles|Stevie Wonder|Until You Come Back To Me That's What I'm Gonna Do|UYCBTMTWIGD
 SongTitles|Stevie Wonder|Upset Stomach|US
-SongTitles|Stevie Wonder|Uptight (Everything's Alright)|U(A
+SongTitles|Stevie Wonder|Uptight Everything's Alright|UEA
 SongTitles|Stevie Wonder|Used To Be|UTB
 SongTitles|Stevie Wonder|Venus' Flytrap And The Bug|VFATB
 SongTitles|Stevie Wonder|Village Ghetto Land|VGL
@@ -646,14 +646,14 @@ SongTitles|Stevie Wonder|Wondering|W
 SongTitles|Stevie Wonder|Workout Stevie, Workout|WSW
 SongTitles|Stevie Wonder|Yakkity Yak Take That Back|YYTTB
 SongTitles|Stevie Wonder|Yester-Me, Yester-You, Yesterday|YYY
-SongTitles|Stevie Wonder|You And I (We Can Conquer The World)|YAI(CCTW
+SongTitles|Stevie Wonder|You And I We Can Conquer The World|YAIWCCTW
 SongTitles|Stevie Wonder|You And Me|YAM
 SongTitles|Stevie Wonder|You Are The Sunshine Of My Life|YATSOML
 SongTitles|Stevie Wonder|You Can't Judge A Book By Its Cover|YCJABBIC
 SongTitles|Stevie Wonder|You Haven't Done Nothin'|YHDN
 SongTitles|Stevie Wonder|You Met Your Match|YMYM
 SongTitles|Stevie Wonder|You Will Know|YWK
-SongTitles|Stevie Wonder|(You're My) Dream Come True|(MDCT
+SongTitles|Stevie Wonder|You're My Dream Come True|YMDCT
 SongTitles|Stevie Wonder|You've Got It Bad Girl|YGIBG
 SongTitles|a ha | Take On Me|TOM
 SongTitles|a ha | Train of Thought|ToT
@@ -676,7 +676,7 @@ SongTitles|AC/DC | Whole Lotta Rosie|WLR
 SongTitles|AC/DC | Highway to Hell|HtH
 SongTitles|AC/DC | Girls Got Rhythm|GGR
 SongTitles|AC/DC | Walk All Over You|WAOY
-SongTitles|AC/DC | If You Want Blood (You've Got It)|IYWB(GI
+SongTitles|AC/DC | If You Want Blood You've Got It|IYWBYGI
 SongTitles|AC/DC | Hells Bells|HB
 SongTitles|AC/DC | Shoot to Thrill|StT
 SongTitles|AC/DC | Let Me Put My Love Into You|LMPMLIY
@@ -710,7 +710,7 @@ SongTitles|Aerosmith | Come Together|CT
 SongTitles|Aerosmith | Lightning Strikes|LS
 SongTitles|Aerosmith | Let the Music Do the Talking|LtMDtT
 SongTitles|Aerosmith | Rag Doll|RD
-SongTitles|Aerosmith | Dude (Looks Like a Lady)|D(LaL
+SongTitles|Aerosmith | Dude Looks Like a Lady|DLLaL
 SongTitles|Aerosmith | Angel|A
 SongTitles|Aerosmith | Love in an Elevator|LiaE
 SongTitles|Aerosmith | Janie's Got a Gun|JGaG
@@ -880,7 +880,7 @@ SongTitles|Badfinger | You're So Fine|YSF
 SongTitles|Badfinger | Got to Get Out of Here|GtGOoH
 SongTitles|Badfinger | Dennis|D
 SongTitles|Badfinger | In the Meantime / Some Other Time|ItM/SOT
-SongTitles|Badfinger | King of the Load (T)|KotL(
+SongTitles|Badfinger | King of the Load|KotL
 SongTitles|Badfinger | Meanwhile Back at the Ranch / Should I Smoke|MBatR/SIS
 SongTitles|Band | The Weight|TW
 SongTitles|Band | I Shall Be Released|ISBR
@@ -889,7 +889,7 @@ SongTitles|Band | Up On Cripple Creek|UOCC
 SongTitles|Band | Stage Fright|SF
 SongTitles|Bangles | Manic Monday|MM
 SongTitles|Bangles | Walk Like an Egyptian|WLaE
-SongTitles|Barrett Strong | Money (That's What I Want)|M(WIW
+SongTitles|Barrett Strong | Money That's What I Want|MTWIW
 SongTitles|Barry Mann | Who Put the Bomp|WPtB
 SongTitles|Barry McGuire | Eve of Destruction|EoD
 SongTitles|Beach Boys |409|4
@@ -925,7 +925,7 @@ SongTitles|Bert Jansch | Oh How Your Love is Strong|OHYLiS
 SongTitles|Bert Jansch | Needle of Death|NoD
 SongTitles|Bert Jansch | A Man I'd Rather Be|AMIRB
 SongTitles|Bert Jansch | It Don't Bother Me|IDBM
-SongTitles|Betty Everett | The Shoop Shoop Song (It's In His Kiss)|TSSS(IHK
+SongTitles|Betty Everett | The Shoop Shoop Song It's In His Kiss|TSSSIIHK
 SongTitles|Big Bopper | Chantilly Lace|CL
 SongTitles|Big Brother & the Holding Company | Combination of the Two|CotT
 SongTitles|Big Brother & the Holding Company | Summertime|S
@@ -936,7 +936,7 @@ SongTitles|Big Star | Thirteen|T
 SongTitles|Big Star | When My Baby's Beside Me|WMBBM
 SongTitles|Big Star | September Gurls|SG
 SongTitles|Bill Haley | Shake, Rattle and Roll|SRaR
-SongTitles|Bill Haley | (We're Gonna) Rock Around the Clock|(GRAtC
+SongTitles|Bill Haley |We're Gonna Rock Around the Clock|WGRAtC
 SongTitles|Bill Haley | See You Later Alligator|SYLA
 SongTitles|Bill Withers | Ain't No Sunshine|ANS
 SongTitles|Bill Withers | Lean On Me|LOM
@@ -951,7 +951,7 @@ SongTitles|Billy Joel | Captain Jack|CJ
 SongTitles|Billy Joel | The Entertainer|TE
 SongTitles|Billy Joel | New York State of Mind|NYSoM
 SongTitles|Billy Joel | Prelude / Angry Young Man|P/AYM
-SongTitles|Billy Joel | Movin' Out (Anthony's Song)|MO(S
+SongTitles|Billy Joel | Movin' Out Anthony's Song|MOAS
 SongTitles|Billy Joel | The Stranger|TS
 SongTitles|Billy Joel | Just the Way You Are|JtWYA
 SongTitles|Billy Joel | Scenes From an Italian Restaurant|SFaIR
@@ -1061,7 +1061,7 @@ SongTitles|Blue Oyster Cult | O.D.'d On Life Itself|OOLI
 SongTitles|Blue Oyster Cult | Flaming Telepaths|FT
 SongTitles|Blue Oyster Cult | Astronomy|A
 SongTitles|Blue Oyster Cult | This Ain't the Summer of Love|TAtSoL
-SongTitles|Blue Oyster Cult | (Don't Fear) The Reaper|(FTR
+SongTitles|Blue Oyster Cult | Don't Fear The Reaper|DFTR
 SongTitles|Blue Oyster Cult | Extra Terrestrial Intelligence|ETI
 SongTitles|Blue Oyster Cult | Godzilla|G
 SongTitles|Blue Oyster Cult | Searchin' for Celine|SfC
@@ -1092,7 +1092,7 @@ SongTitles|Bob Dylan | Love Minus Zero / No Limit|LMZ/NL
 SongTitles|Bob Dylan | Bob Dylan's 115th Dream|BD1D
 SongTitles|Bob Dylan | Mr. Tambourine Man|MTM
 SongTitles|Bob Dylan | Gates of Eden|GoE
-SongTitles|Bob Dylan | It's Alright Ma (I'm Only Bleeding)|IAM(OB
+SongTitles|Bob Dylan | It's Alright Ma I'm Only Bleeding|IAMIOB
 SongTitles|Bob Dylan | It's All Over Now, Baby Blue|IAONBB
 SongTitles|Bob Dylan | Like a Rolling Stone|LaRS
 SongTitles|Bob Dylan | Ballad of a Thin Man|BoaTM
@@ -1197,8 +1197,8 @@ SongTitles|Bruce Hamana | The Meek Shall Inherit the Earth|TMSItE
 SongTitles|Bruce Hamana | Why Can't I Understand|WCIU
 SongTitles|Bruce Hornsby | The Way It Is|TWII
 SongTitles|Bruce Springsteen | Blinded by the Light|BbtL
-SongTitles|Bruce Springsteen | Rosalita (Come Out Tonight)|R(OT
-SongTitles|Bruce Springsteen | Sandy (4th of July, Asbury Park)|S(oJAP
+SongTitles|Bruce Springsteen | Rosalita Come Out Tonight|RCOT
+SongTitles|Bruce Springsteen | Sandy Fourth of July, Asbury Park|SFoJAP
 SongTitles|Bruce Springsteen | Thunder Road|TR
 SongTitles|Bruce Springsteen | Tenth Avenue Freezeout|TAF
 SongTitles|Bruce Springsteen | Born to Run|BtR
@@ -1224,7 +1224,7 @@ SongTitles|Bryan Adams | Heaven|H
 SongTitles|Bryan Adams | Somebody|S
 SongTitles|Bryan Adams | Summer of 69|So6
 SongTitles|Bryan Adams | Kids Wanna Rock|KWR
-SongTitles|Bryan Adams | (Everything I Do) I Do It For You|(IDIDIFY
+SongTitles|Bryan Adams | Everything I Do I Do It For You|EIDIDIFY
 SongTitles|Bryan Adams | Please Forgive Me|PFM
 SongTitles|Bubbly Puppy | Hot Smoke and Sasafrass|HSaS
 SongTitles|Buckcherry | Lit Up|LU
@@ -1261,7 +1261,7 @@ SongTitles|Carl Perkins | Blue Suede Shoes|BSS
 SongTitles|Carly Simon | You're So Vain|YSV
 SongTitles|Carole King | So Far Away|SFA
 SongTitles|Carole King | It's Too Late|ITL
-SongTitles|Carpenters | (They Long to Be) Close to You|(LtBCtY
+SongTitles|Carpenters |They Long to Be Close to You|TLtBCtY
 SongTitles|Carpenters | Superstar|S
 SongTitles|Cars | Good Times Roll|GTR
 SongTitles|Cars | My Best Friend's Girl|MBFG
@@ -1330,13 +1330,13 @@ SongTitles|Chris De Burgh | Spanish Train|ST
 SongTitles|Chubby Checker | The Twist|TT
 SongTitles|Chuck Berry | Maybellene|M
 SongTitles|Chuck Berry | Roll Over Beethoven|ROB
-SongTitles|Chuck Berry | School Day (Ring! Ring! Goes the Bell)|SD(RGtB
+SongTitles|Chuck Berry | School Day Ring! Ring! Goes the Bell|SDRRGtB
 SongTitles|Chuck Berry | Johnny B. Goode|JBG
 SongTitles|Chuck Berry | No Particular Place to Go|NPPtG
 SongTitles|Chumbawamba | Tubthumping|T
 SongTitles|Cinderella | Shake Me|SM
 SongTitles|Cinderella | Nobody's Fool|NF
-SongTitles|Cinderella | Don't Know What You Got (Till It's Gone)|DKWYG(IG
+SongTitles|Cinderella | Don't Know What You Got Till It's Gone|DKWYGTIG
 SongTitles|Cinderella | Through the Rain|TtR
 SongTitles|Clash | I Fought the Law|IFtL
 SongTitles|Clash | London Calling|LC
@@ -1417,12 +1417,12 @@ SongTitles|Crosby, Stills, Nash & Young | Deja Vu|DV
 SongTitles|Crosby, Stills, Nash & Young | Our House|OH
 SongTitles|Crosby, Stills, Nash & Young | Ohio|O
 SongTitles|Crystals | He's a Rebel|HaR
-SongTitles|Crystals | Da Doo Ron Ron (When He Walked Me Home)|DDRR(HWMH
+SongTitles|Crystals | Da Doo Ron Ron When He Walked Me Home|DDRRWHWMH
 SongTitles|Crystals | Then He Kissed Me|THKM
 SongTitles|Cult | Fire Woman|FW
 SongTitles|Culture Club | Do You Really Want To Hurt Me|DYRWTHM
 SongTitles|Culture Club | Karma Chameleon|KC
-SongTitles|Cutting Crew | (I Just) Died In Your Arms|(JDIYA
+SongTitles|Cutting Crew | I Just Died In Your Arms|IJDIYA
 SongTitles|Damn Yankees | High Enough|HE
 SongTitles|Dan Hill | Sometimes When We Touch|SWWT
 SongTitles|Daniel Boone | Beautiful Sunday|BS
@@ -1439,7 +1439,7 @@ SongTitles|Dave Clark Five | I Like it Like That|ILiLT
 SongTitles|Dave Cortez | The Happy Organ|THO
 SongTitles|Dave Edmunds | I Hear You Knocking|IHYK
 SongTitles|Dave Mason | Only You Know and I Know|OYKaIK
-SongTitles|Dave Mason | All Along the Watchtower (live)|AAtW(
+SongTitles|Dave Mason | All Along the Watchtower|AAtW
 SongTitles|David Bowie | Space Oddity|SO
 SongTitles|David Bowie | All the Madmen|AtM
 SongTitles|David Bowie | Black Country Rock|BCR
@@ -1536,7 +1536,7 @@ SongTitles|Dire Straits | Heavy Fuel|HF
 SongTitles|Dixie Cups | Chapel of Love|CoL
 SongTitles|Dobie Gray | Drift Away|DA
 SongTitles|Dokken | Breaking the Chains|BtC
-SongTitles|Don Felder | Heavy Metal (Takin' a Ride)|HM(aR
+SongTitles|Don Felder | Heavy Metal Takin' a Ride|HMTaR
 SongTitles|Don Henley | Dirty Laundry|DL
 SongTitles|Don Henley | The Boys of Summer|TBoS
 SongTitles|Don Henley | Sunset Grill|SG
@@ -1564,7 +1564,7 @@ SongTitles|Doobie Brothers | Jesus Is Just Alright|JIJA
 SongTitles|Doobie Brothers | Long Train Runnin'|LTR
 SongTitles|Doobie Brothers | China Grove|CG
 SongTitles|Doobie Brothers | Black Water|BW
-SongTitles|Doobie Brothers | Take Me In Your Arms (Rock Me a Little While)|TMIYA(MaLW
+SongTitles|Doobie Brothers | Take Me In Your Arms Rock Me a Little While|TMIYARMaLW
 SongTitles|Doobie Brothers | Takin' It to the Streets|TIttS
 SongTitles|Doobie Brothers | What a Fool Believes|WaFB
 SongTitles|Doors | Break on Through|BoT
@@ -1639,7 +1639,7 @@ SongTitles|Eddy Grant | Electric Avenue|EA
 SongTitles|Edgar Winter Group | Alta Mira|AM
 SongTitles|Edgar Winter Group | Free Ride|FR
 SongTitles|Edgar Winter Group | Frankenstein|F
-SongTitles|Edison Lighthouse | Love Grows (Where My Rosemary Goes)|LG(MRG
+SongTitles|Edison Lighthouse | Love Grows Where My Rosemary Goes|LGWMRG
 SongTitles|Edwin Starr | War|W
 SongTitles|Electric Light Orchestra | 10538 Overture|1O
 SongTitles|Electric Light Orchestra | Showdown|S
@@ -1670,18 +1670,19 @@ SongTitles|Elton John | Border Song|BS
 SongTitles|Elton John | The Cage|TC
 SongTitles|Elton John | Country Comfort|CC
 SongTitles|Elton John | Where to Now St. Peter?|WtNSP
-SongTitles|Elton John | Madman Across the Water (Original)|MAtW(
+SongTitles|Elton John | Madman Across the Water|MAtW
 SongTitles|Elton John | Tiny Dancer|TD
 SongTitles|Elton John | Levon|L
 SongTitles|Elton John | Razor Face|RF
 SongTitles|Elton John | Madman Across the Water|MAtW
 SongTitles|Elton John | Honky Cat|HC
-SongTitles|Elton John | Rocket Man (I Think It's Going to Be a Long, Long Time)|RM(TIGtBaLLT
+SongTitles|Elton John |Rocket man|Rm
+SongTitles|Elton John | Rocket Man I Think It's Going to Be a Long, Long Time|RMITIGtBaLLT
 SongTitles|Elton John | Mona Lisas and Mad Hatters|MLaMH
 SongTitles|Elton John | Daniel|D
 SongTitles|Elton John | Elderberry Wine|EW
 SongTitles|Elton John | Crocodile Rock|CR
-SongTitles|Elton John | Funeral for a Friend (Love Lies Bleeding)|FfaF(LB
+SongTitles|Elton John | Funeral for a Friend Love Lies Bleeding|FfaFLLB
 SongTitles|Elton John | Candle in the Wind|CitW
 SongTitles|Elton John | Bennie and the Jets|BatJ
 SongTitles|Elton John | Goodbye Yellow Brick Road|GYBR
@@ -1697,7 +1698,7 @@ SongTitles|Elton John | I Guess That's Why They Call It the Blues|IGTWTCItB
 SongTitles|Elton John & Kiki Dee | Don't Go Breaking My Heart|DGBMH
 SongTitles|Elvin Bishop | Fooled Around and Fell In Love|FAaFIL
 SongTitles|Elvis Costello | Alison|A
-SongTitles|Elvis Costello | (The Angels Wanna Wear My) Red Shoes|(AWWMRS
+SongTitles|Elvis Costello | The Angels Wanna Wear My Red Shoes|TAWWMRS
 SongTitles|Elvis Costello | Watching the Detectives|WtD
 SongTitles|Elvis Costello | Pump It Up|PIU
 SongTitles|Elvis Costello | Veronica|V
@@ -1742,7 +1743,7 @@ SongTitles|Eric Clapton | Tears in Heaven|TiH
 SongTitles|Eric Johnson | Cliffs of Dover|CoD
 SongTitles|Europe | The Final Countdown|TFC
 SongTitles|Europe | Carrie|C
-SongTitles|Eurythmics | Sweet Dreams (Are Made of This)|SD(MoT
+SongTitles|Eurythmics | Sweet Dreams Are Made of This|SDAMoT
 SongTitles|Everly Brothers | Bye Bye Love|BBL
 SongTitles|Everly Brothers | All I Have to Do Is Dream|AIHtDID
 SongTitles|Everly Brothers | Wake Up Little Suzie|WULS
@@ -1769,7 +1770,7 @@ SongTitles|Fleetwood Mac | Black Magic Woman|BMW
 SongTitles|Fleetwood Mac | Albatross|A
 SongTitles|Fleetwood Mac | Man of the World|MotW
 SongTitles|Fleetwood Mac | Oh Well|OW
-SongTitles|Fleetwood Mac | The Green Manalishi (With the Two Prong Crown)|TGM(tTPC
+SongTitles|Fleetwood Mac | The Green Manalishi|TGM
 SongTitles|Fleetwood Mac | Hypnotized|H
 SongTitles|Fleetwood Mac | Remember Me|RM
 SongTitles|Fleetwood Mac | Monday Morning|MM
@@ -1794,7 +1795,7 @@ SongTitles|Fleetwood Mac | Hold Me|HM
 SongTitles|Fleetwood Mac | Little Lies|LL
 SongTitles|Fleetwoods | Come Softly to Me|CStM
 SongTitles|Fleetwoods | Mr. Blue|MB
-SongTitles|Flock of Seagulls | I Ran (So Far Away)|IR(FA
+SongTitles|Flock of Seagulls | I Ran So Far Away|IRSFA
 SongTitles|FM | Phasors On Stun|POS
 SongTitles|Focus | Hocus Pocus|HP
 SongTitles|Focus | Sylvia|S
@@ -1825,18 +1826,18 @@ SongTitles|Foundations | Build Me Up Buttercup|BMUB
 SongTitles|Four Seasons | Big Girls Don't Cry|BGDC
 SongTitles|Four Seasons | Sherry|S
 SongTitles|Four Seasons | Walk Like a Man|WLaM
-SongTitles|Four Seasons | Dawn (Go Away)|D(A
+SongTitles|Four Seasons | Dawn Go Away|DGA
 SongTitles|Four Seasons | Rag Doll|RD
 SongTitles|Four Seasons | Let's Hang On|LHO
 SongTitles|Four Seasons | Working My Way Back to You|WMWBtY
-SongTitles|Four Seasons | December, 1963 (Oh What a Night)|D1(WaN
+SongTitles|Four Seasons | December, 1963 Oh What a Night|D1OWaN
 SongTitles|Four Tops | I Can't Help Myself|ICHM
 SongTitles|Four Tops | It's the Same Old Song|ItSOS
 SongTitles|Four Tops | Reach out, I'll Be There|RoIBT
 SongTitles|Four Tops | Walk Away Renee|WAR
 SongTitles|Four Tops | Standing in the Shadows of Love|SitSoL
 SongTitles|Frank Sinatra | Love and Marriage|LaM
-SongTitles|Frank Sinatra | (Love Is) The Tender Trap|(ITTT
+SongTitles|Frank Sinatra | Love Is The Tender Trap|LITTT
 SongTitles|Frank Sinatra | Witchcraft|W
 SongTitles|Frank Sinatra | Strangers in the Night|SitN
 SongTitles|Frank Sinatra | Summer Wind|SW
@@ -1853,7 +1854,7 @@ SongTitles|Free | Fire and Water|FaW
 SongTitles|Free | All Right Now|ARN
 SongTitles|Frijid Pink | House of the Rising Sun|HotRS
 SongTitles|Gary Glitter | Rock and Roll Part One|RaRPO
-SongTitles|Gary Glitter | Do You Wanna Touch Me (Oh Yeah)|DYWTM(Y
+SongTitles|Gary Glitter | Do You Wanna Touch Me Oh Yeah|DYWTMOY
 SongTitles|Gary Lewis and the Playboys | Everybody Loves a Clown|ELaC
 SongTitles|Gary Numan | Cars|C
 SongTitles|Gary Puckett and the Union Gap | Young Girl|YG
@@ -1861,7 +1862,7 @@ SongTitles|Gary Wright | Love Is Alive|LIA
 SongTitles|Gary Wright | Dream Weaver|DW
 SongTitles|Gene Chandler | Duke of Earl|DoE
 SongTitles|Genesis | Dancing With the Moonlit Knight|DWtMK
-SongTitles|Genesis | I Know What I Like (In Your Wardrobe)|IKWIL(YW
+SongTitles|Genesis | I Know What I Like In Your Wardrobe|IKWILIYW
 SongTitles|Genesis | More Fool Me|MFM
 SongTitles|Genesis | The Lamb Dies Down on Broadway|TLDDoB
 SongTitles|Genesis | Follow You Follow Me|FYFM
@@ -1894,7 +1895,7 @@ SongTitles|George Harrison | Let It Down|LID
 SongTitles|George Harrison | Beward of Darkness|BoD
 SongTitles|George Harrison | Art of Dying|AoD
 SongTitles|George Harrison | Bangla Desh|BD
-SongTitles|George Harrison | Give Me Love (Give Me Peace on Earth)|GML(MPoE
+SongTitles|George Harrison | Give Me Love Give Me Peace on Earth|GMLGMPoE
 SongTitles|George Harrison | Bye Bye, Love|BBL
 SongTitles|George Harrison | All Those Years Ago|ATYA
 SongTitles|George Harrison | When We Was Fab|WWWF
@@ -1946,7 +1947,7 @@ SongTitles|Grateful Dead | Fire on the Mountain|FotM
 SongTitles|Grateful Dead | Alabama Getaway|AG
 SongTitles|Grateful Dead | Touch of Grey|ToG
 SongTitles|Great White | Once Bitten Twice Shy|OBTS
-SongTitles|Greg Kihn | Breakup Song (They Don't Write 'Em)|BS(DW'
+SongTitles|Greg Kihn | Breakup Song They Don't Write 'Em|BSTDW'
 SongTitles|Greg Kihn | Jeopardy|J
 SongTitles|Groundhogs | Cherry Red|CR
 SongTitles|Guess Who | These Eyes|TE
@@ -1955,7 +1956,7 @@ SongTitles|Guess Who | Laughing|L
 SongTitles|Guess Who | Undun|U
 SongTitles|Guess Who | American Woman|AW
 SongTitles|Guess Who | No Time|NT
-SongTitles|Guess Who | No Sugar Tonight / New Mother Nature|NST/NMN
+SongTitles|Guess Who | No Sugar Tonight  New Mother Nature|NSTNMN
 SongTitles|Guess Who | Bus Rider|BR
 SongTitles|Guess Who | Hand Me Down World|HMDW
 SongTitles|Guess Who | Share the Land|StL
@@ -1975,7 +1976,7 @@ SongTitles|Guns N' Roses | You're Crazy|YC
 SongTitles|Guns N' Roses | One in a Million|OiaM
 SongTitles|Guns N' Roses | Dust N' Bones|DNB
 SongTitles|Guns N' Roses | Live and Let Die|LaLD
-SongTitles|Guns N' Roses | Don't Cry (Original)|DC(
+SongTitles|Guns N' Roses | Don't Cry|DC
 SongTitles|Guns N' Roses | Bad Obsession|BO
 SongTitles|Guns N' Roses | November Rain|NR
 SongTitles|Guns N' Roses | Dead Horse|DH
@@ -1988,7 +1989,6 @@ SongTitles|Guns N' Roses | Pretty Tied Up|PTU
 SongTitles|Guns N' Roses | So Fine|SF
 SongTitles|Guns N' Roses | Estranged|E
 SongTitles|Guns N' Roses | You Could Be Mine|YCBM
-SongTitles|Guns N' Roses | Don't Cry (Alt. Lyrics)|DC(L
 SongTitles|Guns N' Roses | Since I Don't Have You|SIDHY
 SongTitles|Guns N' Roses | Ain't it Fun|AiF
 SongTitles|Guns N' Roses | Better|B
@@ -2026,7 +2026,7 @@ SongTitles|Hollies | I'm Alive|IA
 SongTitles|Hollies | Bus Stop|BS
 SongTitles|Hollies | I Can't Let Go|ICLG
 SongTitles|Hollies | Carrie Anne|CA
-SongTitles|Hollies | Long Cool Woman (In a Black Dress)|LCW(aBD
+SongTitles|Hollies | Long Cool Woman In a Black Dress|LCWIaBD
 SongTitles|Hollies | The Air That I Breathe|TATIB
 SongTitles|Hooters | And We Danced|AWD
 SongTitles|Hooters | All You Zombies|AYZ
@@ -2049,7 +2049,7 @@ SongTitles|Iron Maiden | Hallowed Be Thy Name|HBTN
 SongTitles|Iron Maiden | The Trooper|TT
 SongTitles|Iron Maiden | Aces High|AH
 SongTitles|Iron Maiden | 2 Minutes to Midnight|2MtM
-SongTitles|Iron Maiden | Losfer Words (Big 'Orra)|LW('
+SongTitles|Iron Maiden | Losfer Words Big 'Orra|LWB'
 SongTitles|Iron Maiden | Flash of the Blade|FotB
 SongTitles|Iron Maiden | Moonchild|M
 SongTitles|Iron Maiden | Can I Play With Madness|CIPWM
@@ -2062,7 +2062,7 @@ SongTitles|J. Geils Band | Must of Got Lost|MoGL
 SongTitles|J. Geils Band | Love Stinks|LS
 SongTitles|J. Geils Band | Freeze Frame|FF
 SongTitles|J. Geils Band | Centerfold|C
-SongTitles|Jackie Wilson | (Your Love Keeps Lifting Me) Higher and Higher|(LKLMHaH
+SongTitles|Jackie Wilson |Your Love Keeps Lifting Me Higher and Higher|YLKLMHaH
 SongTitles|Jackson 5 | I Want You Back|IWYB
 SongTitles|Jackson 5 | ABC|A
 SongTitles|Jackson Browne | Doctor My Eyes|DME
@@ -2075,7 +2075,7 @@ SongTitles|Jackson Browne | The Load Out / Stay|TLO/S
 SongTitles|Jackson Browne | Boulevard|B
 SongTitles|Jackson Browne | Somebody's Baby|SB
 SongTitles|Jackson C. Frank | You Never Wanted Me|YNWM
-SongTitles|James Brown | I Got You (I Feel Good)|IGY(FG
+SongTitles|James Brown | I Got You I Feel Good|IGYIFG
 SongTitles|James Brown | Papa's Got a Brand New Bag|PGaBNB
 SongTitles|James Gang | Funk #49|F#
 SongTitles|James Gang | There I Go Again|TIGA
@@ -2157,11 +2157,11 @@ SongTitles|Jimi Hendrix | Little Wing|LW
 SongTitles|Jimi Hendrix | If 6 Was 9|I6W9
 SongTitles|Jimi Hendrix | Castles Made of Sand|CMoS
 SongTitles|Jimi Hendrix | Bold as Love|BaL
-SongTitles|Jimi Hendrix | Have You Ever Been (To Electric Ladyland)|HYEB(EL
+SongTitles|Jimi Hendrix | Have You Ever Been To Electric Ladyland|HYEBTEL
 SongTitles|Jimi Hendrix | Crosstown Traffic|CT
 SongTitles|Jimi Hendrix | The Burning of the Midnight Lamp|TBotML
 SongTitles|Jimi Hendrix | All Along the Watchtower|AAtW
-SongTitles|Jimi Hendrix | Voodoo Child (Slight Return)|VC(R
+SongTitles|Jimi Hendrix | Voodoo Child|VC
 SongTitles|Jimi Hendrix | Stone Free|SF
 SongTitles|Jimi Hendrix | Angel|A
 SongTitles|Jimi Hendrix | Valleys of Neptune|VoN
@@ -2185,7 +2185,7 @@ SongTitles|Joe Jackson | Is She Really Going Out With Him?|ISRGOWH
 SongTitles|Joe Jackson | Throw It Away|TIA
 SongTitles|Joe Jackson | Look Sharp!|LS
 SongTitles|Joe Jackson | Fools In Love|FIL
-SongTitles|Joe Jackson | (Do the) Instant Mash|(tIM
+SongTitles|Joe Jackson |Do the Instant Mash|DtIM
 SongTitles|Joe Jackson | Another World|AW
 SongTitles|Joe Jackson | Steppin' Out|SO
 SongTitles|Joe Walsh | Rocky Mountain Way|RMW
@@ -2206,7 +2206,7 @@ SongTitles|John Lennon | Cold Turkey|CT
 SongTitles|John Lennon & Yoko Ono | Give Peace a Chance|GPaC
 SongTitles|John Lennon | Instant Karma!|IK
 SongTitles|John Lennon | Mother|M
-SongTitles|John Lennon | Hold On (John)|HO(
+SongTitles|John Lennon | Hold On John|HOJ
 SongTitles|John Lennon | I Found Out|IFO
 SongTitles|John Lennon | Working Class Hero|WCH
 SongTitles|John Lennon | Isolation Remember|IR
@@ -2224,17 +2224,17 @@ SongTitles|John Lennon | How?|H
 SongTitles|John Lennon | Oh Yoko!|OY
 SongTitles|John Lennon | Woman is the Nigger of the World|WitNotW
 SongTitles|John Lennon | Mind Games|MG
-SongTitles|John Lennon | One Day (At a Time)|OD(aT
-SongTitles|John Lennon | Bring on the Lucie (Freda People)|BotL(P
+SongTitles|John Lennon | One Day At a Time|ODAaT
+SongTitles|John Lennon | Bring on the Lucie Freda People|BotLFP
 SongTitles|John Lennon | Out the Blue|OtB
 SongTitles|John Lennon | Whatever Gets You Thru the Night|WGYTtN
 SongTitles|John Lennon | #9 Dream|#D
 SongTitles|John Lennon | Stand By Me|SBM
 SongTitles|John Lennon | Ain't That a Shame|ATaS
 SongTitles|John Lennon | Just Because|JB
-SongTitles|John Lennon & Yoko Ono | (Just Like) Starting Over|(LSO
+SongTitles|John Lennon & Yoko Ono | Just Like Starting Over|JLSO
 SongTitles|John Lennon & Yoko Ono | I'm Moving On|IMO
-SongTitles|John Lennon & Yoko Ono | Beautiful Boy (Darling Boy)|BB(B
+SongTitles|John Lennon & Yoko Ono | Beautiful Boy Darling Boy|BBDB
 SongTitles|John Lennon & Yoko Ono | Watching the Wheels|WtW
 SongTitles|John Lennon & Yoko Ono | I'm Stepping Out|ISO
 SongTitles|John Lennon & Yoko Ono | Nobody Told Me|NTM
@@ -2275,8 +2275,8 @@ SongTitles|Journey | Don't Stop Believin'|DSB
 SongTitles|Journey | Stone In Love|SIL
 SongTitles|Journey | Who's Crying Now|WCN
 SongTitles|Journey | Open Arms|OA
-SongTitles|Journey | The Party's Over (Hopelessly In Love)|TPO(IL
-SongTitles|Journey | Seperate Ways (Worlds Apart)|SW(A
+SongTitles|Journey | The Party's Over Hopelessly In Love|TPOHIL
+SongTitles|Journey | Seperate Ways Worlds Apart|SWWA
 SongTitles|Journey | Faithfully|F
 SongTitles|Journey | Only the Young|OtY
 SongTitles|Journey | Where Did I Lose Your Love|WDILYL
@@ -2293,7 +2293,7 @@ SongTitles|Kansas | Carry On Wayward Son|COWS
 SongTitles|Kansas | The Wall|TW
 SongTitles|Kansas | Miracles Out of Nowhere|MOoN
 SongTitles|Kansas | Point of Know Return|PoKR
-SongTitles|Kansas | Portrait (He Knew)|P(K
+SongTitles|Kansas | Portrait He Knew|PHK
 SongTitles|Kansas | Dust in the Wind|DitW
 SongTitles|Kansas | Hold On|HO
 SongTitles|Kansas | Play the Game Tonight|PtGT
@@ -2382,7 +2382,7 @@ SongTitles|Led Zeppelin | Whole Lotta Love|WLL
 SongTitles|Led Zeppelin | What Is and What Should Never Be|WIaWSNB
 SongTitles|Led Zeppelin | The Lemon Song|TLS
 SongTitles|Led Zeppelin | Thank You|TY
-SongTitles|Led Zeppelin | Heartbreaker / Living Loving Maid (She's Just a Woman)|H/LLM(JaW
+SongTitles|Led Zeppelin | Heartbreaker Living Loving Maid She's Just a Woman|HLLMSJaW
 SongTitles|Led Zeppelin | Ramble On|RO
 SongTitles|Led Zeppelin | Hey Hey What Can I Do|HHWCID
 SongTitles|Led Zeppelin | Immigrant Song|IS
@@ -2453,7 +2453,7 @@ SongTitles|Loggins & Messina | Angry Eyes|AE
 SongTitles|Loggins & Messina | Nobody But You|NBY
 SongTitles|Loggins & Messina | Danny's Song|DS
 SongTitles|Loggins & Messina | Watching the River Run|WtRR
-SongTitles|Looking Glass | Brandy (You're a Fine Girl)|B(aFG
+SongTitles|Looking Glass | Brandy You're a Fine Girl|BYaFG
 SongTitles|Lou Reed | Vicious|V
 SongTitles|Lou Reed | Andy's Chest|AC
 SongTitles|Lou Reed | Perfect Day|PD
@@ -2516,7 +2516,7 @@ SongTitles|Martha and the Vandellas | Heat Wave|HW
 SongTitles|Martha and the Vandellas | Dancing in the Street|DitS
 SongTitles|Martha and the Vandellas | Nowhere to Run|NtR
 SongTitles|Marvelettes | Please Mr. Postman|PMP
-SongTitles|Marvin Gaye | How Sweet It Is (To Be Loved By You)|HSII(BLBY
+SongTitles|Marvin Gaye | How Sweet It Is To Be Loved By You|HSIITBLBY
 SongTitles|Marvin Gaye | I Heard It Through the Grapevine|IHITtG
 SongTitles|Marvin Gaye | What's Going On|WGO
 SongTitles|Marvin Gaye | Let's Get It On|LGIO
@@ -2566,7 +2566,7 @@ SongTitles|Montrose | Make It Last|MIL
 SongTitles|Moody Blues | Go Now|GN
 SongTitles|Moody Blues | Thank You Baby|TYB
 SongTitles|Moody Blues | The Morning: Another Morning|TMAM
-SongTitles|Moody Blues | The Afternoon: Forever Afternoon (Tuesday?): (Evening) Time to Get Away|TAFA((TtGA
+SongTitles|Moody Blues | The Afternoon: Forever Afternoon  Tuesday Evening Time to Get Away|TAFATETtGA
 SongTitles|Moody Blues | The Night: Nights In White Satin|TNNIWS
 SongTitles|Moody Blues | Ride My See Saw|RMSS
 SongTitles|Moody Blues | Lovely to See You|LtSY
@@ -2574,7 +2574,7 @@ SongTitles|Moody Blues | Question|Q
 SongTitles|Moody Blues | Melancholy Man|MM
 SongTitles|Moody Blues | The Story In Your Eyes|TSIYE
 SongTitles|Moody Blues | Isn't Life Strange|ILS
-SongTitles|Moody Blues | I'm Just a Singer (in a Rock and Roll Band)|IJaS(aRaRB
+SongTitles|Moody Blues | I'm Just a Singer in a Rock and Roll Band|IJaSiaRaRB
 SongTitles|Moody Blues | Your Wildest Dreams|YWD
 SongTitles|Moody Blues | I Know You're Out There Somewhere|IKYOTS
 SongTitles|Motley Crue | Live Wire|LW
@@ -2647,9 +2647,9 @@ SongTitles|Neil Young | Stupid Girl|SG
 SongTitles|Neil Young | Cortez the Killer|CtK
 SongTitles|Neil Young | Like a Hurricane|LaH
 SongTitles|Neil Young | Comes a Time|CaT
-SongTitles|Neil Young | My My, Hey Hey (Out of the Blue)|MMHH(otB
+SongTitles|Neil Young | My My, Hey Hey Out of the Blue|MMHHOotB
 SongTitles|Neil Young | Sedan Delivery|SD
-SongTitles|Neil Young | Hey Hey, My My (Into the Black)|HHMM(tB
+SongTitles|Neil Young | Hey Hey, My My Into the Black|HHMMItB
 SongTitles|Neil Young | Thrasher|T
 SongTitles|Neil Young | Ride My Llama|RML
 SongTitles|Neil Young | Powderfinger|P
@@ -2695,7 +2695,7 @@ SongTitles|Nirvana | Heart Shaped Box|HSB
 SongTitles|Nirvana | Rape Me|RM
 SongTitles|Nirvana | All Apologies|AA
 SongTitles|Nirvana | About a Girl|AaG
-SongTitles|Nirvana | Pennyroyal Tea (Live)|PT(
+SongTitles|Nirvana | Pennyroyal Tea|PT
 SongTitles|Norman Greenbaum | Spirit in the Sky|SitS
 SongTitles|O' Jays | Back Stabbers|BS
 SongTitles|O' Jays | Love Train|LT
@@ -2709,11 +2709,11 @@ SongTitles|Orleans | Dance With Me|DWM
 SongTitles|Orleans | Still the One|StO
 SongTitles|Otis Redding | Respect|R
 SongTitles|Otis Redding | I've Been Loving You Too Long|IBLYTL
-SongTitles|Otis Redding | (Sittin' On) The Dock of the Bay|(OTDotB
+SongTitles|Otis Redding | Sittin' On The Dock of the Bay|SOTDotB
 SongTitles|Outfield | Your Love|YL
 SongTitles|Outlaws | There Goes Another Love Song|TGALS
 SongTitles|Outlaws | Green Grass & High Tides|GG&HT
-SongTitles|Outlaws | (Ghost) Riders in the Sky|(RitS
+SongTitles|Outlaws | Ghost Riders in the Sky|GRitS
 SongTitles|Ozark Mountain Daredevils | Jackie Blue|JB
 SongTitles|Ozark Mountain Daredevils | If You Want to Get to Heaven|IYWtGtH
 SongTitles|Ozzy Osbourne | I Don't Know|IDK
@@ -2721,7 +2721,7 @@ SongTitles|Ozzy Osbourne | Crazy Train|CT
 SongTitles|Ozzy Osbourne | Goodbye to Romance|GtR
 SongTitles|Ozzy Osbourne | Suicide Solution|SS
 SongTitles|Ozzy Osbourne | Mr. Crowley|MC
-SongTitles|Ozzy Osbourne | Revelation (Mother Earth)|R(E
+SongTitles|Ozzy Osbourne | Revelation Mother Earth|RME
 SongTitles|Ozzy Osbourne | Over the Mountain|OtM
 SongTitles|Ozzy Osbourne | Flying High Again|FHA
 SongTitles|Ozzy Osbourne | You Can't Kill Rock and Roll|YCKRaR
@@ -2743,7 +2743,7 @@ SongTitles|Ozzy Osbourne | I Just Want You|IJWY
 SongTitles|Paris | Black Book|BB
 SongTitles|Paris | Religion|R
 SongTitles|Paris | Nazarene|N
-SongTitles|Paris | Narrow Gate (La porte etroite)|NG(pe
+SongTitles|Paris | Narrow Gate La porte etroite|NGLpe
 SongTitles|Partridge Family | I Think I Love You|ITILY
 SongTitles|Pat Benetar | Heartbreaker|H
 SongTitles|Pat Benetar | Hit Me With Your Best Shot|HMWYBS
@@ -2769,7 +2769,7 @@ SongTitles|Paul McCartney | Long Haired Lady|LHL
 SongTitles|Paul McCartney | The Back Seat of My Car|TBSoMC
 SongTitles|Paul Revere & the Raiders | Sometimes|S
 SongTitles|Paul Revere & the Raiders | Kicks|K
-SongTitles|Paul Revere & the Raiders | Indian Reservation (The Lament of the Cherokee Reservation Indian)|IR(LotCRI
+SongTitles|Paul Revere & the Raiders | Indian Reservation The Lament of the Cherokee Reservation Indian|IRTLotCRI
 SongTitles|Paul Simon | Mother and Child Reunion|MaCR
 SongTitles|Paul Simon | Duncan|D
 SongTitles|Paul Simon | Run That Body Down|RTBD
@@ -2838,22 +2838,23 @@ SongTitles|Pink Floyd | Welcome to the Machine|WttM
 SongTitles|Pink Floyd | Have a Cigar|HaC
 SongTitles|Pink Floyd | Wish You Were Here|WYWH
 SongTitles|Pink Floyd | Dogs|D
-SongTitles|Pink Floyd | Pigs (Three Different Ones)|P(DO
+SongTitles|Pink Floyd | Pigs Three Different Ones|PTDO
 SongTitles|Pink Floyd | Sheep|S
 SongTitles|Pink Floyd | Pigs on the Wing|PotW
 SongTitles|Pink Floyd | In the Flesh?|ItF
-SongTitles|Pink Floyd | Another Brick in the Wall (Part One) / The Happiest Days of Our Lives / Another Brick in the Wall (Part Two)|ABitW(O/THDoOL/ABitW(T
+SongTitles|Pink Floyd | Another Brick in the Wall|ABitW
 SongTitles|Pink Floyd | Mother|M
 SongTitles|Pink Floyd | Goodbye Blues Sky|GBS
 SongTitles|Pink Floyd | Young Lust|YL
-SongTitles|Pink Floyd | Don't Leave Me Now / Another Brick in the Wall (Part Three) / Goodbye Cruel World|DLMN/ABitW(T/GCW
+SongTitles|Pink Floyd | Don't Leave Me Now |DLMN
+SongTitles|Pink Floyd |Goodbye Cruel World|GCW
 SongTitles|Pink Floyd | Hey You|HY
 SongTitles|Pink Floyd | Comfortably Numb|CN
 SongTitles|Pink Floyd | Run Like Hell|RLH
 SongTitles|Pink Floyd | The Trial|TT
 SongTitles|Pink Floyd | On the Turning Away|OtTA
 SongTitles|Pink Floyd | High Hopes|HH
-SongTitles|Platters | Only You (And You Alone)|OY(YA
+SongTitles|Platters | Only You And You Alone|OYAYA
 SongTitles|Platters | Twilight Time|TT
 SongTitles|Player | Baby Come Back|BCB
 SongTitles|Poison | I Want Action|IWA
@@ -2900,7 +2901,7 @@ SongTitles|Primus | John the Fisherman|JtF
 SongTitles|Prince | When Doves Cry|WDC
 SongTitles|Prism | Spaceship Superstar|SS
 SongTitles|Prism | Don't Let Him Know|DLHK
-SongTitles|Proclaimers | I'm Gonna Be (500 Miles)|IGB(M
+SongTitles|Proclaimers | I'm Gonna Be Five hundred Miles|IGBFhM
 SongTitles|Procol Harum | Conquistador|C
 SongTitles|Procol Harum | She Wandered Through the Garden Fence|SWTtGF
 SongTitles|Procol Harum | A Whiter Shade of Pale|AWSoP
@@ -2950,7 +2951,7 @@ SongTitles|Quicksilver Messenger Service | Fresh Air|FA
 SongTitles|Quiet Riot | Metal Health|MH
 SongTitles|Quiet Riot | Cum On Feel the Noize|COFtN
 SongTitles|Quiet Riot | Mama Weer All Crazee Now|MWACN
-SongTitles|R.E.M. | It's the End of the World As We Know It (And I Feel Fine)|ItEotWAWKI(IFF
+SongTitles|R.E.M. | It's the End of the World As We Know It And I Feel Fine|ItEotWAWKIAIFF
 SongTitles|R.E.M. | The One I Love|TOIL
 SongTitles|R.E.M. | Stand|S
 SongTitles|R.E.M. | Orange Crush|OC
@@ -2982,7 +2983,7 @@ SongTitles|Raspberries | Drivin' Around|DA
 SongTitles|Raspberries | Go All the Way|GAtW
 SongTitles|Raspberries | Tonight|T
 SongTitles|Raspberries | Ecstasy|E
-SongTitles|Raspberries | Overnight Sensation (Hit Record)|OS(R
+SongTitles|Raspberries | Overnight Sensation Hit Record|OSHR
 SongTitles|Ratt | Round and Round|RaR
 SongTitles|Ratt | Lay It Down|LID
 SongTitles|Ray Charles | Hit the Road Jack|HtRJ
@@ -2992,7 +2993,7 @@ SongTitles|Red Hot Chili Peppers | Scar Tissue|ST
 SongTitles|Red Hot Chili Peppers | Californication|C
 SongTitles|Red Hot Chili Peppers | The Zephyr Song|TZS
 SongTitles|Red Hot Chili Peppers | Can't Stop|CS
-SongTitles|Red Hot Chili Peppers | Snow ((Hey Oh))|S(O
+SongTitles|Red Hot Chili Peppers | Snow Hey Oh|SHO
 SongTitles|Red Rider | Lunatic Fringe|LF
 SongTitles|Redbone | Come and Get Your Love|CaGYL
 SongTitles|REO Speedwagon | Ridin' the Storm Out|RtSO
@@ -3004,7 +3005,7 @@ SongTitles|REO Speedwagon | Don't Let Him Go|DLHG
 SongTitles|REO Speedwagon | Keep On Loving You|KOLY
 SongTitles|REO Speedwagon | Take It on the Run|TIotR
 SongTitles|REO Speedwagon | Can't Fight This Feeling|CFTF
-SongTitles|Reunion | Life is a Rock (But the Radio Rolled Me)|LiaR(tRRM
+SongTitles|Reunion | Life is a Rock But the Radio Rolled Me|LiaRBtRRM
 SongTitles|Reverend Horton Heat | Psychobilly Freakout|PF
 SongTitles|Rick Derringer | Rock and Roll, Hoochie Koo|RaRHK
 SongTitles|Rick James | Super Freak|SF
@@ -3031,7 +3032,7 @@ SongTitles|Ringo Starr | Goodnight Vienna|GV
 SongTitles|Ritchie Valens | Donna|D
 SongTitles|Ritchie Valens | La Bamba|LB
 SongTitles|Rivieras | California Sun|CS
-SongTitles|Robert Palmer | Bad Case of Loving You (Doctor, Doctor)|BCoLY(D
+SongTitles|Robert Palmer | Bad Case of Loving You Doctor, Doctor|BCoLYDD
 SongTitles|Robert Palmer | Addicted to Love|AtL
 SongTitles|Robert Plant | In the Mood|ItM
 SongTitles|Robert Plant | Big log|Bl
@@ -3041,7 +3042,7 @@ SongTitles|Rod Stewart | An Old Raincoat Won't Ever Let You Down|AORWELYD
 SongTitles|Rod Stewart | Every Picture Tells a Story|EPTaS
 SongTitles|Rod Stewart | Maggie May|MM
 SongTitles|Rod Stewart | Mandolin Wind|MW
-SongTitles|Rod Stewart | (I Know) I'm Losing You|(KILY
+SongTitles|Rod Stewart |I Know I'm Losing You|IKILY
 SongTitles|Rod Stewart | Reason to Believe|RtB
 SongTitles|Rod Stewart | You Wear It Well|YWIW
 SongTitles|Rod Stewart | I'd Rather Go Blind|IRGB
@@ -3090,10 +3091,10 @@ SongTitles|Rolling Stones | Dead Flowers|DF
 SongTitles|Rolling Stones | Moonlight Mile|MM
 SongTitles|Rolling Stones | Tumbling Dice|TD
 SongTitles|Rolling Stones | Happy|H
-SongTitles|Rolling Stones | Doo, Doo, Doo, Doo, Doo (Heartbreaker)|DDDDD(
+SongTitles|Rolling Stones | Doo, Doo, Doo, Doo, Doo Heartbreaker|DDDDDH
 SongTitles|Rolling Stones | Angie|A
 SongTitles|Rolling Stones | Ain't Too Proud to Beg|ATPtB
-SongTitles|Rolling Stones | It's Only Rock 'n Roll (But I Like It)|IOR'R(ILI
+SongTitles|Rolling Stones | It's Only Rock 'n Roll But I Like It|IOR'RBILI
 SongTitles|Rolling Stones | Fool to Cry|FtC
 SongTitles|Rolling Stones | Miss You|MY
 SongTitles|Rolling Stones | When the Whip Comes Down|WtWCD
@@ -3110,7 +3111,7 @@ SongTitles|Rolling Stones | Hang Fire|HF
 SongTitles|Rolling Stones | Slave|S
 SongTitles|Rolling Stones | Waiting on a Friend|WoaF
 SongTitles|Rolling Stones | She Was Hot|SWH
-SongTitles|Rolling Stones | One Hit (to the Body)|OH(tB
+SongTitles|Rolling Stones | One Hit to the Body|OHttB
 SongTitles|Rolling Stones | Harlem Shuffle|HS
 SongTitles|Rolling Stones | Mixed Emotions|ME
 SongTitles|Rolling Stones | Rock and a Hard Place|RaaHP
@@ -3148,7 +3149,7 @@ SongTitles|Sammy Hagar | I've Done Everything for You|IDEfY
 SongTitles|Sammy Hagar | I'll Fall in Love Again|IFiLA
 SongTitles|Sammy Hagar | There's Only One Way to Rock|TOOWtR
 SongTitles|Sammy Hagar | I Can't Drive 55|ICD5
-SongTitles|Sandie Shaw | (There's) Always Something There to Remind Me|(ASTtRM
+SongTitles|Sandie Shaw |There's Always Something There to Remind Me|TASTtRM
 SongTitles|Santana | Evil Ways|EW
 SongTitles|Santana | Jingo|J
 SongTitles|Santana | Soul Sacrifice|SS
@@ -3159,7 +3160,7 @@ SongTitles|Santana | Hope You're Feeling Better|HYFB
 SongTitles|Santana | No One to Depend On|NOtDO
 SongTitles|Santana | Everybody's Everything|EE
 SongTitles|Santana | Song of the Wind|SotW
-SongTitles|Santana | Europa (Earth's Cry Heaven's Smile)|E(CHS
+SongTitles|Santana | Europa Earth's Cry Heaven's Smile|EECHS
 SongTitles|Santana | She's Not There|SNT
 SongTitles|Santana | Winning|W
 SongTitles|Santana | Smooth|S
@@ -3193,8 +3194,8 @@ SongTitles|Simon & Garfunkel | Scarborough Fair, Canticle|SFC
 SongTitles|Simon & Garfunkel | Patterns|P
 SongTitles|Simon & Garfunkel | Homeward Bound|HB
 SongTitles|Simon & Garfunkel | The Big Bright Green Pleasure Machine|TBBGPM
-SongTitles|Simon & Garfunkel | The 59th Street Bridge Song (Feelin' Groovy)|T5SBS(G
-SongTitles|Simon & Garfunkel | A Simple Desultory Philippic (Or How I Was Robert McNamara'd Into Submission)|ASDP(HIWRMIS
+SongTitles|Simon & Garfunkel | The 59th Street Bridge Song Feelin' Groovy|T5SBSFG
+SongTitles|Simon & Garfunkel | A Simple Desultory Philippic Or How I Was Robert McNamara'd Into Submission|ASDPOHIWRMIS
 SongTitles|Simon & Garfunkel | The Sound of Silence|TSoS
 SongTitles|Simon & Garfunkel | We've Got a Groovy Thing Goin'|WGaGTG
 SongTitles|Simon & Garfunkel | I Am a Rock|IAaR
@@ -3202,11 +3203,11 @@ SongTitles|Simon & Garfunkel | Fakin' It|FI
 SongTitles|Simon & Garfunkel | Mrs. Robinson|MR
 SongTitles|Simon & Garfunkel | A Hazy Shade of Winter|AHSoW
 SongTitles|Simon & Garfunkel | At the Zoo|AtZ
-SongTitles|Simon & Garfunkel | El Condor Pasa (If I Could)|ECP(IC
+SongTitles|Simon & Garfunkel | El Condor Pasa If I Could|ECPIIC
 SongTitles|Simon & Garfunkel | Cecelia|C
 SongTitles|Simon & Garfunkel | Keep the Customer Satisfied|KtCS
 SongTitles|Simon & Garfunkel | The Boxer|TB
-SongTitles|Simple Minds | Don't You (Forget About Me)|DY(AM
+SongTitles|Simple Minds | Don't You Forget About Me|DYFAM
 SongTitles|Sister Hazel | All for You|AfY
 SongTitles|Skid Row | 18 and Life|1aL
 SongTitles|Skid Row | Youth Gone Wild|YGW
@@ -3268,14 +3269,14 @@ SongTitles|Steely Dan | Rikki Don't Lose That Number|RDLTN
 SongTitles|Steely Dan | Any Major Dude Will Tell You|AMDWTY
 SongTitles|Steely Dan | Black Friday|BF
 SongTitles|Steely Dan | Bad Sneakers|BS
-SongTitles|Steely Dan | Any World (That I'm Welcome To)|AW(IWT
+SongTitles|Steely Dan | Any World That I'm Welcome To|AWTIWT
 SongTitles|Steely Dan | Kid Charlemagne|KC
 SongTitles|Steely Dan | Don't Take Me Alive|DTMA
 SongTitles|Steely Dan | Black Cow|BC
 SongTitles|Steely Dan | Deacon Blues|DB
 SongTitles|Steely Dan | Peg|P
 SongTitles|Steely Dan | Josie|J
-SongTitles|Steely Dan | F.M. (No Static At All)|F(SAA
+SongTitles|Steely Dan | F.M. No Static At All|FNSAA
 SongTitles|Steely Dan | Hey Nineteen|HN
 SongTitles|Stephen Stills | Love the One You're With|LtOYW
 SongTitles|Steppenwolf | Magic Carpet Ride|MCR
@@ -3283,8 +3284,8 @@ SongTitles|Steppenwolf | Born to Be Wild|BtBW
 SongTitles|Steppenwolf | The Pusher|TP
 SongTitles|Steppenwolf | It's Never Too Late|INTL
 SongTitles|Steppenwolf | Rock Me|RM
-SongTitles|Steppenwolf | Monster / Suicide / America|M/S/A
-SongTitles|Steve Miller Band | Living in the U.S.A.|LitU
+SongTitles|Steppenwolf | Monster  Suicide  America|MSA
+SongTitles|Steve Miller Band | Living in the U. S. A.|LitUSA
 SongTitles|Steve Miller Band | Space Cowboy|SC
 SongTitles|Steve Miller Band | Sugar Babe|SB
 SongTitles|Steve Miller Band | Mary Lou|ML
@@ -3338,13 +3339,13 @@ SongTitles|Styx | Lorelei|L
 SongTitles|Styx | Suite Madame Blue|SMB
 SongTitles|Styx | Crystal Ball|CB
 SongTitles|Styx | Grand Illusion|GI
-SongTitles|Styx | Fooling Yourself (The Angry Young Man)|FY(AYM
+SongTitles|Styx | Fooling Yourself The Angry Young Man|FYTAYM
 SongTitles|Styx | Superstars|S
 SongTitles|Styx | Come Sail Away|CSA
 SongTitles|Styx | Miss America|MA
 SongTitles|Styx | Man in the Wilderness|MitW
 SongTitles|Styx | Castle Walls|CW
-SongTitles|Styx | Blue Collar Man (Long Nights)|BCM(N
+SongTitles|Styx | Blue Collar Man Long Nights|BCMLN
 SongTitles|Styx | Renegade|R
 SongTitles|Styx | Babe|B
 SongTitles|Styx | Boat on the River|BotR
@@ -3405,7 +3406,7 @@ SongTitles|T. Rex | Mambo Sun|MS
 SongTitles|T. Rex | Cosmic Dancer|CD
 SongTitles|T. Rex | Jeepster|J
 SongTitles|T. Rex | Monolith|M
-SongTitles|T. Rex | Band a Gong (Get it On)|BaG(iO
+SongTitles|T. Rex | Band a Gong Get it On|BaGGiO
 SongTitles|T. Rex | Planet Queen|PQ
 SongTitles|T. Rex | The Motivator|TM
 SongTitles|T. Rex | Life's a Gas|LaG
@@ -3436,14 +3437,14 @@ SongTitles|Talking Heads | Don't Worry About the Government|DWAtG
 SongTitles|Talking Heads | Psycho Killer|PK
 SongTitles|Talking Heads | Pulled Up|PU
 SongTitles|Talking Heads | Take Me to the River|TMttR
-SongTitles|Talking Heads | Born Under Punches (The Heat Goes On)|BUP(HGO
+SongTitles|Talking Heads | Born Under Punches The Heat Goes On|BUPTHGO
 SongTitles|Talking Heads | Once in a Lifetime|OiaL
 SongTitles|Talking Heads | Burning Down the House|BDtH
 SongTitles|Talking Heads | And She Was|ASW
 SongTitles|Talking Heads | Wild Wild Life|WWL
 SongTitles|Tears for Fears | Shout|S
 SongTitles|Tears for Fears | Everybody Wants to Rule the World|EWtRtW
-SongTitles|Tears for Fears | Head Over Heels / Broken|HOH/B
+SongTitles|Tears for Fears | Head Over Heels  Broken|HOHB
 SongTitles|Ted Nugent | Stranglehold|S
 SongTitles|Ted Nugent | Hey Baby|HB
 SongTitles|Ted Nugent |Free For All|FFA
@@ -3477,14 +3478,14 @@ SongTitles|Thin Lizzy | Romeo and the Lonely Girl|RatLG
 SongTitles|Thin Lizzy | The Boys Are Back in Town|TBABiT
 SongTitles|Thin Lizzy | Bad Reputation|BR
 SongTitles|Thin Lizzy | Opium Trail|OT
-SongTitles|Thin Lizzy | Dancing in the Moonlight (It's Caught Me in it's Spotlight)|DitM(CMiiS
+SongTitles|Thin Lizzy | Dancing in the Moonlight It's Caught Me in it's Spotlight|DitMICMiiS
 SongTitles|Thin Lizzy | That Woman's Gonna Break Your Heart|TWGBYH
 SongTitles|Third Eye Blind | Semi Charmed Life|SCL
 SongTitles|Third Eye Blind | Jumper|J
 SongTitles|Third Eye Blind | Never Let You Go|NLYG
 SongTitles|Thomas Dolby | She Blinded Me With Science|SBMWS
 SongTitles|Three Dog Night | One|O
-SongTitles|Three Dog Night | Mama Told Me (Not to Come)|MTM(tC
+SongTitles|Three Dog Night | Mama Told Me Not to Come|MTMNtC
 SongTitles|Three Dog Night | One Man Band|OMB
 SongTitles|Three Dog Night | Liar|L
 SongTitles|Three Dog Night | Joy to the World|JttW
@@ -3510,10 +3511,10 @@ SongTitles|Tom Petty & the Heartbreakers | Listen to Her Heart|LtHH
 SongTitles|Tom Petty & the Heartbreakers | Refugee|R
 SongTitles|Tom Petty & the Heartbreakers | Here Comes My Girl|HCMG
 SongTitles|Tom Petty & the Heartbreakers | Even the Losers|EtL
-SongTitles|Tom Petty & the Heartbreakers | Shadow of a Doubt (Complex Kid)|SoaD(K
+SongTitles|Tom Petty & the Heartbreakers | Shadow of a Doubt Complex Kid|SoaDCK
 SongTitles|Tom Petty & the Heartbreakers | Don't Do Me Like That|DDMLT
 SongTitles|Tom Petty & the Heartbreakers | The Waiting|TW
-SongTitles|Tom Petty & the Heartbreakers | A Woman in Love (It's Not Me)|AWiL(NM
+SongTitles|Tom Petty & the Heartbreakers | A Woman in Love It's Not Me|AWiLINM
 SongTitles|Tom Petty & the Heartbreakers | You Got Lucky|YGL
 SongTitles|Tom Petty & the Heartbreakers | Rebels|R
 SongTitles|Tom Petty & the Heartbreakers | Don't Come Around Here No More|DCAHNM
@@ -3528,7 +3529,7 @@ SongTitles|Tom Petty | Wildflowers|W
 SongTitles|Tom Petty | You Don't Know How It Feels|YDKHIF
 SongTitles|Tom Petty | You Wreck Me|YWM
 SongTitles|Tommy James & the Shondells | Hanky Panky|HP
-SongTitles|Tommy James & the Shondells | Say I Am (What I Am)|SIA(IA
+SongTitles|Tommy James & the Shondells | Say I Am What I Am|SIAWIA
 SongTitles|Tommy James & the Shondells | I Think We're Alone Now|ITWAN
 SongTitles|Tommy James & the Shondells | Mony Mony|MM
 SongTitles|Tommy James & the Shondells | Crimson and Clover|CaC
@@ -3565,13 +3566,13 @@ SongTitles|Troggs | Love is All Around|LiAA
 SongTitles|Tubes | She's a Beauty|SaB
 SongTitles|Turtles | Let Me Be|LMB
 SongTitles|Turtles | Happy Together|HT
-SongTitles|Twisted Sister | I Am (I'm Me)|IA(M
+SongTitles|Twisted Sister | I Am I'm Me|IAIM
 SongTitles|Twisted Sister | We're Not Gonna Take It|WNGTI
 SongTitles|Twisted Sister | I Wanna Rock|IWR
 SongTitles|U2 | I Will Follow|IWF
 SongTitles|U2 | Sunday Bloody Sunday|SBS
 SongTitles|U2 | New Year's Day|NYD
-SongTitles|U2 | Pride (In the Name of Love)|P(tNoL
+SongTitles|U2 | Pride In the Name of Love|PItNoL
 SongTitles|U2 | Where the Streets Have No Name|WtSHNN
 SongTitles|U2 | I Still Haven't Found What I'm Looking For|ISHFWILF
 SongTitles|U2 | With or Without You|WoWY
@@ -3608,7 +3609,7 @@ SongTitles|Van Halen | Everybody Wants Some!!|EWS
 SongTitles|Van Halen | Unchained|U
 SongTitles|Van Halen | Push Comes to Shove|PCtS
 SongTitles|Van Halen | So This is Love?|STiL
-SongTitles|Van Halen | (Oh) Pretty Woman|(PW
+SongTitles|Van Halen | Oh Pretty Woman|OPW
 SongTitles|Van Halen | Dancing in the Street|DitS
 SongTitles|Van Halen | Jump|J
 SongTitles|Van Halen | Panama|P
@@ -3635,7 +3636,7 @@ SongTitles|Van Morrison | Caravan|C
 SongTitles|Van Morrison | Into the Mystic|ItM
 SongTitles|Van Morrison | Wild Night|WN
 SongTitles|Van Morrison | Tupelo Honey|TH
-SongTitles|Van Morrison | Jackie Wilson Said (I'm in Heaven When You Smile)|JWS(iHWYS
+SongTitles|Van Morrison | Jackie Wilson Said I'm in Heaven When You Smile|JWSIiHWYS
 SongTitles|Vanilla Fudge | You Keep Me Hanging On|YKMHO
 SongTitles|Vanity Fare | Hitchin' a Ride|HaR
 SongTitles|Vapors | Turning Japanese|TJ
@@ -3882,17 +3883,17 @@ SongTitles|Michael Jackson|Happy|H
 SongTitles|Michael Jackson|Heal the World|HtW
 SongTitles|Michael Jackson|Heartbreaker|H
 SongTitles|Michael Jackson|Heaven Can Wait|HCW
-SongTitles|Michael Jackson|Here I Am (Come and Take Me)|HIA(aTM
+SongTitles|Michael Jackson|Here I Am Come and Take Me|HIACaTM
 SongTitles|Michael Jackson|HIStory|H
 SongTitles|Michael Jackson|Hold My Hand|HMH
 SongTitles|Michael Jackson|Hollywood Tonight|HT
 SongTitles|Michael Jackson|Human Nature|HN
 SongTitles|Michael Jackson|I Can't Help It|ICHI
-SongTitles|Michael Jackson|(I Can't Make It) Another Day|(CMIAD
+SongTitles|Michael Jackson|I Can't Make It Another Day|ICMIAD
 SongTitles|Michael Jackson|I Hear a Symphony|IHaS
 SongTitles|Michael Jackson|I Just Can't Stop Loving You|IJCSLY
-SongTitles|Michael Jackson|(I Like) The Way You Love Me|(LTWYLM
-SongTitles|Michael Jackson|I Like You the Way You Are (Don't Change Your Love on Me)|ILYtWYA(CYLoM
+SongTitles|Michael Jackson|I Like The Way You Love Me|ILTWYLM
+SongTitles|Michael Jackson|I Like You the Way You Are Don't Change Your Love on Me|ILYtWYADCYLoM
 SongTitles|Michael Jackson|I Need You|INY
 SongTitles|Michael Jackson|I Wanna Be Where You Are|IWBWYA
 SongTitles|Michael Jackson|I Was Made to Love Her|IWMtLH
@@ -3921,7 +3922,7 @@ SongTitles|Michael Jackson|Love Never Felt So Good|LNFSG
 SongTitles|Michael Jackson|Love's Gone Bad|LGB
 SongTitles|Michael Jackson|Loving You|LY
 SongTitles|Michael Jackson|Man in the Mirror|MitM
-SongTitles|Michael Jackson|Maria (You Were the Only One)|M(WtOO
+SongTitles|Michael Jackson|Maria You Were the Only One|MYWtOO
 SongTitles|Michael Jackson|Melodie|M
 SongTitles|Michael Jackson|Mind Is the Magic|MItM
 SongTitles|Michael Jackson|Money|M
@@ -3938,8 +3939,7 @@ SongTitles|Michael Jackson|Off the Wall|OtW
 SongTitles|Michael Jackson|On the Line|OtL
 SongTitles|Michael Jackson|One Day in Your Life|ODiYL
 SongTitles|Michael Jackson|One More Chance|OMC
-SongTitles|Michael Jackson|P.Y.T. (Pretty Young Thing)|P(YT
-SongTitles|Michael Jackson|P.Y.T. (Pretty Young Thing) 2008|P(YT2
+SongTitles|Michael Jackson|Pretty Young Thing|PYT
 SongTitles|Michael Jackson|People Make the World Go 'Round|PMtWG'
 SongTitles|Michael Jackson|Planet Earth|PE
 SongTitles|Michael Jackson|Price of Fame|PoF
@@ -3972,7 +3972,7 @@ SongTitles|Michael Jackson|Superfly Sister|SS
 SongTitles|Michael Jackson|Tabloid Junkie|TJ
 SongTitles|Michael Jackson|Take Me Back|TMB
 SongTitles|Michael Jackson|Teenage Symphony|TS
-SongTitles|Michael Jackson|Tell Me I'm Not Dreamin' (Too Good to Be True)|TMIND(GtBT
+SongTitles|Michael Jackson|Tell Me I'm Not Dreamin' Too Good to Be True|TMINDTGtBT
 SongTitles|Michael Jackson|That's What Love Is Made Of|TWLIMO
 SongTitles|Michael Jackson|The Girl Is Mine|TGIM
 SongTitles|Michael Jackson|The Girl Is Mine 2008|TGIM2
@@ -4096,7 +4096,7 @@ SongTitles|Jess J|Mamma Knows Best|MKB
 SongTitles|Jess J|Nobody's Perfect|NP
 SongTitles|Jess J|Price Tag|PT
 SongTitles|Jess J|Sexy Lady|SL
-SongTitles|Jess J|Silver Lining (Crazy Bout You)|SL(BY
+SongTitles|Jess J|Silver Lining Crazy Bout You|SLCBY
 SongTitles|Jess J|Stand Up|SU
 SongTitles|Jess J|Sweet Talker|ST
 SongTitles|Jess J|Who You Are|WYA
@@ -4300,7 +4300,7 @@ SongTitles|Adele|One and Only|OaO
 SongTitles|Adele|River Lea|RL
 SongTitles|Adele|Rolling In The Deep|RITD
 SongTitles|Adele|Rumour Has It|RHI
-SongTitles|Adele|Send My Love (To Your Lover)|SML(YL
+SongTitles|Adele|Send My Love To Your Lover|SMLTYL
 SongTitles|Adele|Set Fire to the Rain|SFttR
 SongTitles|Adele|Someone Like You|SLY
 SongTitles|Adele|Sweetest Devotion|SD
@@ -4463,7 +4463,7 @@ SongTitles|One Direction|Never Enough|NE
 SongTitles|One Direction|Night Changes|NC
 SongTitles|One Direction|No Control|NC
 SongTitles|One Direction|One Thing|OT
-SongTitles|One Direction|One Way Or Another (Teenage Kicks)|OWOA(K
+SongTitles|One Direction|One Way Or Another Teenage Kicks|OWOATK
 SongTitles|One Direction|Over Again|OA
 SongTitles|One Direction|Ready To Run|RTR
 SongTitles|One Direction|Right Now|RN
@@ -4637,7 +4637,7 @@ SongTitles|Counting Crows|Butterfly In Reverse|BIR
 SongTitles|Counting Crows|Colorblind|C
 SongTitles|Counting Crows|Come Around|CA
 SongTitles|Counting Crows|Earthquake Driver|ED
-SongTitles|Counting Crows|Einstein On The Beach (For An Eggman)|EOTB(AE
+SongTitles|Counting Crows|Einstein On The Beach For An Eggman|EOTBFAE
 SongTitles|Counting Crows|God of Ocean Tide|GoOT
 SongTitles|Counting Crows|Goodnight Elisabeth|GE
 SongTitles|Counting Crows|Hanging Tree|HT
@@ -5104,3 +5104,113 @@ SongTitles|Coldplay|Warning Sign|WS
 SongTitles|Coldplay|We Never Change|WNC
 SongTitles|Coldplay|White Shadows|WS
 SongTitles|Coldplay|X Marks the Spot|XMtS
+SongTitles|Blur|Coffee and TV|CaT
+SongTitles|Blur|Country House|CH
+SongTitles|Blur|Crazy Beat|CB
+SongTitles|Blur|For Tomorrow|FT
+SongTitles|Blur|Ghost Ship|GS
+SongTitles|Blur|Girls And Boys|GAB
+SongTitles|Blur|Go Out|GO
+SongTitles|Blur|I Broadcast|IB
+SongTitles|Blur|Ice Cream Man|ICM
+SongTitles|Blur|Lonesome Street|LS
+SongTitles|Blur|Mirror Ball|MB
+SongTitles|Blur|Miss America|MA
+SongTitles|Blur|My Terracotta Heart|MTH
+SongTitles|Blur|New World Towers|NWT
+SongTitles|Blur|No Distance Left To Run|NDLTR
+SongTitles|Blur|Ong Ong|OO
+SongTitles|Blur|Out Of Time|OOT
+SongTitles|Blur|Song 2|S2
+SongTitles|Blur|The Puritan|TP
+SongTitles|Blur|The Universal|TU
+SongTitles|Blur|There Are Too Many of Us|TATMoU
+SongTitles|Blur|There's No Other Way|TNOW
+SongTitles|Blur|This Is A Low|TIAL
+SongTitles|Blur|Thought I Was a Spaceman|TIWaS
+SongTitles|Blur|Under the Westway|UtW
+SongTitles|Blur|You're So Great|YSG
+SongTitles|Grace|You Don't Own Me|YDOM
+SongTitles|Metallica|Anesthesia Pulling Teeth|APT
+SongTitles|Metallica|And Justice For All|AJFA
+SongTitles|Metallica|All Nightmare Long|ANL
+SongTitles|Metallica|Better Than You|BTY
+SongTitles|Metallica|Bleeding Me|BM
+SongTitles|Metallica|Broken, Beat & Scarred|BB&S
+SongTitles|Metallica|Carpe Diem Baby|CDB
+SongTitles|Metallica|Creeping Death|CD
+SongTitles|Metallica|Dirty Window|DW
+SongTitles|Metallica|Disposable Heroes|DH
+SongTitles|Metallica|Don't Tread On Me|DTOM
+SongTitles|Metallica|Dyers Eve|DE
+SongTitles|Metallica|Enter Sandman|ES
+SongTitles|Metallica|Eye Of The Beholder|EOTB
+SongTitles|Metallica|Fade To Black|FTB
+SongTitles|Metallica|Fight Fire With Fire|FFWF
+SongTitles|Metallica|For Whom The Bell Tolls|FWTBT
+SongTitles|Metallica|Harvester Of Sorrow|HOS
+SongTitles|Metallica|Hero Of The Day|HOTD
+SongTitles|Metallica|Hit The Lights|HTL
+SongTitles|Metallica|Holier Than Thou|HTT
+SongTitles|Metallica|I Disappear|ID
+SongTitles|Metallica|Jump in the Fire|JitF
+SongTitles|Metallica|King Nothing|KN
+SongTitles|Metallica|Leper Messiah|LM
+SongTitles|Metallica|Lords of Summer|LoS
+SongTitles|Metallica|Low Man's Lyric|LML
+SongTitles|Metallica|Mama Said|MS
+SongTitles|Metallica|Master Of Puppets|MOP
+SongTitles|Metallica|Motorbreath|M
+SongTitles|Metallica|My Friend Of Misery|MFOM
+SongTitles|Metallica|No Leaf Clover|NLC
+SongTitles|Metallica|Nothing Else Matters|NEM
+SongTitles|Metallica|Of Wolf And Man|OWAM
+SongTitles|Metallica|Ride The Lightning|RTL
+SongTitles|Metallica|Sad But True|SBT
+SongTitles|Metallica|Seek and Destroy|SaD
+SongTitles|Metallica|Shoot Me Again|SMA
+SongTitles|Metallica|Some Kind of Monster|SKoM
+SongTitles|Metallica|St. Anger|SA
+SongTitles|Metallica|Sweet Amber|SA
+SongTitles|Metallica|The Call Of Ktulu|TCOK
+SongTitles|Metallica|The Day That Never Comes|TDTNC
+SongTitles|Metallica|The Ecstasy Of Gold|TEOG
+SongTitles|Metallica|The End of the Line|TEotL
+SongTitles|Metallica|The Four Horsemen|TFH
+SongTitles|Metallica|The Frayed End Of Sanity|TFEOS
+SongTitles|Metallica|The God That Failed|TGTF
+SongTitles|Metallica|The House Jack Built|THJB
+SongTitles|Metallica|The Memory Remains|TMR
+SongTitles|Metallica|The Outlaw Torn|TOT
+SongTitles|Metallica|The Struggle Within|TSW
+SongTitles|Metallica|The Thing That Should Not Be|TTTSNB
+SongTitles|Metallica|The Unforgiven|TU
+SongTitles|Metallica|The Unforgiven II|TUI
+SongTitles|Metallica|The Unforgiven III|TUI
+SongTitles|Metallica|The Unnamed Feeling|TUF
+SongTitles|Metallica|Through The Never|TTN
+SongTitles|Metallica|To Live Is To Die|TLITD
+SongTitles|Metallica|Trapped Under Ice|TUI
+SongTitles|Metallica|Until It Sleeps|UIS
+SongTitles|Metallica|Wasting My Hate|WMH
+SongTitles|Metallica|Welcome Home Sanitarium|WHS
+SongTitles|Metallica|Wherever I May Roam|WIMR
+SongTitles|MotorHead|We Are The Road Crew|WATRC
+SongTitles|MotorHead|Ace of Spades|AoS
+SongTitles|MotorHead|Angel City|AC
+SongTitles|MotorHead|Dead And Gone|DAG
+SongTitles|MotorHead|Dead Men Tell No Tales|DMTNT
+SongTitles|MotorHead|I Am The Sword|IATS
+SongTitles|MotorHead|Joy of Labour|JoL
+SongTitles|MotorHead|King of Kings|KoK
+SongTitles|MotorHead|The Game|TG
+SongTitles|Rita Ora|Body On Me|BOM
+SongTitles|Rita Ora|Face me lt|Fml
+SongTitles|Rita Ora|Fall In Love|FIL
+SongTitles|Rita Ora|How We Do Party|HWDP
+SongTitles|Rita Ora|I Will Never Let You Down|IWNLYD
+SongTitles|Rita Ora|Love & War|L&W
+SongTitles|Rita Ora|R. I. P.|RIP
+SongTitles|Rita Ora|Roc The Life|RTL
+SongTitles|Rita Ora|Shine Ya Light|SYL
+SongTitles|Rita Ora|Young, Sexy and Single|YSaS
