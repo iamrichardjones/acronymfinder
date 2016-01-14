@@ -21,3 +21,16 @@ jar {
     }
 }
 
+/* Im using IntelliJ 13.1.6 and have problems with running the program
+ * from the IDE due to classpath issues. It seems to be a bug in IntelliJ.
+ * See https://code.google.com/p/android/issues/detail?id=64887
+ * and http://stackoverflow.com/questions/25513788/intellij-cant-find-classpath-test-resource
+ *
+ * If you are not using IntelliJ you may not need the below lines
+ */
+//
+task copyResourcesIntelliJHack(type: Copy) {
+    from "${projectDir}/src/main/resources"
+    into "${buildDir}/classes/main"
+}
+processResources.dependsOn copyResourcesIntelliJHack
