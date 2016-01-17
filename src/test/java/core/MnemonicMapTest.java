@@ -1,6 +1,7 @@
 package core;
 
 import org.junit.Test;
+import utils.Utils;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -19,7 +20,7 @@ public class MnemonicMapTest {
         mnemonicMap.add(new MatchingMnemonic("bac", "banana apple cherry"));
 
         assertEquals(1, mnemonicMap.getMap().size());
-        List<String> next1 = new ArrayList<>();
+        List<String> next1 = new ArrayList<String>();
         next1.addAll(mnemonicMap.getMap().keySet());
 
         assertEquals(next1.toString(), "ABC", next1.get(0));
