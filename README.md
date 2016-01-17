@@ -53,7 +53,9 @@ Several ways
 5. Run the bat or shell file (eg MnemonicRevisionHelper.bat)
 
 ### Translations:
-Thanks to Sabine Reisinger for the German translation
+Many thanks to: 
+* Sabine Reisinger for the German translation
+* [Martin Spasov](https://github.com/MartinYSpasov) for the Bulgarian translation
 
 ### TODO:
 * finish I18N and test
