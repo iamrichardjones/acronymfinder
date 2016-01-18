@@ -56,6 +56,7 @@ Several ways
 Many thanks to: 
 * Sabine Reisinger for the German translation
 * [Martin Spasov](https://github.com/MartinYSpasov) for the Bulgarian translation
+* Debbie Cooke for the Spanish translation
 
 ### TODO:
 * finish I18N and test
