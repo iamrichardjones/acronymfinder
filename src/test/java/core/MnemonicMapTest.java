@@ -31,10 +31,39 @@ public class MnemonicMapTest {
 
         List<MatchingMnemonic> next = values.iterator().next();
         assertEquals(1, next.size());
-        assertEquals("bac", next.get(0).getMnemonic());
-        assertEquals("banana apple cherry", next.get(0).getDetail().getExpandedMnemonic());
-        assertEquals(Utils.UNKNOWN_STRING, next.get(0).getDetail().getOrigin());
-        assertEquals(Utils.UNKNOWN_STRING, next.get(0).getDetail().getCategory());
+
+        MatchingMnemonic matchingMnemonic = next.get(0);
+        assertEquals("bac", matchingMnemonic.getMnemonic());
+        assertEquals("banana apple cherry", matchingMnemonic.getDetail().getExpandedMnemonic());
+        assertEquals(Utils.UNKNOWN_STRING, matchingMnemonic.getDetail().getOrigin());
+        assertEquals(Utils.UNKNOWN_STRING, matchingMnemonic.getDetail().getCategory());
+    }
+
+    @Test
+    public void testAddToMap_MatchingMnemonicDetailCtor() {
+        MnemonicMap mnemonicMap = new MnemonicMap();
+        assertEquals(0, mnemonicMap.getMap().size());
+
+        mnemonicMap.add(new MatchingMnemonic("bat", new MatchingMnemonicDetail("banana apple tomato", "MyOrigin", "MyCategory")));
+
+        assertEquals(1, mnemonicMap.getMap().size());
+
+        List<String> list = new ArrayList<String>();
+        list.addAll(mnemonicMap.getMap().keySet());
+
+        assertEquals("Should be upper case and ordered alphabetically", "ABT", list.get(0));
+
+        Collection<List<MatchingMnemonic>> values = mnemonicMap.getMap().values();
+        assertEquals(1, values.size());
+
+        List<MatchingMnemonic> next = values.iterator().next();
+        assertEquals(1, next.size());
+
+        MatchingMnemonic matchingMnemonic = next.get(0);
+        assertEquals("bat", matchingMnemonic.getMnemonic());
+        assertEquals("banana apple tomato", matchingMnemonic.getDetail().getExpandedMnemonic());
+        assertEquals("MyOrigin", matchingMnemonic.getDetail().getOrigin());
+        assertEquals("MyCategory", matchingMnemonic.getDetail().getCategory());
     }
 
     @Test
