@@ -31,7 +31,7 @@ And I could not do a project on mnemonics without referencing [xkcd](https://xkc
 2. Run _gradle clean build_
  
 ### How to run
-Several ways
+Several ways...
 
 #### Method1
 1. Clone repository
