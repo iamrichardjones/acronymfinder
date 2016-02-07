@@ -62,4 +62,4 @@ Many thanks to:
 * Add more Mnemonics  (on-going) - Currently over 500 Slogans and 5200 Songs
 
 ### Legal Bit
-All data used in this project is sourced from the internet. I take no responsibility for any errors. Please let me know if there are problems or if any bits should be removed.
+All data used in this project is sourced from the internet. I take no responsibility for any errors. Please let me know if there are problems or if any bits should be removed. LICENCE.txt contains the MIT Licence
