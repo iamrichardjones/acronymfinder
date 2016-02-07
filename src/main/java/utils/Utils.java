@@ -10,6 +10,8 @@ public class Utils {
 
     public static final Integer DEFAULT_COLUMN_LENGTH = 30;
 
+    public static final String NEW_LINE = System.lineSeparator();
+
     public static String fixedLengthString(String string, int length) {
         if (string.length() > length) {
             return string;
