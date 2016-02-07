@@ -38,7 +38,6 @@ public class MatchingMnemonic {
             if (!detail.equals(that.detail)) return false;
         }
 
-
         return true;
     }
 
