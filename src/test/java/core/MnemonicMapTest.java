@@ -13,7 +13,7 @@ import static org.junit.Assert.assertNotNull;
 public class MnemonicMapTest {
 
     @Test
-    public void testAddToMap() {
+    public void testAddToMap_SimpleCtor() {
         MnemonicMap mnemonicMap = new MnemonicMap();
         assertEquals(0, mnemonicMap.getMap().size());
 
@@ -34,6 +34,7 @@ public class MnemonicMapTest {
         assertEquals("bac", next.get(0).getMnemonic());
         assertEquals("banana apple cherry", next.get(0).getDetail().getExpandedMnemonic());
         assertEquals(Utils.UNKNOWN_STRING, next.get(0).getDetail().getOrigin());
+        assertEquals(Utils.UNKNOWN_STRING, next.get(0).getDetail().getCategory());
     }
 
     @Test
