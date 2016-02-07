@@ -28,7 +28,7 @@ And I could not do a project on mnemonics without referencing [xkcd](https://xkc
 
 ### How to build
 1. Clone repository
-2. Run gradle clean build
+2. Run _gradle clean build_
  
 ### How to run
 Several ways
@@ -59,7 +59,6 @@ Many thanks to:
 * Debbie Cooke for the Spanish translation
 
 ### TODO:
-* finish I18N and test
 * Add more Mnemonics  (on-going) - Currently over 500 Slogans and 5200 Songs
 
 ### Legal Bit
