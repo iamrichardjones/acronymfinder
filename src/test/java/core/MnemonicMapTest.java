@@ -20,12 +20,15 @@ public class MnemonicMapTest {
         mnemonicMap.add(new MatchingMnemonic("bac", "banana apple cherry"));
 
         assertEquals(1, mnemonicMap.getMap().size());
-        List<String> next1 = new ArrayList<String>();
-        next1.addAll(mnemonicMap.getMap().keySet());
 
-        assertEquals(next1.toString(), "ABC", next1.get(0));
+        List<String> list = new ArrayList<String>();
+        list.addAll(mnemonicMap.getMap().keySet());
+
+        assertEquals("Should be upper case and ordered alphabetically", "ABC", list.get(0));
+
         Collection<List<MatchingMnemonic>> values = mnemonicMap.getMap().values();
         assertEquals(1, values.size());
+
         List<MatchingMnemonic> next = values.iterator().next();
         assertEquals(1, next.size());
         assertEquals("bac", next.get(0).getMnemonic());
